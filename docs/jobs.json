@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T16:46Z",
+ "updated": "2026-10-21T16:48Z",
  "count": 354,
  "companies": [
   "Absci",
@@ -1164,6 +1164,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "gh-6221940004",
+   "title": "Staff Machine Learning and Bioinformatics Scientist (Multi-Cancer Early Detection)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6221940004",
+   "posted": "2026-10-09",
+   "tags": [],
+   "exp_years": 6,
+   "exp_text": "…lated quantitative field with 6-12 years of experience post-PhD",
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "gh-6220885004",
    "title": "Staff Machine Learning and Bioinformatics Scientist (Multi-Cancer Early Detection)",
    "company": "Natera",
@@ -1174,19 +1187,6 @@
    "tags": [
     "Remote"
    ],
-   "exp_years": 6,
-   "exp_text": "…lated quantitative field with 6-12 years of experience post-PhD",
-   "first_seen": "2026-10-21"
-  },
-  {
-   "id": "gh-6221940004",
-   "title": "Staff Machine Learning and Bioinformatics Scientist (Multi-Cancer Early Detection)",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6221940004",
-   "posted": "2026-10-09",
-   "tags": [],
    "exp_years": 6,
    "exp_text": "…lated quantitative field with 6-12 years of experience post-PhD",
    "first_seen": "2026-10-21"
@@ -3147,19 +3147,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "gh-6150570004",
-   "title": "Manager of Data Engineering & Delivery (Data Science Production Engineering)",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6150570004",
-   "posted": "2026-08-21",
-   "tags": [],
-   "exp_years": 2,
-   "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
-   "first_seen": "2026-10-21"
-  },
-  {
    "id": "gh-6137669004",
    "title": "Manager of Data Engineering & Delivery (Data Science Production Engineering)",
    "company": "Natera",
@@ -3170,6 +3157,19 @@
    "tags": [
     "Remote"
    ],
+   "exp_years": 2,
+   "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6150570004",
+   "title": "Manager of Data Engineering & Delivery (Data Science Production Engineering)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6150570004",
+   "posted": "2026-08-21",
+   "tags": [],
    "exp_years": 2,
    "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
    "first_seen": "2026-10-21"
@@ -3343,6 +3343,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "gh-6142472004",
+   "title": "Director of Data Science and Bioinformatics",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6142472004",
+   "posted": "2026-08-12",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…Bioinformatics, with at least 5 years of direct people management experience leading technical teams",
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "gh-6135539004",
    "title": "Director of Data Science and Bioinformatics",
    "company": "Natera",
@@ -3353,19 +3366,6 @@
    "tags": [
     "Remote"
    ],
-   "exp_years": 5,
-   "exp_text": "…Bioinformatics, with at least 5 years of direct people management experience leading technical teams",
-   "first_seen": "2026-10-21"
-  },
-  {
-   "id": "gh-6142472004",
-   "title": "Director of Data Science and Bioinformatics",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6142472004",
-   "posted": "2026-08-12",
-   "tags": [],
    "exp_years": 5,
    "exp_text": "…Bioinformatics, with at least 5 years of direct people management experience leading technical teams",
    "first_seen": "2026-10-21"
@@ -3415,6 +3415,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "gh-6139063004",
+   "title": "Associate Director of Bioinformatics (Women's Health and Organ Health)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6139063004",
+   "posted": "2026-08-10",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…in bioinformatics, including 3+ years leading scientists and working across functions",
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "gh-6138809004",
    "title": "Associate Director of Bioinformatics (Women's Health and Organ Health)",
    "company": "Natera",
@@ -3425,19 +3438,6 @@
    "tags": [
     "Remote"
    ],
-   "exp_years": 3,
-   "exp_text": "…in bioinformatics, including 3+ years leading scientists and working across functions",
-   "first_seen": "2026-10-21"
-  },
-  {
-   "id": "gh-6139063004",
-   "title": "Associate Director of Bioinformatics (Women's Health and Organ Health)",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6139063004",
-   "posted": "2026-08-10",
-   "tags": [],
    "exp_years": 3,
    "exp_text": "…in bioinformatics, including 3+ years leading scientists and working across functions",
    "first_seen": "2026-10-21"
@@ -4424,12 +4424,12 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "gh-7793644",
+   "id": "gh-7747518",
    "title": "Research Scientist, AI",
    "company": "CZ Biohub",
    "domain": "Research Institute",
-   "location": "Redwood City, CA (Hybrid)",
-   "url": "https://job-boards.greenhouse.io/biohub/jobs/7793644",
+   "location": "New York, NY (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/7747518",
    "posted": "2026-04-08",
    "tags": [],
    "exp_years": null,
@@ -4437,12 +4437,12 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "gh-7747518",
+   "id": "gh-7793644",
    "title": "Research Scientist, AI",
    "company": "CZ Biohub",
    "domain": "Research Institute",
-   "location": "New York, NY (Hybrid)",
-   "url": "https://job-boards.greenhouse.io/biohub/jobs/7747518",
+   "location": "Redwood City, CA (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/7793644",
    "posted": "2026-04-08",
    "tags": [],
    "exp_years": null,
