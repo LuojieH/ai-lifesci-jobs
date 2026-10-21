@@ -20,7 +20,7 @@ OUT = ROOT / "docs" / "jobs.json"
 UA = "Mozilla/5.0 (ai-lifesci-jobs scraper; +https://github.com)"
 
 WORKDAY_QUERIES = ["machine learning", "artificial intelligence", "deep learning",
-                   "computer vision", "data scientist", "computational biology"]
+                   "computer vision", "data scientist", "computational biology", "postdoctoral", "postdoc"]
 WORKDAY_PAGES = 3  # 20 results per page per query
 
 # --- Title filters -----------------------------------------------------------
@@ -30,7 +30,7 @@ AI_TITLE = re.compile(
     r"LLMs?|generative|foundation models?|neural|perception|reinforcement learning|"
     r"applied scientist|research engineer|algorithms?|image analysis|"
     r"imaging scien\w*|digital pathology|statistical genetic\w*|"
-    r"ML ?Ops|data engineer\w*)\b", re.I)
+    r"ML ?Ops|data engineer\w*|multimodal|representation learning|in[- ]silico|protein design)\b", re.I)
 AI_TITLE_CS = re.compile(r"\b(AI|ML|GenAI|AI/ML|ML/AI)\b")  # case-sensitive acronyms
 EXCLUDE_TITLE = re.compile(
     r"\b(recruit\w*|sales|account executive|account manager|marketing|counsel|paralegal|"
@@ -41,6 +41,12 @@ DOMAIN_TITLE = re.compile(
 IMAGING_TITLE = re.compile(
     r"(imag|vision|patholog|radiolog|microscop|ultrasound|\bMRI\b|\bCT\b|x-ray|"
     r"segmentation|visual|spatial|endoscop|optical|photonic)", re.I)
+POSTDOC_TITLE = re.compile(r"post-?doc", re.I)
+# Postdoc titles are often just "Postdoctoral Fellow, X Lab", so for those we judge AI-ness by the description.
+AI_DESC = re.compile(r"machine learning|deep learning|artificial intelligence|computer vision|neural net\w*|"
+                     r"foundation models?|generative models?|language models?|transformers?\b|"
+                     r"representation learning", re.I)
+AI_DESC_MIN_HITS = 3
 INTERN_TITLE = re.compile(r"\b(intern|internship|co-?op|student|summer|graduate program|placement)\b", re.I)
 
 # --- US location detection ---------------------------------------------------
@@ -246,7 +252,7 @@ ADAPTERS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby, "workday":
 def keep_title(title, c):
     if EXCLUDE_TITLE.search(title):
         return False
-    if not (AI_TITLE.search(title) or AI_TITLE_CS.search(title)):
+    if not (AI_TITLE.search(title) or AI_TITLE_CS.search(title) or POSTDOC_TITLE.search(title)):
         return False
     if c.get("title_must_match_domain") and not DOMAIN_TITLE.search(title):
         return False
@@ -260,6 +266,10 @@ def scrape_company(c):
             title = " ".join(j["title"].split())
             if not keep_title(title, c):
                 continue
+            if POSTDOC_TITLE.search(title) and not (AI_TITLE.search(title) or AI_TITLE_CS.search(title)):
+                desc = j.get("desc", "")
+                if len(AI_DESC.findall(desc)) + len(AI_TITLE_CS.findall(desc)) < AI_DESC_MIN_HITS:
+                    continue
             locs = [l for l in j["locations"] if l]
             if not is_us(locs, j["countries"], c.get("us_default", False)):
                 continue
@@ -268,6 +278,8 @@ def scrape_company(c):
                 tags.append("Imaging")
             if INTERN_TITLE.search(title):
                 tags.append("Intern")
+            if POSTDOC_TITLE.search(title):
+                tags.append("Postdoc")
             if any(re.search(r"remote", l, re.I) for l in locs):
                 tags.append("Remote")
             exp_years, exp_text = experience(j.get("desc", ""))

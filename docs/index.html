@@ -61,7 +61,7 @@
   .tag { font-size: .75rem; padding: 1px 8px; border-radius: 999px; background: var(--chip); color: var(--muted); }
   .tag.new { background: var(--new-soft); color: var(--new); font-weight: 600; }
   .tag.Imaging { background: var(--img-soft); color: var(--img); }
-  .tag.Intern { background: var(--intern-soft); color: var(--intern); }
+  .tag.Intern, .tag.Postdoc { background: var(--intern-soft); color: var(--intern); }
   .tag.exp { background: var(--accent-soft); color: var(--accent); cursor: help; }
   .empty { text-align: center; color: var(--muted); padding: 48px 0; }
   footer { margin-top: 40px; color: var(--muted); font-size: .85rem; }
@@ -102,6 +102,7 @@
       </div>
       <button class="toggle" data-tag="Imaging" aria-pressed="false">Imaging / Vision</button>
       <button class="toggle" data-tag="Intern" aria-pressed="false">Internships</button>
+      <button class="toggle" data-tag="Postdoc" aria-pressed="false">Postdocs</button>
       <button class="toggle" data-tag="Remote" aria-pressed="false">Remote</button>
       <button class="toggle" data-tag="new" aria-pressed="false">New this week</button>
       <span class="spacer"></span>
