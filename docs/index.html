@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI × Life Science Jobs (US)</title>
+<meta name="description" content="Daily-updated AI/ML openings at life-science, drug-discovery and medical-imaging companies in the US.">
+<style>
+  :root {
+    --bg: #f7f7f5; --surface: #ffffff; --text: #1b1d1f; --muted: #646a71; --line: #e3e3df;
+    --accent: #0b7a6f; --accent-soft: #e2f2ef; --chip: #f0f0ec; --new: #b4500a; --new-soft: #fdeee2;
+    --img: #3b5bdb; --img-soft: #e8edff; --intern: #8a3ab9; --intern-soft: #f4e9fb;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #121416; --surface: #1a1d20; --text: #e7e9eb; --muted: #9aa1a8; --line: #2b2f33;
+      --accent: #4cc5b6; --accent-soft: #163330; --chip: #24282c; --new: #f3a061; --new-soft: #3a2614;
+      --img: #8ea6ff; --img-soft: #1e2647; --intern: #d39bf5; --intern-soft: #2f1f3a;
+      color-scheme: dark;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  .wrap { max-width: 1040px; margin: 0 auto; padding: 32px 20px 64px; }
+  header h1 { font-size: 1.75rem; letter-spacing: -0.02em; margin: 0 0 4px; }
+  header p { margin: 0; color: var(--muted); }
+  .stats { display: flex; gap: 20px; flex-wrap: wrap; margin: 18px 0 22px; color: var(--muted); font-size: .9rem; }
+  .stats b { color: var(--text); font-variant-numeric: tabular-nums; }
+
+  .controls { position: sticky; top: 0; z-index: 2; background: var(--bg); padding: 12px 0; border-bottom: 1px solid var(--line);
+              display: grid; gap: 10px; }
+  .row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+  input[type=search], select {
+    font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--line);
+    border-radius: 8px; padding: 8px 12px; min-width: 0;
+  }
+  input[type=search] { flex: 1 1 280px; }
+  select { flex: 0 1 220px; }
+  input:focus, select:focus, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: var(--surface); }
+  .seg button, .toggle { font: inherit; font-size: .88rem; background: transparent; color: var(--muted); border: 0; padding: 6px 12px; cursor: pointer; }
+  .seg button + button { border-left: 1px solid var(--line); }
+  .seg button[aria-pressed=true] { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+  .toggle { border: 1px solid var(--line); border-radius: 999px; background: var(--surface); }
+  .toggle[aria-pressed=true] { background: var(--accent-soft); color: var(--accent); border-color: var(--accent); font-weight: 600; }
+  .spacer { flex: 1; }
+  .count { color: var(--muted); font-size: .88rem; }
+
+  ul.jobs { list-style: none; margin: 16px 0 0; padding: 0; display: grid; gap: 8px; }
+  .job { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px;
+         display: grid; grid-template-columns: 1fr auto; gap: 4px 16px; }
+  .job:hover { border-color: var(--accent); }
+  .job a.title { color: var(--text); font-weight: 600; text-decoration: none; font-size: 1rem; }
+  .job a.title:hover { color: var(--accent); text-decoration: underline; }
+  .meta { color: var(--muted); font-size: .88rem; grid-column: 1; }
+  .meta .co { color: var(--text); font-weight: 500; }
+  .date { color: var(--muted); font-size: .85rem; white-space: nowrap; text-align: right; font-variant-numeric: tabular-nums; }
+  .tags { grid-column: 1 / -1; display: flex; gap: 6px; flex-wrap: wrap; margin-top: 4px; }
+  .tag { font-size: .75rem; padding: 1px 8px; border-radius: 999px; background: var(--chip); color: var(--muted); }
+  .tag.new { background: var(--new-soft); color: var(--new); font-weight: 600; }
+  .tag.Imaging { background: var(--img-soft); color: var(--img); }
+  .tag.Intern { background: var(--intern-soft); color: var(--intern); }
+  .empty { text-align: center; color: var(--muted); padding: 48px 0; }
+  footer { margin-top: 40px; color: var(--muted); font-size: .85rem; }
+  footer a { color: var(--accent); }
+  @media (max-width: 600px) {
+    .job { grid-template-columns: 1fr; }
+    .date { text-align: left; }
+    select { flex: 1 1 45%; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>AI × Life Science Jobs <span style="color:var(--muted);font-weight:500">· US</span></h1>
+    <p>AI / ML openings at drug-discovery, genomics, pathology, medical-imaging, and pharma companies. Refreshed daily from company career pages.</p>
+  </header>
+  <div class="stats" id="stats"></div>
+
+  <div class="controls">
+    <div class="row">
+      <input type="search" id="q" placeholder="Search title, company, location…  (e.g. computer vision, Boston, PhD)" autocomplete="off">
+      <select id="domain"><option value="">All sectors</option></select>
+      <select id="company"><option value="">All companies</option></select>
+    </div>
+    <div class="row">
+      <div class="seg" id="age" role="group" aria-label="Posted within">
+        <button data-days="7">7 days</button><button data-days="30">30 days</button><button data-days="90">90 days</button><button data-days="0">All</button>
+      </div>
+      <button class="toggle" data-tag="Imaging" aria-pressed="false">Imaging / Vision</button>
+      <button class="toggle" data-tag="Intern" aria-pressed="false">Internships</button>
+      <button class="toggle" data-tag="Remote" aria-pressed="false">Remote</button>
+      <button class="toggle" data-tag="new" aria-pressed="false">New this week</button>
+      <span class="spacer"></span>
+      <select id="sort" style="flex:0 0 auto">
+        <option value="date">Newest first</option>
+        <option value="company">Company A–Z</option>
+      </select>
+      <span class="count" id="count"></span>
+    </div>
+  </div>
+
+  <ul class="jobs" id="list"></ul>
+
+  <footer>
+    Data scraped from public Greenhouse, Lever, Ashby, and Workday job boards; postings filtered to AI/ML titles in US locations.
+    Always confirm details on the company's site. <span id="errs"></span>
+  </footer>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+const state = { q: "", domain: "", company: "", days: 30, tags: new Set(), sort: "date" };
+let DATA = { jobs: [] };
+const today = new Date();
+const daysAgo = d => d ? Math.floor((today - new Date(d + "T00:00:00")) / 864e5) : Infinity;
+const isNew = j => daysAgo(j.first_seen) <= 7 && daysAgo(j.posted) <= 14;
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+function rel(d) {
+  const n = daysAgo(d);
+  if (!isFinite(n)) return "—";
+  if (n <= 0) return "today";
+  if (n === 1) return "yesterday";
+  if (n < 30) return n + " days ago";
+  return new Date(d + "T00:00:00").toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric" });
+}
+
+function readHash() {
+  const p = new URLSearchParams(location.hash.slice(1));
+  state.q = p.get("q") || ""; state.domain = p.get("domain") || ""; state.company = p.get("company") || "";
+  state.days = p.has("days") ? +p.get("days") : 30; state.sort = p.get("sort") || "date";
+  state.tags = new Set((p.get("tags") || "").split(",").filter(Boolean));
+}
+function writeHash() {
+  const p = new URLSearchParams();
+  if (state.q) p.set("q", state.q);
+  if (state.domain) p.set("domain", state.domain);
+  if (state.company) p.set("company", state.company);
+  if (state.days !== 30) p.set("days", state.days);
+  if (state.tags.size) p.set("tags", [...state.tags].join(","));
+  if (state.sort !== "date") p.set("sort", state.sort);
+  history.replaceState(null, "", p.toString() ? "#" + p : location.pathname);
+}
+
+function syncControls() {
+  $("#q").value = state.q; $("#domain").value = state.domain; $("#company").value = state.company; $("#sort").value = state.sort;
+  document.querySelectorAll("#age button").forEach(b => b.setAttribute("aria-pressed", +b.dataset.days === state.days));
+  document.querySelectorAll(".toggle").forEach(b => b.setAttribute("aria-pressed", state.tags.has(b.dataset.tag)));
+}
+
+function render() {
+  const terms = state.q.toLowerCase().split(/\s+/).filter(Boolean);
+  let jobs = DATA.jobs.filter(j => {
+    if (state.domain && j.domain !== state.domain) return false;
+    if (state.company && j.company !== state.company) return false;
+    if (state.days && daysAgo(j.posted || j.first_seen) > state.days) return false;
+    for (const t of state.tags) {
+      if (t === "new" ? !isNew(j) : !j.tags.includes(t)) return false;
+    }
+    if (terms.length) {
+      const hay = (j.title + " " + j.company + " " + j.location + " " + j.domain).toLowerCase();
+      if (!terms.every(t => hay.includes(t))) return false;
+    }
+    return true;
+  });
+  if (state.sort === "company") jobs.sort((a, b) => a.company.localeCompare(b.company) || (b.posted || "").localeCompare(a.posted || ""));
+
+  $("#count").textContent = `${jobs.length} of ${DATA.jobs.length} jobs`;
+  $("#list").innerHTML = jobs.length ? jobs.map(j => `
+    <li class="job">
+      <a class="title" href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
+      <span class="date" title="Posted ${esc(j.posted || "unknown")}">${rel(j.posted || j.first_seen)}</span>
+      <div class="meta"><span class="co">${esc(j.company)}</span> · ${esc(j.location)}</div>
+      <div class="tags">
+        ${isNew(j) ? '<span class="tag new">New</span>' : ""}
+        <span class="tag">${esc(j.domain)}</span>
+        ${j.tags.map(t => `<span class="tag ${esc(t)}">${t === "Intern" ? "Internship" : esc(t)}</span>`).join("")}
+      </div>
+    </li>`).join("") : `<li class="empty">No jobs match these filters. Try widening the date range.</li>`;
+  writeHash();
+}
+
+function init(data) {
+  DATA = data;
+  const uniq = k => [...new Set(data.jobs.map(j => j[k]))].sort((a, b) => a.localeCompare(b));
+  for (const d of uniq("domain")) $("#domain").insertAdjacentHTML("beforeend", `<option>${esc(d)}</option>`);
+  for (const c of uniq("company")) $("#company").insertAdjacentHTML("beforeend", `<option>${esc(c)}</option>`);
+  const week = data.jobs.filter(j => daysAgo(j.posted) <= 7).length;
+  $("#stats").innerHTML = `<span><b>${data.jobs.length}</b> open roles</span>
+    <span><b>${uniq("company").length}</b> companies hiring</span>
+    <span><b>${week}</b> posted in the last 7 days</span>
+    <span>Updated <b>${esc(new Date(data.updated.replace("Z", ":00Z")).toLocaleString())}</b></span>`;
+  const errs = Object.keys(data.errors || {});
+  if (errs.length) $("#errs").textContent = `Could not reach on last run: ${errs.join(", ")}.`;
+  readHash(); syncControls(); render();
+}
+
+let t;
+$("#q").addEventListener("input", e => { state.q = e.target.value; clearTimeout(t); t = setTimeout(render, 120); });
+$("#domain").addEventListener("change", e => { state.domain = e.target.value; render(); });
+$("#company").addEventListener("change", e => { state.company = e.target.value; render(); });
+$("#sort").addEventListener("change", e => { state.sort = e.target.value; render(); });
+$("#age").addEventListener("click", e => { if (e.target.dataset.days) { state.days = +e.target.dataset.days; syncControls(); render(); } });
+document.querySelectorAll(".toggle").forEach(b => b.addEventListener("click", () => {
+  state.tags.has(b.dataset.tag) ? state.tags.delete(b.dataset.tag) : state.tags.add(b.dataset.tag);
+  syncControls(); render();
+}));
+
+fetch("jobs.json", { cache: "no-cache" }).then(r => r.json()).then(init)
+  .catch(() => { $("#list").innerHTML = '<li class="empty">Could not load jobs.json. If opening locally, run <code>python3 -m http.server -d docs</code>.</li>'; });
+</script>
+</body>
+</html>

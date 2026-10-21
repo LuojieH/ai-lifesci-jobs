@@ -1,0 +1,4126 @@
+{
+ "updated": "2026-10-21T15:24Z",
+ "count": 347,
+ "companies": [
+  "Absci",
+  "Aidoc",
+  "Altos Labs",
+  "Amgen",
+  "Arc Institute",
+  "Artera",
+  "Asimov",
+  "AstraZeneca",
+  "Benchling",
+  "Butterfly Network",
+  "CZ Biohub",
+  "Calico",
+  "Cellarity",
+  "Chai Discovery",
+  "Chan Zuckerberg Initiative",
+  "Cleerly",
+  "Cradle",
+  "Danaher",
+  "Deep Genomics",
+  "Delfi Diagnostics",
+  "Dyno Therapeutics",
+  "Element Biosciences",
+  "Enveda",
+  "Flatiron Health",
+  "Formation Bio",
+  "Freenome",
+  "GE HealthCare",
+  "GSK",
+  "Genentech / Roche",
+  "Generate:Biomedicines",
+  "Gilead",
+  "Ginkgo Bioworks",
+  "HeartFlow",
+  "Iambic Therapeutics",
+  "Illumina",
+  "Inceptive",
+  "Isomorphic Labs",
+  "Iterative Health",
+  "Johnson & Johnson",
+  "Latent Labs",
+  "Lila Sciences",
+  "Manifold Bio",
+  "Medtronic",
+  "NVIDIA (Healthcare)",
+  "Natera",
+  "Neuralink",
+  "NewLimit",
+  "Noetik",
+  "Novartis",
+  "Owkin",
+  "PathAI",
+  "Pathos AI",
+  "Pfizer",
+  "Philips",
+  "Profluent",
+  "Rad AI",
+  "Recursion",
+  "Regeneron",
+  "Relation Therapeutics",
+  "Retro Biosciences",
+  "Sanofi",
+  "Seer",
+  "Singular Genomics",
+  "Stryker",
+  "Thermo Fisher",
+  "Truveta",
+  "Twist Bioscience",
+  "Ultima Genomics",
+  "Valo Health",
+  "Xaira Therapeutics",
+  "insitro"
+ ],
+ "errors": {},
+ "jobs": [
+  {
+   "id": "gh-4723323006",
+   "title": "Scientist I, Computational Protein Design",
+   "company": "Generate:Biomedicines",
+   "domain": "AI Drug Discovery",
+   "location": "Somerville, MA",
+   "url": "https://generatebiomedicines.com/open-positions?gh_jid=4723323006",
+   "posted": "2026-10-21",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4723326006",
+   "title": "Senior Scientist I, Computational Protein Design",
+   "company": "Generate:Biomedicines",
+   "domain": "AI Drug Discovery",
+   "location": "Somerville, MA",
+   "url": "https://generatebiomedicines.com/open-positions?gh_jid=4723326006",
+   "posted": "2026-10-21",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-080056",
+   "title": "Sr Data Scientist Prod AI&ML",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "PENJERLA, Telangana, India · Barcelona, Spain · Titusville, New Jersey, United States of America · Spring House, Pennsylvania, United States of America · Madrid, Spain · Cambridge, Massachusetts, United States of America · Bangalore, Karnataka, India",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/PENJERLA-Telangana-India/Sr-Data-Scientist-Prod-AI-ML_R-080056",
+   "posted": "2026-10-21",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-103725",
+   "title": "Digital Manufacturing IT Lead Analyst - Mendix & AI",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Raynham, Massachusetts, United States of America · West Chester, Pennsylvania, United States of America · Palm Beach Gardens, Florida, United States of America · Warsaw, Indiana, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raynham-Massachusetts-United-States-of-America/Digital-Manufacturing-IT-Lead-Analyst---Mendix---AI_R-103725",
+   "posted": "2026-10-21",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-astrazeneca-R-262275",
+   "title": "Director, Clinical AI Delivery Operations",
+   "company": "AstraZeneca",
+   "domain": "Pharma",
+   "location": "US - Gaithersburg - MD",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Director--Clinical-AI-Delivery-Operations_R-262275",
+   "posted": "2026-10-20",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gsk-449904",
+   "title": "AI Director, Development Global Clinical Operations",
+   "company": "GSK",
+   "domain": "Pharma",
+   "location": "UK – London – New Oxford Street · USA - Massachusetts - Waltham · UK - Hertfordshire - Stevenage · Upper Providence · Rockville Tower Oaks Blvd",
+   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK--London--New-Oxford-Street/AI-Director--Development-Global-Clinical-Operations_449904",
+   "posted": "2026-10-20",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-novartis-REQ-10089084",
+   "title": "Director, AI and Machine Learning for Biology",
+   "company": "Novartis",
+   "domain": "Pharma",
+   "location": "LaJolla/SD",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/LaJollaSD/Director--AI-and-Machine-Learning-for-Biology_REQ-10089084-1",
+   "posted": "2026-10-20",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-258835",
+   "title": "Scientist, Integrated Computational and Experimental Inflammation Discovery",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "US - California - South San Francisco",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Scientist--Integrated-Computational-and-Experimental-Inflammation-Discovery_R-258835-1",
+   "posted": "2026-10-20",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-100432",
+   "title": "Principal Scientist – AI-Reasoning for Drug Discovery",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Spring House, Pennsylvania, United States of America · New Brunswick, New Jersey, United States of America · Raritan, New Jersey, United States of America · Titusville, New Jersey, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Principal-Scientist---AI-Reasoning-for-Drug-Discovery_R-100432-1",
+   "posted": "2026-10-20",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-105510",
+   "title": "Summer intern, Digital Signal/ Imaging AI",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Cambridge, Massachusetts, United States of America · Leiden, Netherlands · La Jolla, California, United States of America · Titusville, New Jersey, United States of America · Beerse, Antwerp, Belgium · Zug, Switzerland",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cambridge-Massachusetts-United-States-of-America/Summer-intern--Digital-Signal--Imaging-AI_R-105510",
+   "posted": "2026-10-20",
+   "tags": [
+    "Imaging",
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-105718",
+   "title": "Director, Data Science - GenAI - Neuroscience",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Raritan, New Jersey, United States of America · Cambridge, Massachusetts, United States of America · Titusville, New Jersey, United States of America · Spring House, Pennsylvania, United States of America · San Diego, California, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Director--Data-Science---GenAI---Neuroscience_R-105718-1",
+   "posted": "2026-10-20",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-088313",
+   "title": "Principal Scientist, Data Science (Data Products, Integration & Analysis)",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Spring House, Pennsylvania, United States of America · Horsham, Pennsylvania, United States of America · Raritan, New Jersey, United States of America · Titusville, New Jersey, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Principal-Scientist--Data-Science--Data-Products--Integration---Analysis-_R-088313-1",
+   "posted": "2026-10-20",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-illumina-43592-JOB",
+   "title": "Sr. Manager, Bioinformatics",
+   "company": "Illumina",
+   "domain": "Genomics / Diagnostics",
+   "location": "US - California - San Diego",
+   "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Sr-Manager--Bioinformatics_43592-JOB-1",
+   "posted": "2026-10-20",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-thermofisher-R-01369945",
+   "title": "Director, Digital Product Management – Commercial AI & Intelligence",
+   "company": "Thermo Fisher",
+   "domain": "Life Science Tools",
+   "location": "Pittsburgh, Pennsylvania, USA",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Director--Digital-Product-Management---Commercial-AI---Intelligence_R-01369945-1",
+   "posted": "2026-10-20",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-thermofisher-R-01370053",
+   "title": "Sr. Manager, Data Engineering & Applied Data Science",
+   "company": "Thermo Fisher",
+   "domain": "Life Science Tools",
+   "location": "Carlsbad, California, USA · Frederick, Maryland, USA · Pittsburgh, Pennsylvania, USA",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Carlsbad-California-USA/Sr-Manager--Data-Engineering---Applied-Data-Science_R-01370053",
+   "posted": "2026-10-20",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-e976ca86-4a93-449f-8f9c-882679988473",
+   "title": "Staff/Principal AI Scientist - Virtual Tissue",
+   "company": "Absci",
+   "domain": "AI Drug Discovery",
+   "location": "United States - Remote",
+   "url": "https://jobs.ashbyhq.com/absci/e976ca86-4a93-449f-8f9c-882679988473",
+   "posted": "2026-10-19",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6226991004",
+   "title": "Director of Bioinformatics and Machine Learning",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6226991004",
+   "posted": "2026-10-19",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-astrazeneca-R-261366",
+   "title": "Director, Oncology Commercial Data Science & AI Products",
+   "company": "AstraZeneca",
+   "domain": "Pharma",
+   "location": "US - Gaithersburg - MD",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Director--Oncology-Commercial-Data-Science---AI-Products_R-261366",
+   "posted": "2026-10-19",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gsk-449604",
+   "title": "Principal (Senior Director), Commercial Enterprise AI Product Mgmt. - Knowledge Foundation and Insights Acceleration",
+   "company": "GSK",
+   "domain": "Pharma",
+   "location": "USA - Pennsylvania - Philadelphia · USA - Massachusetts - Waltham · UK – London – New Oxford Street · Durham Blackwell Street",
+   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---Pennsylvania---Philadelphia/Principal--Senior-Director---Commercial-Enterprise-AI-Product-Mgmt---Knowledge-Foundation-and-Insights-Acceleration_449604",
+   "posted": "2026-10-19",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gsk-449602",
+   "title": "Principal (Senior Director), Commercial Enterprise AI Product Mgmt., Field Force Effectiveness",
+   "company": "GSK",
+   "domain": "Pharma",
+   "location": "USA - Pennsylvania - Philadelphia · USA - Massachusetts - Boston · UK – London – New Oxford Street · Durham Blackwell Street",
+   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---Pennsylvania---Philadelphia/Principal--Senior-Director---Commercial-Enterprise-AI-Product-Mgmt--Field-Force-Effectiveness_449602",
+   "posted": "2026-10-19",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gsk-449711",
+   "title": "Senior Director, US Decision Science & AI Innovation",
+   "company": "GSK",
+   "domain": "Pharma",
+   "location": "Home Worker - USA · USA - Pennsylvania - Philadelphia",
+   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Home-Worker---USA/Senior-Director--US-Decision-Science---AI-Innovation_449711",
+   "posted": "2026-10-19",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-novartis-REQ-10088336",
+   "title": "Director, PK Sciences Clinical Pharmacology Artificial Intelligence (AI) Lead",
+   "company": "Novartis",
+   "domain": "Pharma",
+   "location": "Cambridge (USA)",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Cambridge-USA/Director---Pharmacokinetics_REQ-10088336",
+   "posted": "2026-10-19",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-253246",
+   "title": "Senior Machine Learning Engineer",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "United States - Remote",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Senior-Machine-Learning-Engineer_R-253246",
+   "posted": "2026-10-19",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-256842",
+   "title": "Sr Data Scientist",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "US - IL - Deerfield · US - California - Thousand Oaks",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---IL---Deerfield/Sr-Data-Scientist_R-256842",
+   "posted": "2026-10-19",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-104404",
+   "title": "Principal Scientist, AI-Native Discovery (Large Molecules)",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Spring House, Pennsylvania, United States of America · San Diego, California, United States of America · Cambridge, Massachusetts, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Principal-Scientist--AI-Native-Discovery--Large-Molecules-_R-104404-2",
+   "posted": "2026-10-19",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-104367",
+   "title": "Director, AI Accelerator",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Raritan, New Jersey, United States of America · North Brunswick, New Jersey, United States",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Senior-Manager--AI-Accelerator_R-104367",
+   "posted": "2026-10-19",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-103629",
+   "title": "Quality Data Science Co-Op , Summer 2027",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Cincinnati, Ohio, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629",
+   "posted": "2026-10-19",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-sanofi-R2875227",
+   "title": "Director of Franchise Digital Strategy & AI Innovation",
+   "company": "Sanofi",
+   "domain": "Pharma",
+   "location": "Morristown, NJ",
+   "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Director-of-Franchise-Digital-Strategy---AI-Innovation_R2875227",
+   "posted": "2026-10-19",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0055232",
+   "title": "Workday Solutions Architect - Talent Management and AI",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Workday-Solutions-Architect---Talent-and-AI_R0055232-2",
+   "posted": "2026-10-19",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-novartis-REQ-10088821",
+   "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
+   "company": "Novartis",
+   "domain": "Pharma",
+   "location": "Cambridge (USA)",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Cambridge-USA/Scientific-AI-Platform-Lead--Data-Science--Disease-Area-X_REQ-10088821-2",
+   "posted": "2026-10-17",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4423490009",
+   "title": "Senior Specialist / Manager, AI Safety Data and Evaluation Program",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA; London, UK; San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4423490009",
+   "posted": "2026-10-16",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4423492009",
+   "title": "Staff / Principal Research Engineer, AI Safety Mitigations",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA; London, UK; San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4423492009",
+   "posted": "2026-10-16",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4429015009",
+   "title": "Staff / Principal Security Engineer, AI Safety and Security",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA; London, UK; San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4429015009",
+   "posted": "2026-10-16",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4423484009",
+   "title": "Staff Software Engineer, AI Safety",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA; London, UK; San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4423484009",
+   "posted": "2026-10-16",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6227786004",
+   "title": "Principal Clinical Engineer – AI Performance & Investigations",
+   "company": "HeartFlow",
+   "domain": "Medical Imaging AI",
+   "location": "San Francisco, California",
+   "url": "https://job-boards.greenhouse.io/heartflowinc/jobs/6227786004",
+   "posted": "2026-10-16",
+   "tags": [
+    "Imaging"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-astrazeneca-R-251884",
+   "title": "Executive Director, Global Head of Medical AI/Digital Strategy & Enablement",
+   "company": "AstraZeneca",
+   "domain": "Pharma",
+   "location": "US - Gaithersburg - MD",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Executive-Director--Global-Head-of-Medical-AI-Digital-Strategy---Enablement_R-251884-1",
+   "posted": "2026-10-16",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gsk-436766",
+   "title": "Applied AI Engineer",
+   "company": "GSK",
+   "domain": "Pharma",
+   "location": "USA - Pennsylvania - Upper Providence · Cambridge 300 Technology Square · South San Francisco 611 Gateway Blvd",
+   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---Pennsylvania---Upper-Providence/Senior-Applied-AI-Engineer_436766",
+   "posted": "2026-10-16",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-104621",
+   "title": "Senior Principal Investigator, Physical AI for Autonomous Discovery",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Spring House, Pennsylvania, United States of America · Cambridge, Massachusetts, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Senior-Principal-Investigator--Physical-AI-for-Autonomous-Discovery_R-104621-1",
+   "posted": "2026-10-16",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-103338",
+   "title": "Director, Physical AI for Autonomous Discovery",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Spring House, Pennsylvania, United States of America · Cambridge, Massachusetts, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Director--Physical-AI-for-Autonomous-Discovery_R-103338-1",
+   "posted": "2026-10-16",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-105589",
+   "title": "Director, AI enablement and Business process architecture",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "New Brunswick, New Jersey, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Director--AI-enablement-and-Business-process-architecture_R-105589-1",
+   "posted": "2026-10-16",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-097988",
+   "title": "Principal AI Engineer",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Raritan, New Jersey, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Manager--GenAI-AWS-Platform-Engineering_R-097988-1",
+   "posted": "2026-10-16",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-104986",
+   "title": "Principal Scientist, Data Science – AI & Generative AI Systems – R&D DDSAI – Therapeutics Development & Supply (TDS)",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Spring House, Pennsylvania, United States of America · Malvern, Pennsylvania, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Principal-Scientist--Data-Science---AI---Generative-AI-Systems---R-D-DDSAI---Therapeutics-Development---Supply--TDS-_R-104986-1",
+   "posted": "2026-10-16",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-sanofi-R2854337",
+   "title": "2027 Spring Co op Biologics Design and AI Cambridge MA",
+   "company": "Sanofi",
+   "domain": "Pharma",
+   "location": "Cambridge, MA",
+   "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Biologics-Design-and-AI-Cambridge-MA_R2854337",
+   "posted": "2026-10-16",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0055526",
+   "title": "Intern - Research - Clinical Virology - AI",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Clinical-Virology---AI_R0055526",
+   "posted": "2026-10-16",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0055796",
+   "title": "Director, AI Systems Quality & Governance, R&D",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Director--AI-Systems-Quality---Governance--R-D_R0055796-2",
+   "posted": "2026-10-16",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0055231",
+   "title": "Senior Director, Applied AI Solutions- Clinical Drug Development",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Senior-Director--Applied-AI-Solutions_R0055231",
+   "posted": "2026-10-16",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-illumina-43098-JOB",
+   "title": "Staff Bioinformatics Scientist -- Signal Processing",
+   "company": "Illumina",
+   "domain": "Genomics / Diagnostics",
+   "location": "US - California - San Diego",
+   "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Staff-Bioinformatics-Scientist_43098-JOB-1",
+   "posted": "2026-10-16",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4453186009",
+   "title": "Data Scientist, Data Platform",
+   "company": "Noetik",
+   "domain": "Pathology / Spatial Biology",
+   "location": "Remote",
+   "url": "https://job-boards.greenhouse.io/noetik/jobs/4453186009",
+   "posted": "2026-10-15",
+   "tags": [
+    "Imaging",
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4453164009",
+   "title": "ML Engineer",
+   "company": "Noetik",
+   "domain": "Pathology / Spatial Biology",
+   "location": "Remote",
+   "url": "https://job-boards.greenhouse.io/noetik/jobs/4453164009",
+   "posted": "2026-10-15",
+   "tags": [
+    "Imaging",
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-pfizer-4965295",
+   "title": "Senior Machine Learning Research Scientist",
+   "company": "Pfizer",
+   "domain": "Pharma",
+   "location": "United States - Massachusetts - Cambridge",
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Massachusetts---Cambridge/Senior-Machine-Learning-Research-Scientist_4965295-2",
+   "posted": "2026-10-15",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-astrazeneca-R-261869",
+   "title": "Associate Director, Clinical AI Translation & Solutions",
+   "company": "AstraZeneca",
+   "domain": "Pharma",
+   "location": "US - Cambridge Kendall SQ - MA",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Associate-Director--Clinical-AI-Translation---Solutions_R-261869",
+   "posted": "2026-10-15",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-novartis-REQ-10089087",
+   "title": "AI/ML for Biology Scientist",
+   "company": "Novartis",
+   "domain": "Pharma",
+   "location": "LaJolla/SD",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/LaJollaSD/AI-ML-for-Biology-Scientist_REQ-10089087-1",
+   "posted": "2026-10-15",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-103068",
+   "title": "Director Data Science and AI",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Raritan, New Jersey, United States of America · New Brunswick, New Jersey, United States of America · West Chester, Pennsylvania, United States of America · Palm Beach Gardens, Florida, United States of America · Warsaw, Indiana, United States of America · Raynham, Massachusetts, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Dir-Technology-Management_R-103068-1",
+   "posted": "2026-10-15",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0054725",
+   "title": "Sr Analyst, Data Scientist",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Sr-Analyst--Data-Scientist_R0054725-1",
+   "posted": "2026-10-15",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-philips-592684",
+   "title": "AI / Algorithm Engineer – Vascular Imaging (Bedford, MA)",
+   "company": "Philips",
+   "domain": "Medical Imaging AI",
+   "location": "Bedford, Massachusetts, United States",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/AI---Algorithm-Engineer---Vascular-Imaging--Bedford--MA-_592684",
+   "posted": "2026-10-15",
+   "tags": [
+    "Imaging"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-medtronic-R79334",
+   "title": "Category Manager, IT Infrastructure and AI",
+   "company": "Medtronic",
+   "domain": "MedTech",
+   "location": "Fridley, Minnesota, United States of America",
+   "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Category-Manager--IT-Infrastructure-and-AI_R79334-1",
+   "posted": "2026-10-15",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-astrazeneca-R-261867",
+   "title": "Director, AI Research",
+   "company": "AstraZeneca",
+   "domain": "Pharma",
+   "location": "US - Boston - MA",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Director--AI-Research_R-261867",
+   "posted": "2026-10-14",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-104697",
+   "title": "AI/ML/Data Science Intern",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Zug, Switzerland · Boston, Massachusetts, United States of America · High Wycombe, Buckinghamshire, United Kingdom · New York, New York, United States · Barcelona, Spain · Madrid, Spain · Spring House, Pennsylvania, United States of America · New Brunswick, New Jersey, United States of America · Leiden, Netherlands",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/AI-ML-Data-Science-Intern_R-104697",
+   "posted": "2026-10-14",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-101326",
+   "title": "Director, Computer-Directed Drug Design and AI-Native Molecular Design - San Diego, CA",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "San Diego, California, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/San-Diego-California-United-States-of-America/Director--Computer-Directed-Drug-Design-and-AI-Native-Molecular-Design---San-Diego--CA_R-101326",
+   "posted": "2026-10-14",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-thermofisher-R-01370904",
+   "title": "Scientist III, Bioinformatics (Companion Diagnostics)",
+   "company": "Thermo Fisher",
+   "domain": "Life Science Tools",
+   "location": "Austin, Texas, USA · West Sacramento, California, USA · Carlsbad, California, USA",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Austin-Texas-USA/Scientist-III--Bioinformatics--Companion-Diagnostics-_R-01370904",
+   "posted": "2026-10-14",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4433469009",
+   "title": "Product Manager, Chemistry AI Science Factory",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4433469009",
+   "posted": "2026-10-13",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-astrazeneca-R-261783",
+   "title": "Senior Scientist, Bioinformatics / Computational Biology",
+   "company": "AstraZeneca",
+   "domain": "Pharma",
+   "location": "US - Cambridge - MA",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge---MA/Senior-Scientist--Bioinformatics---Computational-Biology_R-261783",
+   "posted": "2026-10-13",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-astrazeneca-R-256166",
+   "title": "Associate Director, Digital Proteomics and AI Innovation",
+   "company": "AstraZeneca",
+   "domain": "Pharma",
+   "location": "US - Gaithersburg - MD",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Associate-Director--Digital-Proteomics-and-AI-Innovation_R-256166",
+   "posted": "2026-10-13",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-astrazeneca-R-261510",
+   "title": "Director, AI Product Development - Medical",
+   "company": "AstraZeneca",
+   "domain": "Pharma",
+   "location": "US - Gaithersburg - MD",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Director--AI-Product-Development---Medical_R-261510-1",
+   "posted": "2026-10-13",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-087629",
+   "title": "Senior Principal Scientist, Data Science RWE",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Titusville, New Jersey, United States of America · Cambridge, Massachusetts, United States of America · Raritan, New Jersey, United States of America · Spring House, Pennsylvania, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Senior-Principal-Scientist--Data-Science-RWE_R-087629-1",
+   "posted": "2026-10-13",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0055672",
+   "title": "Associate Director, Data Science- Commercial",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City · United States - New Jersey - Parsippany",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Associate-Director--Data-Science---Commercial_R0055672-2",
+   "posted": "2026-10-13",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-ad8dd3de-8139-4385-8c5a-566a359e9be0",
+   "title": "Software Engineer, AI Platform",
+   "company": "Chai Discovery",
+   "domain": "AI Drug Discovery",
+   "location": "San Francisco office",
+   "url": "https://jobs.ashbyhq.com/chaidiscovery/ad8dd3de-8139-4385-8c5a-566a359e9be0",
+   "posted": "2026-10-12",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6222681004",
+   "title": "Software Engineer, ML Infrastructure",
+   "company": "Arc Institute",
+   "domain": "Research Institute",
+   "location": "Palo Alto, CA",
+   "url": "https://job-boards.greenhouse.io/arcinstitute/jobs/6222681004",
+   "posted": "2026-10-12",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-0372a459-16e6-4ccb-8df5-da97b728938a",
+   "title": "Senior Data Engineer",
+   "company": "Rad AI",
+   "domain": "Medical Imaging AI",
+   "location": "San Francisco - Onsite · United States - Remote",
+   "url": "https://jobs.ashbyhq.com/radai/0372a459-16e6-4ccb-8df5-da97b728938a",
+   "posted": "2026-10-12",
+   "tags": [
+    "Imaging",
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-pfizer-4960793",
+   "title": "Head of AI Clinical Excellence",
+   "company": "Pfizer",
+   "domain": "Pharma",
+   "location": "United States - Pennsylvania - Collegeville · United States - California - San Diego · United States - Massachusetts - Cambridge · United States - Washington – Bothell · United States - New York - New York City",
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Pennsylvania---Collegeville/Head-of-AI-Clinical-Excellence_4960793-1",
+   "posted": "2026-10-12",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-250525",
+   "title": "Sr Data Scientist",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "US - California - Los Angeles · United States - Remote",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Los-Angeles/Sr-Data-Scientist_R-250525",
+   "posted": "2026-10-12",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-102296",
+   "title": "Senior Scientist, AI Lead",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Malvern, Pennsylvania, United States of America · Spring House, Pennsylvania, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/Senior-Scientist--AI-Lead_R-102296-1",
+   "posted": "2026-10-12",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-102947",
+   "title": "Principal Scientist, Scientific Workflows & Agentic Cheminformatics",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Spring House, Pennsylvania, United States of America · Turnhout, Antwerp, Belgium · Cambridge, Massachusetts, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Principal-Scientist--Scientific-Workflows---Agentic-Cheminformatics_R-102947-2",
+   "posted": "2026-10-12",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-illumina-43468-JOB",
+   "title": "Director, Bioinformatics - Multiomics",
+   "company": "Illumina",
+   "domain": "Genomics / Diagnostics",
+   "location": "US - California - San Diego",
+   "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Director--Multiomics-Bioinformatics_43468-JOB-1",
+   "posted": "2026-10-12",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gehc-R4047232",
+   "title": "SQA Lead – AI Quality Engineering (No Sponsorship or OPT)",
+   "company": "GE HealthCare",
+   "domain": "Medical Imaging AI",
+   "location": "Waukesha · Chicago",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/SQA-Lead---AI-Quality-Engineering_R4047232-1",
+   "posted": "2026-10-12",
+   "tags": [
+    "Imaging"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-pfizer-4961700",
+   "title": "Senior Manager, AI Experience Designer",
+   "company": "Pfizer",
+   "domain": "Pharma",
+   "location": "United States - New York - New York City · United Kingdom - Walton Oaks · United States - Florida - Tampa · United States - Washington – Bothell · United States - Pennsylvania - Collegeville · Greece-Thessaloniki Chortiatis",
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Senior-Manager--AI-Experience-Designer_4961700-1",
+   "posted": "2026-10-11",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6220887004",
+   "title": "Senior/Lead Bioinformatics Scientist (Multi-Cancer Early Detection)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "US Remote",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6220887004",
+   "posted": "2026-10-09",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6221943004",
+   "title": "Senior/Lead Bioinformatics Scientist (Multi-Cancer Early Detection)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6221943004",
+   "posted": "2026-10-09",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6220885004",
+   "title": "Staff Machine Learning and Bioinformatics Scientist (Multi-Cancer Early Detection)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "US Remote",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6220885004",
+   "posted": "2026-10-09",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6221940004",
+   "title": "Staff Machine Learning and Bioinformatics Scientist (Multi-Cancer Early Detection)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6221940004",
+   "posted": "2026-10-09",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-pfizer-4961699",
+   "title": "Director, AI Experience Design Lead",
+   "company": "Pfizer",
+   "domain": "Pharma",
+   "location": "United States - New York - New York City · United Kingdom - Walton Oaks · United States - Florida - Tampa · United States - Washington – Bothell · United States - Pennsylvania - Collegeville · Greece-Thessaloniki Chortiatis",
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--AI-Experience-Design-Lead_4961699-1",
+   "posted": "2026-10-09",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-257589",
+   "title": "Data Scientist",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "United States - Remote",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Data-Scientist_R-257589",
+   "posted": "2026-10-09",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-258145",
+   "title": "Scientist, Integrated Computational and Experimental Inflammation Discovery",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "US - California - South San Francisco",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Scientist--Integrated-Computational-and-Experimental-Inflammation-Discovery_R-258145",
+   "posted": "2026-10-09",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-258144",
+   "title": "Senior Scientist, Integrated Computational and Experimental Inflammation Discovery",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "US - California - South San Francisco",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Senior-Scientist--Integrated-Computational-and-Experimental-Inflammation-Discovery_R-258144",
+   "posted": "2026-10-09",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-regeneron-R50615",
+   "title": "Director, GMP AI Engineering",
+   "company": "Regeneron",
+   "domain": "Pharma",
+   "location": "RENSS - GLOBAL VIEW",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSS---GLOBAL-VIEW/Director--GMP-AI-Engineering_R50615",
+   "posted": "2026-10-09",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-sanofi-R2854091",
+   "title": "2027 Spring Co-op Data Science & Digital Transformation, Framingham, MA",
+   "company": "Sanofi",
+   "domain": "Pharma",
+   "location": "Framingham, MA",
+   "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Spring-Co-op-Data-Science---Digital-Transformation--Framingham--MA_R2854091",
+   "posted": "2026-10-09",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-danaher-R1319117",
+   "title": "Lead AI Scientist",
+   "company": "Danaher",
+   "domain": "Life Science Tools",
+   "location": "Boston, Massachusetts, United States",
+   "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Boston-Massachusetts-United-States/Lead-AI-Scientist_R1319117-1",
+   "posted": "2026-10-09",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gehc-R4047419",
+   "title": "AI Applications Engineer",
+   "company": "GE HealthCare",
+   "domain": "Medical Imaging AI",
+   "location": "West Milwaukee · Milwaukee",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/West-Milwaukee/Applied-AI---Integrations-Engineer_R4047419-1",
+   "posted": "2026-10-09",
+   "tags": [
+    "Imaging"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "lv-e69fa8b3-ecad-4f6a-b8b6-77d6542dfbe1",
+   "title": "Machine Learning Engineer (Model Dev)",
+   "company": "Artera",
+   "domain": "Pathology / Spatial Biology",
+   "location": "Remote-US",
+   "url": "https://jobs.lever.co/artera/e69fa8b3-ecad-4f6a-b8b6-77d6542dfbe1",
+   "posted": "2026-10-08",
+   "tags": [
+    "Imaging",
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-099283",
+   "title": "Senior Scientist, Data (AI) Scientist, Translational Safety",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Spring House, Pennsylvania, United States of America · Horsham, Pennsylvania, United States of America · New Brunswick, New Jersey, United States of America · Cambridge, Massachusetts, United States of America · Raritan, New Jersey, United States of America · Titusville, New Jersey, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Senior-Scientist--Data--AI--Scientist--Translational-Safety_R-099283-2",
+   "posted": "2026-10-08",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-103073",
+   "title": "Manager, Data Science - Finance Advanced Analytics & Reporting",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "New Brunswick, New Jersey, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Manager--Data-Science---Finance-Advanced-Analytics---Reporting_R-103073-1",
+   "posted": "2026-10-08",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-089505",
+   "title": "Manager, AI Next Frontiers",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Titusville, New Jersey, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Manager--AI-Next-Frontiers_R-089505-1",
+   "posted": "2026-10-08",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-103096",
+   "title": "Senior Scientist, Scientific Workflows & Agentic Cheminformatics",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Beerse, Antwerp, Belgium · Cambridge, Massachusetts, United States of America · La Jolla, California, United States of America · Spring House, Pennsylvania, United States of America · Madrid, Spain · Toledo, Spain",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Senior-Scientist--Scientific-Workflows---Agentic-Cheminformatics_R-103096-2",
+   "posted": "2026-10-08",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4400744009",
+   "title": "Principal Machine Learning Engineer, Applied AI",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA; San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4400744009",
+   "posted": "2026-10-07",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4400741009",
+   "title": "Senior / Staff Machine Learning Engineer, Applied AI",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA; San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4400741009",
+   "posted": "2026-10-07",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-103349",
+   "title": "Senior Manager, Data, Data Science & Artificial Intelligence– Immunology Real World Evidence",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Raritan, New Jersey, United States of America · Cambridge, Massachusetts, United States of America · Titusville, New Jersey, United States of America · Spring House, Pennsylvania, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Senior-Manager--Data--Data-Science---Artificial-Intelligence--Immunology-Real-World-Evidence_R-103349-2",
+   "posted": "2026-10-07",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-080971",
+   "title": "Sr Director Head of Data Science Services",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "New Brunswick, New Jersey, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Sr-Director-Head-of-Data-Science-Services_R-080971-2",
+   "posted": "2026-10-07",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-sanofi-R2870852",
+   "title": "Market Access AI & Data Management Lead",
+   "company": "Sanofi",
+   "domain": "Pharma",
+   "location": "Cambridge, MA · Morristown, NJ",
+   "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Market-Access-AI---Data-Management-Lead_R2870852",
+   "posted": "2026-10-07",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-regeneron-R48868",
+   "title": "Senior Director Product Management — Enterprise AI Platforms & Tools",
+   "company": "Regeneron",
+   "domain": "Pharma",
+   "location": "TARRYTOWN · SLEEPY HOLLOW · Warren · Armonk",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/Director-Product-Management---Enterprise-AI-Platforms---Tools_R48868",
+   "posted": "2026-10-06",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0054223",
+   "title": "Associate Director, Data Scientist",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Associate-Director--Data-Scientist_R0054223",
+   "posted": "2026-10-06",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-illumina-43541-JOB",
+   "title": "Senior Bioinformatics Scientist – AI/ML for Protein Engineering",
+   "company": "Illumina",
+   "domain": "Genomics / Diagnostics",
+   "location": "US - California - San Diego",
+   "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Senior-Bioinformatics-Scientist---AI-ML-for-Protein-Engineering_43541-JOB-1",
+   "posted": "2026-10-06",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4423500009",
+   "title": "Senior / Principal Chemist, AI Safety",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA; London, UK; San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4423500009",
+   "posted": "2026-10-05",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0052731",
+   "title": "AI Data Science Lead – Research (Gilead & Kite)AI Data Science Lead – Research (Gilead & Kite)",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - North Carolina - Raleigh",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/AI-Data-Science-Lead---Research--Gilead---Kite-AI-Data-Science-Lead---Research--Gilead---Kite-_R0052731-1",
+   "posted": "2026-10-05",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-danaher-R1317110",
+   "title": "AI Platform Engineer",
+   "company": "Danaher",
+   "domain": "Life Science Tools",
+   "location": "San Jose, California, United States · Indianapolis, Indiana, United States",
+   "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/San-Jose-California-United-States/Backend---AI-Platform-Engineer_R1317110",
+   "posted": "2026-10-05",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5441954008",
+   "title": "Intern, Computational Research",
+   "company": "Profluent",
+   "domain": "AI Drug Discovery",
+   "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
+   "url": "https://job-boards.greenhouse.io/profluent/jobs/5441954008",
+   "posted": "2026-10-02",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8241320",
+   "title": "Sr Bioinformatics Scientist",
+   "company": "Twist Bioscience",
+   "domain": "Genomics / Diagnostics",
+   "location": "USA - South San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/twistbioscience/jobs/8241320",
+   "posted": "2026-10-02",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-regeneron-R51083",
+   "title": "2027 Co-op Imaging Sciences",
+   "company": "Regeneron",
+   "domain": "Pharma",
+   "location": "TARRYTOWN",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Imaging-Sciences_R51083-1",
+   "posted": "2026-10-02",
+   "tags": [
+    "Imaging",
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-regeneron-R51032",
+   "title": "2027 Co-op Data Science & Computational Biology (Research)",
+   "company": "Regeneron",
+   "domain": "Pharma",
+   "location": "TARRYTOWN",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Computational-Biology--Research-_R51032-1",
+   "posted": "2026-10-02",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-regeneron-R51031",
+   "title": "2027 Co-op Data Science & Digital Innovation (Preclinical Manufacturing & Research IT)",
+   "company": "Regeneron",
+   "domain": "Pharma",
+   "location": "TARRYTOWN",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1",
+   "posted": "2026-10-02",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-danaher-R1320340",
+   "title": "Principal Engineer, Algorithm - ECG",
+   "company": "Danaher",
+   "domain": "Life Science Tools",
+   "location": "Irvine, California, United States",
+   "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Irvine-California-United-States/Principal-Engineer--Algorithm---ECG_R1320340",
+   "posted": "2026-10-02",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-danaher-R1320427",
+   "title": "Engineer II, Algorithm",
+   "company": "Danaher",
+   "domain": "Life Science Tools",
+   "location": "Irvine, California, United States",
+   "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Irvine-California-United-States/Engineer-II--Algorithm_R1320427",
+   "posted": "2026-10-02",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-danaher-R1320331",
+   "title": "Sr Engineer, AI/Machine Learning",
+   "company": "Danaher",
+   "domain": "Life Science Tools",
+   "location": "Irvine, California, United States",
+   "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Irvine-California-United-States/Sr-Engineer--AI-Machine-Learning_R1320331",
+   "posted": "2026-10-02",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4403714009",
+   "title": "Principal Engineer, AI Security",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4403714009",
+   "posted": "2026-10-01",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-f588cde0-efa9-4dc1-9501-a24525110450",
+   "title": "Forward Deployed Computational Biologist",
+   "company": "Owkin",
+   "domain": "Pathology / Spatial Biology",
+   "location": "Boston",
+   "url": "https://jobs.ashbyhq.com/owkin/f588cde0-efa9-4dc1-9501-a24525110450",
+   "posted": "2026-10-01",
+   "tags": [
+    "Imaging"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-febb0539-70a3-49f4-b649-92d254f7c223",
+   "title": "AI GTM Specialist",
+   "company": "Benchling",
+   "domain": "Bio Software / Data",
+   "location": "San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/benchling/febb0539-70a3-49f4-b649-92d254f7c223",
+   "posted": "2026-10-01",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-astrazeneca-R-261022",
+   "title": "Senior Cloud Platform Engineer (AWS), AI Infrastructure - Evinova",
+   "company": "AstraZeneca",
+   "domain": "Pharma",
+   "location": "US - Gaithersburg - MD",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Senior-Cloud-Platform-Engineer--AWS---AI-Infrastructure---Evinova_R-261022",
+   "posted": "2026-10-01",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-astrazeneca-R-260990",
+   "title": "Associate Director, Translational Data Science - Translational Medicine and Bioinformatics",
+   "company": "AstraZeneca",
+   "domain": "Pharma",
+   "location": "US - Cambridge Kendall SQ - MA",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Associate-Director--Translational-Data-Science---Translational-Medicine-and-Bioinformatics_R-260990",
+   "posted": "2026-10-01",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-100167",
+   "title": "Principal Developer, Oncology Data & AI Systems (2 available)",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Titusville, New Jersey, United States of America · Cambridge, Massachusetts, United States of America · Raritan, New Jersey, United States of America · Spring House, Pennsylvania, United States of America · San Diego, California, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Principal-Developer--Oncology-Data---AI-Systems--2-available-_R-100167-1",
+   "posted": "2026-10-01",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-100341",
+   "title": "Data Science Co-op",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Danvers, Massachusetts, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Data-Science-Co-op_R-100341",
+   "posted": "2026-10-01",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0054579",
+   "title": "Intern - Research - Pathobiology - AI",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Pathobiology_R0054579",
+   "posted": "2026-10-01",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0055565",
+   "title": "Intern - Research - Medicinal Chemistry/ Structural Biology & Chemistry - AI",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Medicinal-Chemistry--Structural-Biology---Chemistry---AI_R0055565",
+   "posted": "2026-10-01",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-580a9304-fcff-4074-b9a6-dda03278a5f0",
+   "title": "Principal / AD / Director, Agentic AI",
+   "company": "Iambic Therapeutics",
+   "domain": "AI Drug Discovery",
+   "location": "San Diego HQ",
+   "url": "https://jobs.ashbyhq.com/iambic-therapeutics/580a9304-fcff-4074-b9a6-dda03278a5f0",
+   "posted": "2026-09-30",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-257124",
+   "title": "Grad Co-op — Computational Safety Modeling for Small Molecules",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "United States - Remote",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Co-op---Computational-Safety-Modeling-for-Small-Molecules_R-257124",
+   "posted": "2026-09-30",
+   "tags": [
+    "Intern",
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0055483",
+   "title": "Director, Field AI & GPro Enablement, HIV Prevention",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Director--Field-AI---GPro-Enablement--HIV-Prevention_R0055483-2",
+   "posted": "2026-09-30",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0055484",
+   "title": "Director, Field AI & GPro Enablement, Liver and Oncology",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Director--Field-AI---GPro-Enablement--Liver-and-Oncology_R0055484-2",
+   "posted": "2026-09-30",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0055482",
+   "title": "Director, Field AI & GPro Enablement - HIV Treatment",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Director--Field-AI---GPro-Enablement---HIV-Treatment_R0055482-2",
+   "posted": "2026-09-30",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-256345",
+   "title": "Senior Machine Learning Engineer",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "United States - Remote",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Senior-Machine-Learning-Engineer_R-256345",
+   "posted": "2026-09-29",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0054741",
+   "title": "Intern - Research - Inflammation - AI",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Inflammation_R0054741",
+   "posted": "2026-09-29",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0054617",
+   "title": "Intern - Research - Inflammation Biology - AI",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Inflammation-Biology_R0054617",
+   "posted": "2026-09-29",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0054812",
+   "title": "Intern - Research - Oncology Biomarker - AI",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Oncology-Biomarker_R0054812",
+   "posted": "2026-09-29",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0054739",
+   "title": "Intern - Research - Protein Therapeutics, Computational Biologics Engineering - AI",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics--Computational-Biologics-Engineering_R0054739",
+   "posted": "2026-09-29",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0054512",
+   "title": "Intern - Research - Protein Therapeutics - AI",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics_R0054512",
+   "posted": "2026-09-28",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0054587",
+   "title": "Intern - Research - Oncology Biomarker - AI",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Oncology-Biomarker_R0054587",
+   "posted": "2026-09-28",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0055527",
+   "title": "Intern - Research - Discovery Sciences and Technologies - AI",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Discovery-Sciences-and-Technologies---AI_R0055527",
+   "posted": "2026-09-28",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0054502",
+   "title": "Intern - Research - Strategy, Innovation & Portfolio - AI",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Strategy--Innovation---Portfolio_R0054502",
+   "posted": "2026-09-28",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0054572",
+   "title": "Intern - Research - Data Sciences - AI",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Data-Sciences_R0054572",
+   "posted": "2026-09-28",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0055519",
+   "title": "Intern - Research - Drug Metabolism - AI",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Drug-Metabolism---AI_R0055519",
+   "posted": "2026-09-28",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0055524",
+   "title": "Intern - Research - Data Sciences - AI",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Data-Sciences---AI_R0055524",
+   "posted": "2026-09-28",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gehc-R4046706",
+   "title": "AI Product Experience Strategist",
+   "company": "GE HealthCare",
+   "domain": "Medical Imaging AI",
+   "location": "Waukesha · Remote",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/AI-Product-Experience-Strategist_R4046706",
+   "posted": "2026-09-28",
+   "tags": [
+    "Imaging",
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-pfizer-4964531",
+   "title": "AI Oncology Portfolio Lead (Director)",
+   "company": "Pfizer",
+   "domain": "Pharma",
+   "location": "United States - California - San Diego",
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---California---San-Diego/AI-Oncology-Portfolio-Lead--Director-_4964531-3",
+   "posted": "2026-09-27",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-256660",
+   "title": "Director, AI & Machine Learning",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "United States - Remote",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Director--AI---Machine-Learning_R-256660",
+   "posted": "2026-09-25",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-256661",
+   "title": "Principal Machine Learning Engineer",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "United States - Remote",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Principal-Machine-Learning-Engineer_R-256661",
+   "posted": "2026-09-25",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-regeneron-R48861",
+   "title": "Manager, Applied AI, Advanced Informatics",
+   "company": "Regeneron",
+   "domain": "Pharma",
+   "location": "TARRYTOWN · Armonk · Warren",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/Manager--Applied-AI--Advanced-Informatics_R48861",
+   "posted": "2026-09-25",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-thermofisher-R-01368757",
+   "title": "Senior Manager, Applied AI",
+   "company": "Thermo Fisher",
+   "domain": "Life Science Tools",
+   "location": "Remote, North Carolina, USA",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Senior-Manager--Applied-AI_R-01368757",
+   "posted": "2026-09-25",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-d9fbc2b6-b695-4282-976f-73b91ef6c8bb",
+   "title": "Research Engineer, Auto Research",
+   "company": "Chai Discovery",
+   "domain": "AI Drug Discovery",
+   "location": "San Francisco office",
+   "url": "https://jobs.ashbyhq.com/chaidiscovery/d9fbc2b6-b695-4282-976f-73b91ef6c8bb",
+   "posted": "2026-09-24",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-dd8bf1b0-be34-42ba-94f7-76e6ebe204f6",
+   "title": "Research Engineer, ML Infrastructure",
+   "company": "Chai Discovery",
+   "domain": "AI Drug Discovery",
+   "location": "San Francisco office",
+   "url": "https://jobs.ashbyhq.com/chaidiscovery/dd8bf1b0-be34-42ba-94f7-76e6ebe204f6",
+   "posted": "2026-09-24",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8842505002",
+   "title": "Associate Director, MLOps Engineering",
+   "company": "PathAI",
+   "domain": "Pathology / Spatial Biology",
+   "location": "Boston (Onsite) Preferred, New York (Onsite), or Remote · Boston · New York · Remote",
+   "url": "https://www.pathai.com/careers/8842505002?gh_jid=8842505002",
+   "posted": "2026-09-24",
+   "tags": [
+    "Imaging",
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-illumina-43489-JOB",
+   "title": "Staff Bioinformatics Scientist -- Oncology/MRD Algorithm Development",
+   "company": "Illumina",
+   "domain": "Genomics / Diagnostics",
+   "location": "US - California - San Diego · US - Remote",
+   "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Staff-Bioinformatics-Scientist----Oncology-MRD-Algorithm-Development_43489-JOB",
+   "posted": "2026-09-24",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-255722",
+   "title": "Grad Intern – Data Scientist – Technology, AI & Data (Summer 2027)",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "United States - Remote",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722",
+   "posted": "2026-09-23",
+   "tags": [
+    "Intern",
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-illumina-43169-JOB",
+   "title": "Staff Data Engineer",
+   "company": "Illumina",
+   "domain": "Genomics / Diagnostics",
+   "location": "US - California - San Diego · US - Bay Area - Foster City",
+   "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Staff-Data-Engineer_43169-JOB-1",
+   "posted": "2026-09-23",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-danaher-R1314269",
+   "title": "Sr. AI Engineer",
+   "company": "Danaher",
+   "domain": "Life Science Tools",
+   "location": "Washington DC, United States",
+   "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Washington-DC-United-States/Sr-AI-Engineer_R1314269",
+   "posted": "2026-09-23",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8807767002",
+   "title": "Staff Product Manager, AI Product",
+   "company": "PathAI",
+   "domain": "Pathology / Spatial Biology",
+   "location": "Boston, MA, NYC, or Remote · Boston · New York · Remote",
+   "url": "https://www.pathai.com/careers/8807767002?gh_jid=8807767002",
+   "posted": "2026-09-22",
+   "tags": [
+    "Imaging",
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-roche-202609-123431",
+   "title": "Senior Data Scientist - ML Engineering & MLOps",
+   "company": "Genentech / Roche",
+   "domain": "Pharma",
+   "location": "San Jose, Costa Rica",
+   "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/San-Jose-Costa-Rica/Senior-Data-Scientist---ML-Engineering---MLOps_202609-123431",
+   "posted": "2026-09-22",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-roche-202609-123437",
+   "title": "Senior Data Scientist - Generative AI & Agentic Systems",
+   "company": "Genentech / Roche",
+   "domain": "Pharma",
+   "location": "San Jose, Costa Rica",
+   "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/San-Jose-Costa-Rica/Senior-Data-Scientist---Generative-AI---Agentic-Systems_202609-123437",
+   "posted": "2026-09-22",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-095854",
+   "title": "Senior Data Scientist, Biologics Discovery",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Spring House, Pennsylvania, United States of America · Raritan, New Jersey, United States of America · Titusville, New Jersey, United States of America · Madrid, Spain",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Senior-Data-Scientist--Biologics-Discovery_R-095854-1",
+   "posted": "2026-09-22",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-sanofi-R2864862",
+   "title": "2027 Spring Co-op Machine Learning AI, Cambridge, MA",
+   "company": "Sanofi",
+   "domain": "Pharma",
+   "location": "Cambridge, MA",
+   "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Machine-Learning-AI--Cambridge--MA_R2864862",
+   "posted": "2026-09-22",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0054104",
+   "title": "Senior Manager, Machine Learning Platform Engineer",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Senior-Manager--Machine-Learning-Platform-Engineer_R0054104-2",
+   "posted": "2026-09-22",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6204391004",
+   "title": "Senior Data Scientist, Medical Imaging",
+   "company": "HeartFlow",
+   "domain": "Medical Imaging AI",
+   "location": "San Francisco, California",
+   "url": "https://job-boards.greenhouse.io/heartflowinc/jobs/6204391004",
+   "posted": "2026-09-21",
+   "tags": [
+    "Imaging"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-256347",
+   "title": "Senior UI Developer, AI Studio",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "US - Florida - Tampa · United States - Remote",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---Florida---Tampa/Senior-UI-Developer--AI-Studio_R-256347",
+   "posted": "2026-09-21",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-1253d6c7-f9ce-4bda-ab08-2abe1a9fbfd0",
+   "title": "Senior Manager / Director, Statistical Genetics",
+   "company": "insitro",
+   "domain": "AI Drug Discovery",
+   "location": "South San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/insitro/1253d6c7-f9ce-4bda-ab08-2abe1a9fbfd0",
+   "posted": "2026-09-18",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8213713",
+   "title": "Senior Data Engineer",
+   "company": "Formation Bio",
+   "domain": "AI Drug Discovery",
+   "location": "New York, NY; Boston, MA; San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/formationbio/jobs/8213713",
+   "posted": "2026-09-18",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "lv-5263bd60-3a9c-4686-ba86-2a00201c0cf0",
+   "title": "Senior/Staff Machine Learning Engineer (Tech Lead, Model Dev)",
+   "company": "Artera",
+   "domain": "Pathology / Spatial Biology",
+   "location": "Remote-US",
+   "url": "https://jobs.lever.co/artera/5263bd60-3a9c-4686-ba86-2a00201c0cf0",
+   "posted": "2026-09-18",
+   "tags": [
+    "Imaging",
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4714222006",
+   "title": "Applied AI Engineer",
+   "company": "Iterative Health",
+   "domain": "Medical Imaging AI",
+   "location": "Cambridge, Massachusetts, United States, New York, New York, United States",
+   "url": "https://job-boards.greenhouse.io/iterativehealth/jobs/4714222006",
+   "posted": "2026-09-18",
+   "tags": [
+    "Imaging"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-roche-202609-123432",
+   "title": "Data Science - Engagement Lead",
+   "company": "Genentech / Roche",
+   "domain": "Pharma",
+   "location": "San Jose, Costa Rica",
+   "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/San-Jose-Costa-Rica/Data-Science---Engagement-Lead_202609-123432",
+   "posted": "2026-09-18",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-nvidia-JR2025378",
+   "title": "Senior Developer Relations Lead, AI-Enabled Drug Discovery Science",
+   "company": "NVIDIA (Healthcare)",
+   "domain": "AI for Science",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Lead--AI-Enabled-Drug-Discovery-Science_JR2025378-1",
+   "posted": "2026-09-18",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-regeneron-R50609",
+   "title": "Executive Director: Data Management, Analytics, AI & Architecture",
+   "company": "Regeneron",
+   "domain": "Pharma",
+   "location": "Warren · SLEEPY HOLLOW · TARRYTOWN · Armonk",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/Warren/Executive-Director--Data-Management--Analytics--AI---Architecture_R50609",
+   "posted": "2026-09-17",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-illumina-43440-JOB",
+   "title": "Director Clinical Bioinformatics",
+   "company": "Illumina",
+   "domain": "Genomics / Diagnostics",
+   "location": "US - California - San Diego",
+   "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Director-Clinical-Bioinformatics_43440-JOB-1",
+   "posted": "2026-09-17",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4396760009",
+   "title": "Machine Learning Scientist I / II, Protein Design",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4396760009",
+   "posted": "2026-09-15",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4392245009",
+   "title": "ML Scientist I/II, AI for Protein Engineering",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4392245009",
+   "posted": "2026-09-15",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4392247009",
+   "title": "Senior ML Scientist, AI for Protein Engineering",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4392247009",
+   "posted": "2026-09-15",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4395725009",
+   "title": "Senior ML Scientist, Biological Systems",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4395725009",
+   "posted": "2026-09-15",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4395727009",
+   "title": "Senior/Principal ML Scientist, Translational Biology",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4395727009",
+   "posted": "2026-09-15",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-roche-202608-122114",
+   "title": "Global Head Regulatory Data, Digital and AI",
+   "company": "Genentech / Roche",
+   "domain": "Pharma",
+   "location": "Basel · South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Global-Head-Regulatory-Data--Digital-and-AI_202608-122114",
+   "posted": "2026-09-15",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-novartis-REQ-10087843",
+   "title": "Computational Medicinal Chemist",
+   "company": "Novartis",
+   "domain": "Pharma",
+   "location": "LaJolla/SD",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/LaJollaSD/Computational-Medicinal-Chemist_REQ-10087843-1",
+   "posted": "2026-09-15",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-255709",
+   "title": "Undergrad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027)",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "United States - Remote",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709",
+   "posted": "2026-09-14",
+   "tags": [
+    "Intern",
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-255743",
+   "title": "Grad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027)",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "United States - Remote",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743",
+   "posted": "2026-09-14",
+   "tags": [
+    "Intern",
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-255704",
+   "title": "Undergrad Intern – Data Scientist – Technology, AI & Data (Summer 2027)",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "United States - Remote",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704",
+   "posted": "2026-09-14",
+   "tags": [
+    "Intern",
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8769653002",
+   "title": "Senior/Staff Software Engineer, ML Ops",
+   "company": "PathAI",
+   "domain": "Pathology / Spatial Biology",
+   "location": "Boston, MA · Boston · New York · Remote",
+   "url": "https://www.pathai.com/careers/8769653002?gh_jid=8769653002",
+   "posted": "2026-09-11",
+   "tags": [
+    "Imaging",
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-254571",
+   "title": "Assoc. Director - Human Data & Computational Biology",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "US - California - Thousand Oaks",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Assoc-Director---Human-Data---Computational-Biology_R-254571",
+   "posted": "2026-09-11",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-248759",
+   "title": "Sr. Data Scientist - Process Modeling",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "US - Massachusetts - Boston · US - Wyoming - Cheyenne · US - Texas - Houston · US - Kentucky - Louisville · US - Georgia - Atlanta · US - California - Thousand Oaks · US - Kansas - Wichita · US - Mississippi - Jackson · US - Wisconsin - Milwaukee · US - Ohio - Columbus · US - Minnesota - Minneapolis · US - North Dakota - Fargo · US - Iowa - Des Moines · US - West Virginia - Charleston · US - Washington D.C. · US - Washington - Seattle · US - Tennessee - Memphis · US - North Carolina - Charlotte · US - Indiana - Indianapolis · US - Florida - Jacksonville · US - South Dakota - Sioux Falls · US - Virginia - Virginia Beach · US - New York - New York · US - South Carolina - Columbia · US - Rhode Island - Providence · US - Michigan - Detroit · US - Arkansas - Little Rock · US - Delaware - Wilmington · US - New Mexico - Albuquerque · US - Vermont - Burlington · US - Pennsylvania - Philadelphia · US - Utah - Salt Lake City · US - Arizona - Phoenix · US - New Jersey - Newark · US - Oregon - Portland · US - Connecticut - Bridgeport · US - Alaska - Anchorage · US - Illinois - Chicago · US - New Hampshire - Manchester · US - Oklahoma - Oklahoma City · US - Colorado - Denver · US - California - Los Angeles · US - Massachusetts - Cambridge · US - Nevada - Las Vegas · US - Alabama - Birmingham · US - Nebraska - Omaha · US - Montana - Billings · US - Maryland - Baltimore · US - Maine - Portland · US - Idaho - Boise City · US - Hawaii - Honolulu · US - Louisiana - New Orleans · US - Missouri - Kansas City",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---Massachusetts---Boston/Sr-Data-Scientist---Process-Modeling_R-248759",
+   "posted": "2026-09-10",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8188707",
+   "title": "Senior AI Researcher",
+   "company": "Recursion",
+   "domain": "AI Drug Discovery",
+   "location": "Remote Opportunity - United States",
+   "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/8188707",
+   "posted": "2026-09-09",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8786343002",
+   "title": "Machine Learning Engineer III (Applied Research & Model Development)",
+   "company": "PathAI",
+   "domain": "Pathology / Spatial Biology",
+   "location": "Boston (Onsite), New York (Onsite) Preferred, or Remote · Boston · New York · Remote",
+   "url": "https://www.pathai.com/careers/8786343002?gh_jid=8786343002",
+   "posted": "2026-09-08",
+   "tags": [
+    "Imaging",
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-pfizer-4961866",
+   "title": "Senior AI/ML Engineer - Research Data AI and Predictive Modeling (Vaccine R&D)",
+   "company": "Pfizer",
+   "domain": "Pharma",
+   "location": "United States - New York - Pearl River",
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---Pearl-River/Senior-AI-ML-Engineer---Research-Data-AI-and-Predictive-Modeling--Vaccine-R-D-_4961866-1",
+   "posted": "2026-09-08",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-pfizer-4959328",
+   "title": "Senior ML/AI Cheminformatics Scientist",
+   "company": "Pfizer",
+   "domain": "Pharma",
+   "location": "United States - Connecticut - Groton",
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Connecticut---Groton/Senior-ML-AI-Cheminformatics-Scientist_4959328-1",
+   "posted": "2026-09-08",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-pfizer-4959329",
+   "title": "Principal ML/AI Cheminformatics Scientist",
+   "company": "Pfizer",
+   "domain": "Pharma",
+   "location": "United States - Connecticut - Groton",
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Connecticut---Groton/Principal-ML-AI-Cheminformatics-Scientist_4959329-1",
+   "posted": "2026-09-08",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0052730",
+   "title": "AI Data Science Lead – PDM & Tech Ops (Gilead & Kite)",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - North Carolina - Raleigh",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/AI-Data-Science-Lead---PDM---Tech-Ops--Gilead---Kite-_R0052730-2",
+   "posted": "2026-09-08",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-illumina-43424-JOB",
+   "title": "Director of AI Strategy, Architecture and Solutions",
+   "company": "Illumina",
+   "domain": "Genomics / Diagnostics",
+   "location": "US - California - San Diego",
+   "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Director-of-AI-Strategy--Architecture-and-Solutions_43424-JOB",
+   "posted": "2026-09-08",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-254054",
+   "title": "Agentic AI Business Solutions (Field), Director",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "US - California - Thousand Oaks",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Agentic-AI-Business-Solutions--Field---Director_R-254054-1",
+   "posted": "2026-09-04",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-254726",
+   "title": "Sr. Scientist – Bioinformatics, Computational Biology, Proteomics",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "US - California - South San Francisco · US - California - Thousand Oaks",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Sr-Scientist---Bioinformatics--Computational-Biology--Proteomics_R-254726",
+   "posted": "2026-09-04",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-astrazeneca-R-259425",
+   "title": "Computational Chemistry Co-op , Closed-Loop Ligand Design and Optimization (Doctoral)",
+   "company": "AstraZeneca",
+   "domain": "Pharma",
+   "location": "US - New Haven - CT",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---New-Haven---CT/Computational-Chemistry-Co-op--Closed-Loop-Ligand-Design-and-Optimization_R-259425-1",
+   "posted": "2026-09-03",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0051455",
+   "title": "Senior Scientist, AI/ML (Biologics Design)",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Senior-Scientist--Machine-Learning_R0051455-1",
+   "posted": "2026-09-03",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0054995",
+   "title": "Computational Pathology Scientist",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Computational-Pathology-Scientist_R0054995-2",
+   "posted": "2026-09-03",
+   "tags": [
+    "Imaging"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5228742007",
+   "title": "Scientist, AI/ML — Antibody Developability",
+   "company": "Ginkgo Bioworks",
+   "domain": "Synthetic Biology",
+   "location": "California, United States",
+   "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5228742007",
+   "posted": "2026-09-02",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8167799",
+   "title": "Senior Computational Scientist",
+   "company": "Twist Bioscience",
+   "domain": "Genomics / Diagnostics",
+   "location": "USA - South San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/twistbioscience/jobs/8167799",
+   "posted": "2026-09-02",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4377096009",
+   "title": "Senior Data Engineer, Bioinformatics, Cheminformatics, Materials",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4377096009",
+   "posted": "2026-09-01",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6177330004",
+   "title": "Engineering Manager - Agentic AI",
+   "company": "HeartFlow",
+   "domain": "Medical Imaging AI",
+   "location": "San Francisco, California",
+   "url": "https://job-boards.greenhouse.io/heartflowinc/jobs/6177330004",
+   "posted": "2026-09-01",
+   "tags": [
+    "Imaging"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gsk-446353",
+   "title": "Director, AI/ML MIDD Oncology Clinical Pharmacology, Modeling and Simulation",
+   "company": "GSK",
+   "domain": "Pharma",
+   "location": "USA - Massachusetts - Waltham · UK - Hertfordshire - Stevenage · UK – London – New Oxford Street · Belgium-Wavre · USA - Pennsylvania - Upper Providence · Durham Blackwell Street",
+   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---Massachusetts---Waltham/Director--AI-ML-MIDD-Oncology-Clinical-Pharmacology--Modeling-and-Simulation_446353",
+   "posted": "2026-09-01",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-e418c9bf-4fe6-4484-92ad-e9a320557815",
+   "title": "Machine Learning Scientist – Clinical Prediction",
+   "company": "Iambic Therapeutics",
+   "domain": "AI Drug Discovery",
+   "location": "Boston Office · Remote - US",
+   "url": "https://jobs.ashbyhq.com/iambic-therapeutics/e418c9bf-4fe6-4484-92ad-e9a320557815",
+   "posted": "2026-08-31",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8167989",
+   "title": "Associate Director, Data Engineering",
+   "company": "Formation Bio",
+   "domain": "AI Drug Discovery",
+   "location": "New York, NY; Boston, MA; San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/formationbio/jobs/8167989",
+   "posted": "2026-08-31",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8752452002",
+   "title": "Senior Bioinformatics Research Engineer",
+   "company": "Freenome",
+   "domain": "Genomics / Diagnostics",
+   "location": "Brisbane, California",
+   "url": "https://job-boards.greenhouse.io/freenome/jobs/8752452002",
+   "posted": "2026-08-31",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-ec4a278a-dd78-4e9c-a203-87e3e2f59e60",
+   "title": "Senior Data Scientist, CompBio",
+   "company": "insitro",
+   "domain": "AI Drug Discovery",
+   "location": "South San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/insitro/ec4a278a-dd78-4e9c-a203-87e3e2f59e60",
+   "posted": "2026-08-28",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5225658007",
+   "title": "AI Scientist Intern, Computational Protein Design",
+   "company": "Xaira Therapeutics",
+   "domain": "AI Drug Discovery",
+   "location": "Seattle, Washington, United States; South San Francisco, California, United States",
+   "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007",
+   "posted": "2026-08-28",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6140838004",
+   "title": "Research Leader / Senior Scientist (Computational Drug Design), Cambridge, MA",
+   "company": "Isomorphic Labs",
+   "domain": "AI Drug Discovery",
+   "location": "Cambridge, MA",
+   "url": "https://job-boards.greenhouse.io/isomorphiclabs/jobs/6140838004",
+   "posted": "2026-08-28",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-c1ad7288-ad78-4a0f-8f19-1fcc3f6cf85b",
+   "title": "Data Engineer",
+   "company": "Benchling",
+   "domain": "Bio Software / Data",
+   "location": "San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/benchling/c1ad7288-ad78-4a0f-8f19-1fcc3f6cf85b",
+   "posted": "2026-08-28",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-50be2fab-54c1-4310-8cec-3fe6123b8a8f",
+   "title": "Machine Learning Scientist — Large Multimodal Models (Post-Training)",
+   "company": "Iambic Therapeutics",
+   "domain": "AI Drug Discovery",
+   "location": "Boston Office",
+   "url": "https://jobs.ashbyhq.com/iambic-therapeutics/50be2fab-54c1-4310-8cec-3fe6123b8a8f",
+   "posted": "2026-08-27",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-f7510994-9d2f-41ab-bd9f-43e30c37e409",
+   "title": "Senior ML Research Scientist",
+   "company": "Rad AI",
+   "domain": "Medical Imaging AI",
+   "location": "San Francisco - Onsite · United States - Remote",
+   "url": "https://jobs.ashbyhq.com/radai/f7510994-9d2f-41ab-bd9f-43e30c37e409",
+   "posted": "2026-08-27",
+   "tags": [
+    "Imaging",
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8742221002",
+   "title": "Senior / Principal Computational Biologist",
+   "company": "Cellarity",
+   "domain": "AI Drug Discovery",
+   "location": "Somerville, MA",
+   "url": "https://job-boards.greenhouse.io/cellarity/jobs/8742221002",
+   "posted": "2026-08-26",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8140482",
+   "title": "Computational Biologist, Immune Cell Repolarization",
+   "company": "CZ Biohub",
+   "domain": "Research Institute",
+   "location": "New York, NY (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/8140482",
+   "posted": "2026-08-26",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-novartis-REQ-10086525",
+   "title": "Director, Data Science (3 openings)",
+   "company": "Novartis",
+   "domain": "Pharma",
+   "location": "East Hanover",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/East-Hanover/Director--Data-Science--3-openings-_REQ-10086525",
+   "posted": "2026-08-26",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-regeneron-R50015",
+   "title": "Executive Director - Data Management, Analytics, AI & Architecture",
+   "company": "Regeneron",
+   "domain": "Pharma",
+   "location": "SLEEPY HOLLOW",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/SLEEPY-HOLLOW/Executive-Director---Data-Management--Analytics--AI---Architecture_R50015",
+   "posted": "2026-08-26",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5220505007",
+   "title": "Cheminformatics & Synthesis Prediction",
+   "company": "Ginkgo Bioworks",
+   "domain": "Synthetic Biology",
+   "location": "Boston, Massachusetts",
+   "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5220505007",
+   "posted": "2026-08-25",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-novartis-REQ-10084383",
+   "title": "AI Scientist – AI-Driven Target Identification",
+   "company": "Novartis",
+   "domain": "Pharma",
+   "location": "Cambridge (USA)",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Cambridge-USA/AI-Scientist---AI-Driven-Target-Identification_REQ-10084383-1",
+   "posted": "2026-08-25",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-novartis-REQ-10084589",
+   "title": "Data Science & AI Innovation Postdoctoral Fellow",
+   "company": "Novartis",
+   "domain": "Pharma",
+   "location": "Cambridge (USA)",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Cambridge-USA/Data-Science---AI-Innovation-Postdoctoral-Fellow_REQ-10084589-1",
+   "posted": "2026-08-25",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0054188",
+   "title": "Clinical Data Scientist -RWE Data Analysis Oversight Lead: Inflammation",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - New Jersey - Parsippany · United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---New-Jersey---Parsippany/Clinical-Data-Scientist--RWE-Data-Analysis-Oversight-Lead--Inflammation_R0054188-2",
+   "posted": "2026-08-25",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5219763007",
+   "title": "Computational Synthetic Chemist",
+   "company": "Ginkgo Bioworks",
+   "domain": "Synthetic Biology",
+   "location": "Boston, Massachusetts",
+   "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5219763007",
+   "posted": "2026-08-24",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-3fbb23bd-c06c-49da-8834-4da67200275e",
+   "title": "Research Engineer, Model Evaluation and Improvement",
+   "company": "Benchling",
+   "domain": "Bio Software / Data",
+   "location": "San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/benchling/3fbb23bd-c06c-49da-8834-4da67200275e",
+   "posted": "2026-08-24",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-250796",
+   "title": "Machine Learning Engineer, AI Studio",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "United States - Remote",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Machine-Learning-Engineer--AI-Studio_R-250796",
+   "posted": "2026-08-24",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-regeneron-R50147",
+   "title": "Lead AI Engineer",
+   "company": "Regeneron",
+   "domain": "Pharma",
+   "location": "TARRYTOWN · SLEEPY HOLLOW",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/Lead-AI-Engineer_R50147",
+   "posted": "2026-08-24",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-753cbb4f-f019-459b-b06e-659e30094d86",
+   "title": "Senior/Staff AI Scientist, Antibody Design",
+   "company": "Absci",
+   "domain": "AI Drug Discovery",
+   "location": "United States - Remote",
+   "url": "https://jobs.ashbyhq.com/absci/753cbb4f-f019-459b-b06e-659e30094d86",
+   "posted": "2026-08-21",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8141684",
+   "title": "Director/Senior Director, Product - Applied Data Science",
+   "company": "Formation Bio",
+   "domain": "AI Drug Discovery",
+   "location": "New York, NY; Boston, MA",
+   "url": "https://job-boards.greenhouse.io/formationbio/jobs/8141684",
+   "posted": "2026-08-21",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6150570004",
+   "title": "Manager of Data Engineering & Delivery (Data Science Production Engineering)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6150570004",
+   "posted": "2026-08-21",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6137669004",
+   "title": "Manager of Data Engineering & Delivery (Data Science Production Engineering)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "US Remote",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6137669004",
+   "posted": "2026-08-21",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-novartis-REQ-10086333",
+   "title": "Associate Director, Agentic AI PoC Lead (2 openings)",
+   "company": "Novartis",
+   "domain": "Pharma",
+   "location": "Remote Position (USA)",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Remote-Position-USA/Associate-Director--Agentic-AI-PoC-Lead--2-openings-_REQ-10086333-1",
+   "posted": "2026-08-21",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-novartis-REQ-10086116",
+   "title": "Director, AI Foundations Engineering (2 Openings)",
+   "company": "Novartis",
+   "domain": "Pharma",
+   "location": "Remote Position (USA)",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Remote-Position-USA/Director--AI-Foundations-Engineering--2-Openings-_REQ-10086116-1",
+   "posted": "2026-08-21",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-philips-589175",
+   "title": "Senior Scientist – Physical AI for Surgical Robotics (Cambridge, MA)",
+   "company": "Philips",
+   "domain": "Medical Imaging AI",
+   "location": "Cambridge (US), Massachusetts, United States",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Senior-Scientist---Physical-AI-for-Surgical-Robotics--Cambridge--MA-_589175",
+   "posted": "2026-08-21",
+   "tags": [
+    "Imaging"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5156238007",
+   "title": "AI in Residence, Computational Protein Design",
+   "company": "Xaira Therapeutics",
+   "domain": "AI Drug Discovery",
+   "location": "Seattle, Washington, United States",
+   "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5156238007",
+   "posted": "2026-08-20",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6147881004",
+   "title": "Director / Senior Director, Machine Learning for Biology",
+   "company": "Altos Labs",
+   "domain": "Longevity / Cell Biology",
+   "location": "San Diego, CA; San Francisco Bay Area, CA",
+   "url": "https://job-boards.greenhouse.io/altoslabs/jobs/6147881004",
+   "posted": "2026-08-20",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-7860122003",
+   "title": "Sr. Bioinformatics Scientist",
+   "company": "Singular Genomics",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Diego, CA",
+   "url": "https://job-boards.greenhouse.io/singulargenomics/jobs/7860122003",
+   "posted": "2026-08-19",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-7893982003",
+   "title": "Sr. Machine Learning Engineer - Machine Learning",
+   "company": "Dyno Therapeutics",
+   "domain": "AI Drug Discovery",
+   "location": "Remote; Watertown, Massachusetts, United States",
+   "url": "https://job-boards.greenhouse.io/dynotherapeutics/jobs/7893982003",
+   "posted": "2026-08-18",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-6236b729-9139-4971-8a31-3f5a9add1ed4",
+   "title": "Research Scientist II/Senior, Computational Chemistry",
+   "company": "Iambic Therapeutics",
+   "domain": "AI Drug Discovery",
+   "location": "San Diego HQ · Remote - US",
+   "url": "https://jobs.ashbyhq.com/iambic-therapeutics/6236b729-9139-4971-8a31-3f5a9add1ed4",
+   "posted": "2026-08-15",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-252651",
+   "title": "Principal Scientist – Inflammation Human Data & Computational Biology",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "US - California - Thousand Oaks",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Principal-Scientist---Inflammation-Human-Data---Computational-Biology_R-252651",
+   "posted": "2026-08-13",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-246583",
+   "title": "Data Scientist",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "United States - Remote",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Data-Scientist_R-246583",
+   "posted": "2026-08-13",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0054301",
+   "title": "Sr. Manager, Platform Delivery Lead, Data & AI",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - North Carolina - Raleigh",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Sr-Manager--Platform-Delivery-Lead--Data---AI_R0054301-1",
+   "posted": "2026-08-13",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8127000",
+   "title": "Staff Research Scientist, AI Safety",
+   "company": "CZ Biohub",
+   "domain": "Research Institute",
+   "location": "New York, NY (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/8127000",
+   "posted": "2026-08-12",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6135539004",
+   "title": "Director of Data Science and Bioinformatics",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "US Remote",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6135539004",
+   "posted": "2026-08-12",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6142472004",
+   "title": "Director of Data Science and Bioinformatics",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6142472004",
+   "posted": "2026-08-12",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8696752002",
+   "title": "Machine Learning Engineer II (Applied Research & Model Development)",
+   "company": "PathAI",
+   "domain": "Pathology / Spatial Biology",
+   "location": "Boston (Onsite), New York (Onsite) Preferred, or Remote · Boston · New York · Remote",
+   "url": "https://www.pathai.com/careers/8696752002?gh_jid=8696752002",
+   "posted": "2026-08-11",
+   "tags": [
+    "Imaging",
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-252078",
+   "title": "Scientist, Integrated Computational and Experimental Inflammation Discovery",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "US - California - South San Francisco",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Scientist--Integrated-Computational-and-Experimental-Inflammation-Discovery_R-252078",
+   "posted": "2026-08-11",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gehc-R4043470",
+   "title": "Cloud Infrastructure Engineer (AI/ML)",
+   "company": "GE HealthCare",
+   "domain": "Medical Imaging AI",
+   "location": "OH05-01-Beachwood-Science Park Drive",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Research-Engineer-II---ML-Ops_R4043470-1",
+   "posted": "2026-08-11",
+   "tags": [
+    "Imaging"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6138809004",
+   "title": "Associate Director of Bioinformatics (Women's Health and Organ Health)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "US Remote",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6138809004",
+   "posted": "2026-08-10",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6139063004",
+   "title": "Associate Director of Bioinformatics (Women's Health and Organ Health)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6139063004",
+   "posted": "2026-08-10",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-252035",
+   "title": "Strategic Communications, Corporate Affairs Director – R&D & AI&D",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "United States - Remote",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Strategic-Communications--Corporate-Affairs-Director---R-D---AI-D_R-252035",
+   "posted": "2026-08-10",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5290271008",
+   "title": "Software Engineer, Machine Learning Platform",
+   "company": "Profluent",
+   "domain": "AI Drug Discovery",
+   "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
+   "url": "https://job-boards.greenhouse.io/profluent/jobs/5290271008",
+   "posted": "2026-08-07",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8112574",
+   "title": "Sr Staff/Staff Data Scientist, Imaging",
+   "company": "CZ Biohub",
+   "domain": "Research Institute",
+   "location": "Redwood City, CA (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/8112574",
+   "posted": "2026-08-06",
+   "tags": [
+    "Imaging"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8658848002",
+   "title": "Computational Biologist",
+   "company": "Freenome",
+   "domain": "Genomics / Diagnostics",
+   "location": "Remote",
+   "url": "https://job-boards.greenhouse.io/freenome/jobs/8658848002",
+   "posted": "2026-08-05",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8658763002",
+   "title": "Staff Computational Biologist",
+   "company": "Freenome",
+   "domain": "Genomics / Diagnostics",
+   "location": "Remote",
+   "url": "https://job-boards.greenhouse.io/freenome/jobs/8658763002",
+   "posted": "2026-08-05",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-250799",
+   "title": "Senior Forward Deployed Engineer, AI Studio",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "United States - Remote",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Senior-Forward-Deployed-Engineer--AI-Studio_R-250799",
+   "posted": "2026-08-05",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-regeneron-R49699",
+   "title": "Executive Director, Responsible AI & Enterprise Governance",
+   "company": "Regeneron",
+   "domain": "Pharma",
+   "location": "TARRYTOWN · Seattle, WA",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/Executive-Director---Responsible-AI---Enterprise-Governance_R49699",
+   "posted": "2026-08-05",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6134331004",
+   "title": "Scientist, Computational Biology",
+   "company": "Arc Institute",
+   "domain": "Research Institute",
+   "location": "Palo Alto, CA",
+   "url": "https://job-boards.greenhouse.io/arcinstitute/jobs/6134331004",
+   "posted": "2026-08-04",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4286513009",
+   "title": "Research Engineer, Scientific Data & Workflow Infrastructure",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA; San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4286513009",
+   "posted": "2026-08-03",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4340155009",
+   "title": "Scientist II/Senior Scientist, Computational Biophysics",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA; London, UK; San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4340155009",
+   "posted": "2026-08-03",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5375801008",
+   "title": "Machine Learning Scientist, Pretraining",
+   "company": "Profluent",
+   "domain": "AI Drug Discovery",
+   "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
+   "url": "https://job-boards.greenhouse.io/profluent/jobs/5375801008",
+   "posted": "2026-08-03",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-roche-202607-118174",
+   "title": "Senior Bioinformatics Software Engineer",
+   "company": "Genentech / Roche",
+   "domain": "Pharma",
+   "location": "Santa Clara",
+   "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/Senior-Bioinformatics-Software-Engineer_202607-118174-2",
+   "posted": "2026-07-30",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-regeneron-R48875",
+   "title": "Associate Manager, Production AI/ML Engineering, Advanced Informatics",
+   "company": "Regeneron",
+   "domain": "Pharma",
+   "location": "TARRYTOWN",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/Assoc-Manager--Production-AI-ML-Engineering--Advanced-Informatics_R48875",
+   "posted": "2026-07-29",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4324886009",
+   "title": "Research Scientist, Computational Condensed Matter Physics",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4324886009",
+   "posted": "2026-07-28",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6115022004",
+   "title": "Forward Deployed AI Solutions Engineer",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "US Remote",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6115022004",
+   "posted": "2026-07-28",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6115020004",
+   "title": "Staff Forward Deployed AI Solutions Engineer",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "US Remote",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6115020004",
+   "posted": "2026-07-28",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4324969009",
+   "title": "ML Scientist, Nucleic Acid Design",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4324969009",
+   "posted": "2026-07-27",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0053716",
+   "title": "Platform Delivery Lead, Data & AI",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - North Carolina - Raleigh",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Platform-Delivery-Lead--Data---AI_R0053716-2",
+   "posted": "2026-07-24",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-7813878003",
+   "title": "AI Product Manager",
+   "company": "Dyno Therapeutics",
+   "domain": "AI Drug Discovery",
+   "location": "Watertown, Massachusetts, United States",
+   "url": "https://job-boards.greenhouse.io/dynotherapeutics/jobs/7813878003",
+   "posted": "2026-07-23",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8638413002",
+   "title": "Staff Computational Biologist",
+   "company": "Freenome",
+   "domain": "Genomics / Diagnostics",
+   "location": "Remote",
+   "url": "https://job-boards.greenhouse.io/freenome/jobs/8638413002",
+   "posted": "2026-07-22",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-242484",
+   "title": "Associate Director- Supply Chain Data Science",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "United States - Remote · Portugal - Remote · Netherlands - Remote · Ireland - Remote",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Associate-Director--Supply-Chain-Data-Science_R-242484",
+   "posted": "2026-07-22",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gilead-R0052718",
+   "title": "Director, IT Data & AI Product Owner – PDM & Tech Ops",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Director--IT-Data---AI-Product-Owner---PDM---Tech-Ops_R0052718-2",
+   "posted": "2026-07-21",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-93166675-497c-460d-bf91-fa9d2f1aa9ba",
+   "title": "Machine Learning Research Manager",
+   "company": "Rad AI",
+   "domain": "Medical Imaging AI",
+   "location": "San Francisco - Onsite · United States - Remote",
+   "url": "https://jobs.ashbyhq.com/radai/93166675-497c-460d-bf91-fa9d2f1aa9ba",
+   "posted": "2026-07-17",
+   "tags": [
+    "Imaging",
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5182395007",
+   "title": "Computational design of biological experiments for model development",
+   "company": "Inceptive",
+   "domain": "AI Drug Discovery",
+   "location": "Berlin, Germany or Palo Alto, CA or Zurich, Switzerland",
+   "url": "https://job-boards.greenhouse.io/inceptive/jobs/5182395007",
+   "posted": "2026-07-16",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5182394007",
+   "title": "Data selection and quality evaluation for biological foundation models",
+   "company": "Inceptive",
+   "domain": "AI Drug Discovery",
+   "location": "Berlin, Germany or Palo Alto, CA or Zurich, Switzerland",
+   "url": "https://job-boards.greenhouse.io/inceptive/jobs/5182394007",
+   "posted": "2026-07-16",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8627491002",
+   "title": "Staff Machine Learning Scientist",
+   "company": "Freenome",
+   "domain": "Genomics / Diagnostics",
+   "location": "Remote",
+   "url": "https://job-boards.greenhouse.io/freenome/jobs/8627491002",
+   "posted": "2026-07-16",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8635675002",
+   "title": "Senior / Staff Cloud Platform Engineer (ML)",
+   "company": "Calico",
+   "domain": "Longevity / Cell Biology",
+   "location": "South San Francisco, CA",
+   "url": "https://www.calicolabs.com/careers/?gh_jid=8635675002",
+   "posted": "2026-07-15",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4696856006",
+   "title": "Senior Machine Learning Scientist I/II, Model-Driven Optimization",
+   "company": "Generate:Biomedicines",
+   "domain": "AI Drug Discovery",
+   "location": "Somerville, MA",
+   "url": "https://generatebiomedicines.com/open-positions?gh_jid=4696856006",
+   "posted": "2026-07-14",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4273850009",
+   "title": "Principal Scientist / Associate Director, Agentic AI Research for Materials Science",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA; San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4273850009",
+   "posted": "2026-07-10",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8054379",
+   "title": "Senior Computational Biologist – Early Discovery Immunology",
+   "company": "Recursion",
+   "domain": "AI Drug Discovery",
+   "location": "New York, New York; Salt Lake City, Utah",
+   "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/8054379",
+   "posted": "2026-07-09",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8054131",
+   "title": "Senior Computational Biologist - Early Discovery Oncology",
+   "company": "Recursion",
+   "domain": "AI Drug Discovery",
+   "location": "New York, New York; Salt Lake City, Utah",
+   "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/8054131",
+   "posted": "2026-07-09",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-novartis-REQ-10082558",
+   "title": "Data Scientist, AI for Biomedical Imaging",
+   "company": "Novartis",
+   "domain": "Pharma",
+   "location": "Cambridge (USA)",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Cambridge-USA/Data-Scientist--AI-for-Biomedical-Imaging_REQ-10082558-1",
+   "posted": "2026-07-09",
+   "tags": [
+    "Imaging"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-dc25d641-aff0-4804-8276-8c3406119c4b",
+   "title": "Product Manager, Growth, Scientific AI Models",
+   "company": "Benchling",
+   "domain": "Bio Software / Data",
+   "location": "San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/benchling/dc25d641-aff0-4804-8276-8c3406119c4b",
+   "posted": "2026-07-07",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-danaher-R1313629",
+   "title": "Senior AI Engineer, Legal - USA Remote",
+   "company": "Danaher",
+   "domain": "Life Science Tools",
+   "location": "USA - Remote · IND - Remote · CAN - Remote",
+   "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/USA---Remote/Senior-AI-Engineer--Legal---USA-Remote_R1313629",
+   "posted": "2026-07-06",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4302917009",
+   "title": "Senior / Staff Machine Learning Engineer, Applied AI",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA; San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4302917009",
+   "posted": "2026-07-01",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4689741006",
+   "title": "Forward Deployed Product Manager – AI",
+   "company": "Iterative Health",
+   "domain": "Medical Imaging AI",
+   "location": "Cambridge, Massachusetts, United States, New York, New York, United States",
+   "url": "https://job-boards.greenhouse.io/iterativehealth/jobs/4689741006",
+   "posted": "2026-06-30",
+   "tags": [
+    "Imaging"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-novartis-REQ-10081408",
+   "title": "Principal Scientist II/Senior Principal Scientist, PK Sciences Clinical Pharmacology Artificial Intelligence (AI) Lead (dual level posting)",
+   "company": "Novartis",
+   "domain": "Pharma",
+   "location": "Cambridge (USA)",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Cambridge-USA/Principal-Scientist-II-Senior-Principal-Scientist--PK-Sciences-Clinical-Pharmacology-Artificial-Intelligence--AI--Lead--dual-level-posting-_REQ-10081408-1",
+   "posted": "2026-06-26",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-gsk-435679",
+   "title": "AIML Software Engineer, AI for Science",
+   "company": "GSK",
+   "domain": "Pharma",
+   "location": "London The Stanley Building · USA - California - San Francisco · Switzerland - Zug · Heidelberg - Office · USA - Massachusetts - Cambridge",
+   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/London-The-Stanley-Building/AIML-Software-Engineer--AI-for-Science_435679-1",
+   "posted": "2026-06-24",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-7997533",
+   "title": "Staff Research Scientist, AI Safety",
+   "company": "CZ Biohub",
+   "domain": "Research Institute",
+   "location": "Redwood City, CA (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/7997533",
+   "posted": "2026-06-22",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-novartis-REQ-10080761",
+   "title": "Associate Director, Data Science",
+   "company": "Novartis",
+   "domain": "Pharma",
+   "location": "Cambridge (USA)",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Cambridge-USA/Associate-Director--Data-Science_REQ-10080761-1",
+   "posted": "2026-06-22",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-jj-R-083694",
+   "title": "Comm Ops Data Engineer - Shockwave Medical",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Santa Clara, California, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Comm-Ops-Data-Engineer---Shockwave-Medical_R-083694-1",
+   "posted": "2026-06-22",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6092032004",
+   "title": "Senior Software Engineer - ML Ops",
+   "company": "Truveta",
+   "domain": "Bio Software / Data",
+   "location": "Seattle, WA",
+   "url": "https://job-boards.greenhouse.io/truveta/jobs/6092032004",
+   "posted": "2026-06-17",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-9ddc2691-8f3d-491e-ab10-3a96fe32600a",
+   "title": "Research Scientist II/Senior, Discovery Machine Learning",
+   "company": "Iambic Therapeutics",
+   "domain": "AI Drug Discovery",
+   "location": "San Diego HQ",
+   "url": "https://jobs.ashbyhq.com/iambic-therapeutics/9ddc2691-8f3d-491e-ab10-3a96fe32600a",
+   "posted": "2026-06-15",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-thermofisher-R-01355180",
+   "title": "Scientist III, Bioinformatics, Upstream Process Development",
+   "company": "Thermo Fisher",
+   "domain": "Life Science Tools",
+   "location": "Grand Island, New York, USA",
+   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Grand-Island-New-York-USA/Scientist-III--Bioinformatics--Upstream-Process-Development_R-01355180-1",
+   "posted": "2026-06-15",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-9a5c5622-2da9-42d5-88ef-b4a39d1c044f",
+   "title": "Senior Manager, Imaging Machine Learning",
+   "company": "insitro",
+   "domain": "AI Drug Discovery",
+   "location": "South San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/insitro/9a5c5622-2da9-42d5-88ef-b4a39d1c044f",
+   "posted": "2026-06-11",
+   "tags": [
+    "Imaging"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5162274007",
+   "title": "Senior Software Engineer, ML Platform",
+   "company": "Xaira Therapeutics",
+   "domain": "AI Drug Discovery",
+   "location": "Seattle, Washington, United States",
+   "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5162274007",
+   "posted": "2026-06-11",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5248524008",
+   "title": "Machine Learning Scientist, BioML",
+   "company": "Profluent",
+   "domain": "AI Drug Discovery",
+   "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
+   "url": "https://job-boards.greenhouse.io/profluent/jobs/5248524008",
+   "posted": "2026-06-05",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5238462008",
+   "title": "Machine Learning Scientist, Reinforcement Learning",
+   "company": "Profluent",
+   "domain": "AI Drug Discovery",
+   "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
+   "url": "https://job-boards.greenhouse.io/profluent/jobs/5238462008",
+   "posted": "2026-06-02",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4259557009",
+   "title": "Technical Program Manager, AI Data",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA; San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4259557009",
+   "posted": "2026-06-01",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6004385004",
+   "title": "Machine Learning Scientist, Multimodal AI",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "US Remote",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6004385004",
+   "posted": "2026-05-28",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-7961602",
+   "title": "Associate Director, Computational Biology – Early Discovery",
+   "company": "Recursion",
+   "domain": "AI Drug Discovery",
+   "location": "Salt Lake City, Utah",
+   "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7961602",
+   "posted": "2026-05-27",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8550220002",
+   "title": "Staff Data Scientist, Machine Learning in Epidemiology and Patient Data Products",
+   "company": "Valo Health",
+   "domain": "AI Drug Discovery",
+   "location": "Lexington, Massachusetts, United States; Remote; San Francisco, California, United States",
+   "url": "https://job-boards.greenhouse.io/valohealth/jobs/8550220002",
+   "posted": "2026-05-15",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5994696004",
+   "title": "Postdoctoral Researcher, ML for Biology, Hsu Lab",
+   "company": "Arc Institute",
+   "domain": "Research Institute",
+   "location": "Palo Alto, CA",
+   "url": "https://job-boards.greenhouse.io/arcinstitute/jobs/5994696004",
+   "posted": "2026-05-12",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-amgen-R-244307",
+   "title": "Senior Scientist - Computational Protein Design",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "US - California - South San Francisco",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Senior-Scientist---Computational-Protein-Design_R-244307",
+   "posted": "2026-05-07",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8457339002",
+   "title": "Senior / Staff Machine Learning Research Engineer",
+   "company": "Calico",
+   "domain": "Longevity / Cell Biology",
+   "location": "South San Francisco, CA",
+   "url": "https://www.calicolabs.com/careers/?gh_jid=8457339002",
+   "posted": "2026-05-05",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5036777007",
+   "title": "AI Scientist - Biomedical Multimodal Modeling",
+   "company": "Xaira Therapeutics",
+   "domain": "AI Drug Discovery",
+   "location": "South San Francisco, California, United States",
+   "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5036777007",
+   "posted": "2026-05-04",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5127570007",
+   "title": "Computational Scientist, Assay Development",
+   "company": "Manifold Bio",
+   "domain": "AI Drug Discovery",
+   "location": "Boston",
+   "url": "https://job-boards.greenhouse.io/manifoldbio/jobs/5127570007",
+   "posted": "2026-05-04",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5127283007",
+   "title": "Product Manager, AI Platform & Partnerships",
+   "company": "Manifold Bio",
+   "domain": "AI Drug Discovery",
+   "location": "Boston or San Francisco",
+   "url": "https://job-boards.greenhouse.io/manifoldbio/jobs/5127283007",
+   "posted": "2026-05-03",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8533254002",
+   "title": "Machine Learning Scientist / Senior Machine Learning Scientist",
+   "company": "Calico",
+   "domain": "Longevity / Cell Biology",
+   "location": "South San Francisco, CA",
+   "url": "https://www.calicolabs.com/careers/?gh_jid=8533254002",
+   "posted": "2026-05-01",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5985158004",
+   "title": "Senior Engineer I, AI/Data Science",
+   "company": "Element Biosciences",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Diego - Headquarters",
+   "url": "https://job-boards.greenhouse.io/elementbiosciences/jobs/5985158004",
+   "posted": "2026-05-01",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-7858713",
+   "title": "Associate Director/Director, Data Science, EHR AI",
+   "company": "Formation Bio",
+   "domain": "AI Drug Discovery",
+   "location": "Boston, MA; New York, NY",
+   "url": "https://job-boards.greenhouse.io/formationbio/jobs/7858713",
+   "posted": "2026-04-30",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4222051009",
+   "title": "ML Scientist, Foundation Models for Life Sciences",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4222051009",
+   "posted": "2026-04-28",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4222034009",
+   "title": "Senior / Principal ML Scientist, Foundation Models for Life Sciences",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4222034009",
+   "posted": "2026-04-27",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5982590004",
+   "title": "Director, Machine Learning, Virtual Cell Initiative",
+   "company": "Arc Institute",
+   "domain": "Research Institute",
+   "location": "Palo Alto, CA",
+   "url": "https://job-boards.greenhouse.io/arcinstitute/jobs/5982590004",
+   "posted": "2026-04-27",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4666587006",
+   "title": "Staff Data Engineer",
+   "company": "Iterative Health",
+   "domain": "Medical Imaging AI",
+   "location": "Cambridge, Massachusetts, United States, New York, New York, United States",
+   "url": "https://job-boards.greenhouse.io/iterativehealth/jobs/4666587006",
+   "posted": "2026-04-24",
+   "tags": [
+    "Imaging"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5978375004",
+   "title": "ML Postdoc Researcher - Healthcare AI Innovation",
+   "company": "Truveta",
+   "domain": "Bio Software / Data",
+   "location": "Seattle, WA",
+   "url": "https://job-boards.greenhouse.io/truveta/jobs/5978375004",
+   "posted": "2026-04-21",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5106191007",
+   "title": "AI/ML Research Engineer",
+   "company": "Manifold Bio",
+   "domain": "AI Drug Discovery",
+   "location": "Boston, MA or San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/manifoldbio/jobs/5106191007",
+   "posted": "2026-04-13",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-bbb7dcf7-2311-4103-bebf-96901ca18775",
+   "title": "Forward Deployed AI Engineer",
+   "company": "Latent Labs",
+   "domain": "AI Drug Discovery",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/latentlabs/bbb7dcf7-2311-4103-bebf-96901ca18775",
+   "posted": "2026-04-08",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-7747517",
+   "title": "Research Engineer, AI",
+   "company": "CZ Biohub",
+   "domain": "Research Institute",
+   "location": "New York, NY (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/7747517",
+   "posted": "2026-04-08",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-7793665",
+   "title": "Research Engineer, AI",
+   "company": "CZ Biohub",
+   "domain": "Research Institute",
+   "location": "Redwood City, CA (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/7793665",
+   "posted": "2026-04-08",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-7793644",
+   "title": "Research Scientist, AI",
+   "company": "CZ Biohub",
+   "domain": "Research Institute",
+   "location": "Redwood City, CA (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/7793644",
+   "posted": "2026-04-08",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-7747518",
+   "title": "Research Scientist, AI",
+   "company": "CZ Biohub",
+   "domain": "Research Institute",
+   "location": "New York, NY (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/7747518",
+   "posted": "2026-04-08",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-nvidia-JR2016068",
+   "title": "Senior Robotics Research Engineer, Robotics and AI for Drug Discovery",
+   "company": "NVIDIA (Healthcare)",
+   "domain": "AI for Science",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Robotics-Research-Engineer--Robotics-and-AI-for-Drug-Discovery_JR2016068",
+   "posted": "2026-04-08",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-7785412",
+   "title": "Principal Data Scientist",
+   "company": "Formation Bio",
+   "domain": "AI Drug Discovery",
+   "location": "New York, NY; Boston, MA",
+   "url": "https://job-boards.greenhouse.io/formationbio/jobs/7785412",
+   "posted": "2026-04-07",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5830803004",
+   "title": "Sr. Software Engineer/Tech Lead, Data & AI Engineering",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "US Remote",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/5830803004",
+   "posted": "2026-04-06",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5005200007",
+   "title": "BioMedical AI Research Engineer",
+   "company": "Xaira Therapeutics",
+   "domain": "AI Drug Discovery",
+   "location": "South San Francisco, California, United States",
+   "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5005200007",
+   "posted": "2026-03-31",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-7757932",
+   "title": "Senior / Principal Data Scientist, EHR AI",
+   "company": "Formation Bio",
+   "domain": "AI Drug Discovery",
+   "location": "New York, NY; Boston, MA; San Francisco, CA; Raleigh-Durham, NC",
+   "url": "https://job-boards.greenhouse.io/formationbio/jobs/7757932",
+   "posted": "2026-03-30",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5089321007",
+   "title": "AI in Residence",
+   "company": "Xaira Therapeutics",
+   "domain": "AI Drug Discovery",
+   "location": "South San Francisco, California, United States",
+   "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5089321007",
+   "posted": "2026-03-25",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-8443273002",
+   "title": "Staff Data Scientist, Computational Biology",
+   "company": "Valo Health",
+   "domain": "AI Drug Discovery",
+   "location": "Lexington, Massachusetts, United States; Remote",
+   "url": "https://job-boards.greenhouse.io/valohealth/jobs/8443273002",
+   "posted": "2026-03-15",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-astrazeneca-R-229733",
+   "title": "Generative AI Platform Architect – Evinova",
+   "company": "AstraZeneca",
+   "domain": "Pharma",
+   "location": "US - Gaithersburg - MD",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/ML-AI-Operations-Architect---Evinova_R-229733",
+   "posted": "2026-02-26",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5060348007",
+   "title": "Leading data-driven lab for AI medicines",
+   "company": "Inceptive",
+   "domain": "AI Drug Discovery",
+   "location": "Palo Alto, CA",
+   "url": "https://job-boards.greenhouse.io/inceptive/jobs/5060348007",
+   "posted": "2026-02-24",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-850b1cdd-8d3f-46eb-a858-eeca63ccb18f",
+   "title": "Member of Technical Staff, Applied AI",
+   "company": "Latent Labs",
+   "domain": "AI Drug Discovery",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/latentlabs/850b1cdd-8d3f-46eb-a858-eeca63ccb18f",
+   "posted": "2026-02-20",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-2cbd914b-7156-494d-8e15-772ed63d88d3",
+   "title": "Senior Machine Learning Scientist, Imaging",
+   "company": "insitro",
+   "domain": "AI Drug Discovery",
+   "location": "South San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/insitro/2cbd914b-7156-494d-8e15-772ed63d88d3",
+   "posted": "2026-02-17",
+   "tags": [
+    "Imaging"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5803102004",
+   "title": "Senior Scientist, Machine Learning",
+   "company": "Altos Labs",
+   "domain": "Longevity / Cell Biology",
+   "location": "San Francisco Bay Area, CA;San Diego, CA",
+   "url": "https://job-boards.greenhouse.io/altoslabs/jobs/5803102004",
+   "posted": "2026-02-17",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4116513009",
+   "title": "Machine Learning Engineer, Physical Sciences AI",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA; San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4116513009",
+   "posted": "2026-02-03",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4987432007",
+   "title": "AI Scientist, BioMedical AI",
+   "company": "Xaira Therapeutics",
+   "domain": "AI Drug Discovery",
+   "location": "South San Francisco, California, United States",
+   "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/4987432007",
+   "posted": "2026-01-26",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5766365004",
+   "title": "Sr. Forward Deployed AI Solutions Engineer",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "US Remote",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/5766365004",
+   "posted": "2026-01-23",
+   "tags": [
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-7523506",
+   "title": "Senior Data Scientist, Medical Imaging",
+   "company": "Formation Bio",
+   "domain": "AI Drug Discovery",
+   "location": "Boston, MA; New York, NY",
+   "url": "https://job-boards.greenhouse.io/formationbio/jobs/7523506",
+   "posted": "2026-01-08",
+   "tags": [
+    "Imaging"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-fbec38e7-d55b-4bb3-8c74-644d75626c82",
+   "title": "AI Research Engineer",
+   "company": "Pathos AI",
+   "domain": "AI Drug Discovery",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/pathos/fbec38e7-d55b-4bb3-8c74-644d75626c82",
+   "posted": "2025-12-02",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4983485008",
+   "title": "Lead Scientist / Associate Director, Bioinformatics and Data Science",
+   "company": "Profluent",
+   "domain": "AI Drug Discovery",
+   "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
+   "url": "https://job-boards.greenhouse.io/profluent/jobs/4983485008",
+   "posted": "2025-11-13",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4961579007",
+   "title": "Foundation and generative models for biomolecules",
+   "company": "Inceptive",
+   "domain": "AI Drug Discovery",
+   "location": "Berlin, Germany or Palo Alto, CA or Zurich, Switzerland",
+   "url": "https://job-boards.greenhouse.io/inceptive/jobs/4961579007",
+   "posted": "2025-10-29",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4957313007",
+   "title": "AI Scientist, Computational Protein Design",
+   "company": "Xaira Therapeutics",
+   "domain": "AI Drug Discovery",
+   "location": "South San Francisco, California, United States",
+   "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/4957313007",
+   "posted": "2025-10-24",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4957061007",
+   "title": "Senior/ Staff AI Research Engineer",
+   "company": "Xaira Therapeutics",
+   "domain": "AI Drug Discovery",
+   "location": "Seattle, Washington, United States; South San Francisco, California, United States",
+   "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/4957061007",
+   "posted": "2025-10-24",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4951550007",
+   "title": "High-throughput data generation to advance ML design",
+   "company": "Inceptive",
+   "domain": "AI Drug Discovery",
+   "location": "Palo Alto, CA",
+   "url": "https://job-boards.greenhouse.io/inceptive/jobs/4951550007",
+   "posted": "2025-10-21",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-4d53316c-6138-459b-8b51-6800ae5b336d",
+   "title": "Staff ML Research Scientist",
+   "company": "Rad AI",
+   "domain": "Medical Imaging AI",
+   "location": "San Francisco - Onsite · United States - Remote",
+   "url": "https://jobs.ashbyhq.com/radai/4d53316c-6138-459b-8b51-6800ae5b336d",
+   "posted": "2025-10-16",
+   "tags": [
+    "Imaging",
+    "Remote"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4031455009",
+   "title": "Principal Software Engineer, Applied AI",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA; San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4031455009",
+   "posted": "2025-10-06",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4029507009",
+   "title": "Senior / Engineer II, AI Lab Research Engineer",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA; San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4029507009",
+   "posted": "2025-10-06",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4031328009",
+   "title": "Software Engineer, AI Platform",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4031328009",
+   "posted": "2025-10-06",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-4905081008",
+   "title": "Director, Software and Data Engineering",
+   "company": "Profluent",
+   "domain": "AI Drug Discovery",
+   "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
+   "url": "https://job-boards.greenhouse.io/profluent/jobs/4905081008",
+   "posted": "2025-09-03",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-7094389",
+   "title": "Principal Data Scientist, Medical Imaging",
+   "company": "Formation Bio",
+   "domain": "AI Drug Discovery",
+   "location": "New York, NY; Boston, MA",
+   "url": "https://job-boards.greenhouse.io/formationbio/jobs/7094389",
+   "posted": "2025-07-22",
+   "tags": [
+    "Imaging"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5565374004",
+   "title": "Director, Machine Learning, Alzheimer's Disease Initiative",
+   "company": "Arc Institute",
+   "domain": "Research Institute",
+   "location": "Palo Alto, CA",
+   "url": "https://job-boards.greenhouse.io/arcinstitute/jobs/5565374004",
+   "posted": "2025-06-13",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6594261003",
+   "title": "Machine Learning Engineer Intern",
+   "company": "Neuralink",
+   "domain": "Neurotech",
+   "location": "South San Francisco, California, United States",
+   "url": "https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003",
+   "posted": "2025-05-30",
+   "tags": [
+    "Intern"
+   ],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-astrazeneca-R-224496",
+   "title": "Postdoctoral Fellow 2025: AI-Informed Bioengineered Models for Predicting Human Response to mRNA Nanomedicines and Vaccines",
+   "company": "AstraZeneca",
+   "domain": "Pharma",
+   "location": "US - Gaithersburg - MD · US - Washington - DC",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Postdoctoral-Fellow-2025--AI-Informed-Bioengineered-Models-for-Predicting-Human-Response-to-mRNA-Nanomedicines-and-Vaccines_R-224496-1",
+   "posted": "2025-04-20",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6623947",
+   "title": "Senior Data Scientist",
+   "company": "Formation Bio",
+   "domain": "AI Drug Discovery",
+   "location": "New York, NY; Boston, MA",
+   "url": "https://job-boards.greenhouse.io/formationbio/jobs/6623947",
+   "posted": "2025-02-12",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-64fcb54e-d008-4551-858a-5c0f3b48f270",
+   "title": "Research Engineer",
+   "company": "Chai Discovery",
+   "domain": "AI Drug Discovery",
+   "location": "San Francisco office",
+   "url": "https://jobs.ashbyhq.com/chaidiscovery/64fcb54e-d008-4551-858a-5c0f3b48f270",
+   "posted": "2024-09-05",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5663271003",
+   "title": "Machine Learning Engineer",
+   "company": "Neuralink",
+   "domain": "Neurotech",
+   "location": "Austin, Texas, United States; South San Francisco, California, United States",
+   "url": "https://boards.greenhouse.io/neuralink/jobs/5663271003?gh_jid=5663271003",
+   "posted": "2023-06-29",
+   "tags": [],
+   "first_seen": "2026-10-21"
+  }
+ ]
+}
