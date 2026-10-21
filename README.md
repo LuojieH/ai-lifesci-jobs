@@ -7,9 +7,9 @@ medical-imaging, and pharma companies. A GitHub Action re-scrapes every day.
 - `scraper/scrape.py` pulls from public Greenhouse, Lever, Ashby, and Workday APIs. It keeps
   AI/ML titles in US locations and writes `docs/jobs.json`. It only uses the Python standard library.
 - `docs/index.html` is the site, with search, sector/company filters, date range, and
-  Imaging, Internship, Remote, and New tags.
+  Imaging, Internship, Remote, and New tags. Filter state lives in the URL, so filtered views can be shared.
   The **Required experience** filter reads phrases like "PhD + 0–2 years or MS + 4 years" from each
-  description and keeps the most lenient path. Hover a job's badge to see the sentence it came from. Filter state lives in the URL, so filtered views can be shared.
+  description and keeps the most lenient path. Hover a job's badge to see the sentence it came from.
 
 ## Deploy
 
@@ -17,14 +17,14 @@ medical-imaging, and pharma companies. A GitHub Action re-scrapes every day.
    ```bash
    git init && git add . && git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/<you>/ai-lifesci-jobs.git
+   git remote add origin https://github.com/YOUR_USERNAME/ai-lifesci-jobs.git
    git push -u origin main
    ```
 2. In the repo, go to **Settings → Pages → Source: Deploy from a branch → `main` / `/docs`**.
 3. Go to **Settings → Actions → General → Workflow permissions** and choose **Read and write**.
 4. (Optional) Open **Actions → Scrape jobs → Run workflow** to refresh right away.
 
-The site will be at `https://<you>.github.io/ai-lifesci-jobs/`.
+The site will be at `https://YOUR_USERNAME.github.io/ai-lifesci-jobs/`.
 
 ## Run locally
 
