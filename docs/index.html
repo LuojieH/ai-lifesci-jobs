@@ -62,6 +62,7 @@
   .tag.new { background: var(--new-soft); color: var(--new); font-weight: 600; }
   .tag.Imaging { background: var(--img-soft); color: var(--img); }
   .tag.Intern { background: var(--intern-soft); color: var(--intern); }
+  .tag.exp { background: var(--accent-soft); color: var(--accent); cursor: help; }
   .empty { text-align: center; color: var(--muted); padding: 48px 0; }
   footer { margin-top: 40px; color: var(--muted); font-size: .85rem; }
   footer a { color: var(--accent); }
@@ -85,6 +86,15 @@
       <input type="search" id="q" placeholder="Search title, company, location…  (e.g. computer vision, Boston, PhD)" autocomplete="off">
       <select id="domain"><option value="">All sectors</option></select>
       <select id="company"><option value="">All companies</option></select>
+      <select id="exp" title="Years of experience the posting asks for (most lenient degree path)">
+        <option value="">Any experience</option>
+        <option value="intern">Internships</option>
+        <option value="le1">Entry level (0–1 yr)</option>
+        <option value="le2">Up to 2 years</option>
+        <option value="le5">Up to 5 years</option>
+        <option value="ge6">6+ years</option>
+        <option value="none">Not stated</option>
+      </select>
     </div>
     <div class="row">
       <div class="seg" id="age" role="group" aria-label="Posted within">
@@ -113,7 +123,15 @@
 
 <script>
 const $ = s => document.querySelector(s);
-const state = { q: "", domain: "", company: "", days: 30, tags: new Set(), sort: "date" };
+const state = { q: "", domain: "", company: "", exp: "", days: 30, tags: new Set(), sort: "date" };
+const EXP = {
+  intern: j => j.tags.includes("Intern"),
+  le1: j => j.exp_years != null && j.exp_years <= 1,
+  le2: j => j.exp_years != null && j.exp_years <= 2,
+  le5: j => j.exp_years != null && j.exp_years <= 5,
+  ge6: j => j.exp_years != null && j.exp_years >= 6,
+  none: j => j.exp_years == null,
+};
 let DATA = { jobs: [] };
 const today = new Date();
 const daysAgo = d => d ? Math.floor((today - new Date(d + "T00:00:00")) / 864e5) : Infinity;
@@ -132,6 +150,7 @@ function rel(d) {
 function readHash() {
   const p = new URLSearchParams(location.hash.slice(1));
   state.q = p.get("q") || ""; state.domain = p.get("domain") || ""; state.company = p.get("company") || "";
+  state.exp = EXP[p.get("exp")] ? p.get("exp") : "";
   state.days = p.has("days") ? +p.get("days") : 30; state.sort = p.get("sort") || "date";
   state.tags = new Set((p.get("tags") || "").split(",").filter(Boolean));
 }
@@ -140,6 +159,7 @@ function writeHash() {
   if (state.q) p.set("q", state.q);
   if (state.domain) p.set("domain", state.domain);
   if (state.company) p.set("company", state.company);
+  if (state.exp) p.set("exp", state.exp);
   if (state.days !== 30) p.set("days", state.days);
   if (state.tags.size) p.set("tags", [...state.tags].join(","));
   if (state.sort !== "date") p.set("sort", state.sort);
@@ -147,7 +167,7 @@ function writeHash() {
 }
 
 function syncControls() {
-  $("#q").value = state.q; $("#domain").value = state.domain; $("#company").value = state.company; $("#sort").value = state.sort;
+  $("#q").value = state.q; $("#domain").value = state.domain; $("#company").value = state.company; $("#exp").value = state.exp; $("#sort").value = state.sort;
   document.querySelectorAll("#age button").forEach(b => b.setAttribute("aria-pressed", +b.dataset.days === state.days));
   document.querySelectorAll(".toggle").forEach(b => b.setAttribute("aria-pressed", state.tags.has(b.dataset.tag)));
 }
@@ -157,6 +177,7 @@ function render() {
   let jobs = DATA.jobs.filter(j => {
     if (state.domain && j.domain !== state.domain) return false;
     if (state.company && j.company !== state.company) return false;
+    if (state.exp && !EXP[state.exp](j)) return false;
     if (state.days && daysAgo(j.posted || j.first_seen) > state.days) return false;
     for (const t of state.tags) {
       if (t === "new" ? !isNew(j) : !j.tags.includes(t)) return false;
@@ -177,6 +198,7 @@ function render() {
       <div class="meta"><span class="co">${esc(j.company)}</span> · ${esc(j.location)}</div>
       <div class="tags">
         ${isNew(j) ? '<span class="tag new">New</span>' : ""}
+        ${j.exp_years != null ? `<span class="tag exp" title="${esc(j.exp_text)}">${j.exp_years === 0 ? "0 yrs OK" : j.exp_years + "+ yrs exp"}</span>` : ""}
         <span class="tag">${esc(j.domain)}</span>
         ${j.tags.map(t => `<span class="tag ${esc(t)}">${t === "Intern" ? "Internship" : esc(t)}</span>`).join("")}
       </div>
@@ -203,6 +225,7 @@ let t;
 $("#q").addEventListener("input", e => { state.q = e.target.value; clearTimeout(t); t = setTimeout(render, 120); });
 $("#domain").addEventListener("change", e => { state.domain = e.target.value; render(); });
 $("#company").addEventListener("change", e => { state.company = e.target.value; render(); });
+$("#exp").addEventListener("change", e => { state.exp = e.target.value; render(); });
 $("#sort").addEventListener("change", e => { state.sort = e.target.value; render(); });
 $("#age").addEventListener("click", e => { if (e.target.dataset.days) { state.days = +e.target.dataset.days; syncControls(); render(); } });
 document.querySelectorAll(".toggle").forEach(b => b.addEventListener("click", () => {

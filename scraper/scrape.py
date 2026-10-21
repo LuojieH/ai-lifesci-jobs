@@ -5,6 +5,7 @@ Pulls from public ATS JSON endpoints (Greenhouse, Lever, Ashby, Workday), keeps
 AI/ML-flavored titles located in the US, and writes docs/jobs.json for the site.
 Standard library only, so it runs anywhere (including GitHub Actions) with no installs.
 """
+import html
 import json
 import re
 import sys
@@ -116,16 +117,69 @@ def iso(dt):
     return str(dt)[:10]
 
 
+def html_text(s):
+    """Greenhouse double-escapes its HTML; unescape twice, then drop tags."""
+    if not s:
+        return ""
+    s = html.unescape(html.unescape(s))
+    s = re.sub(r"<(br|/p|/li|/div|/h\d)[^>]*>", "\n", s, flags=re.I)
+    return html.unescape(re.sub(r"<[^>]+>", " ", s))
+
+
+# --- Required experience -------------------------------------------------------
+_NUMS = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7, "eight": 8,
+         "nine": 9, "ten": 10, "eleven": 11, "twelve": 12, "fifteen": 15}
+_NUM = r"(\d{1,2}|" + "|".join(_NUMS) + r")"
+# "3+ years of industry experience", "5-7 years' experience", "two or more years working ..."
+EXP_A = re.compile(_NUM + r"\s*(?:\+|plus)?\s*(?:(?:-|–|to)\s*" + _NUM + r"\s*\+?\s*)?(?:or more\s+)?"
+                   r"(?:\(\d+\)\s*)?years?['’]?\s*(?=(?P<tail>[^.;\n]{0,90}))", re.I)
+# "experience: minimum of 3 years", "at least 2 years of ..."
+EXP_B = re.compile(r"(?:at least|minimum(?: of)?|min\.?)\s+" + _NUM + r"\s*\+?\s*years?\s*(?=(?P<tail>[^.;\n]{0,90}))", re.I)
+EXP_WORDS = re.compile(r"experience|industry|industrial|working|work\b|post-?doc|relevant|hands-on|professional", re.I)
+EXP_NOISE = re.compile(r"\b(old|of age|ago|history|in business|track record of the company|warranty|tenure)\b", re.I)
+EXP_NOISE_BEFORE = re.compile(r"(over the (past|last)|for over|more than \w+ decades|founded|since|within|next|up to|every|per)\s*$", re.I)
+
+
+def _num(x):
+    return _NUMS.get(x.lower()) if not x.isdigit() else int(x)
+
+
+def experience(desc):
+    """Smallest stated years-of-experience requirement (degree tracks like 'PhD + 0-2 yrs or
+    BS + 6 yrs' resolve to the most lenient path). Returns (years | None, matched phrase)."""
+    if not desc:
+        return None, ""
+    best = None
+    for rx in (EXP_A, EXP_B):
+        for m in rx.finditer(desc):
+            tail = m.group("tail")
+            before = desc[max(0, m.start() - 40):m.start()]
+            if EXP_NOISE.search(tail[:25]) or EXP_NOISE_BEFORE.search(before):
+                continue
+            # the experience word must be close: in the tail, or just before ("Experience: 3+ years")
+            if not (EXP_WORDS.search(tail[:60]) or re.search(r"experience[^.;\n]{0,30}$", before, re.I)):
+                continue
+            n = _num(m.group(1))
+            if n is None or n > 25:
+                continue
+            if best is None or n < best[0]:
+                start = max(0, m.start() - 30)
+                snippet = " ".join(desc[start:m.end() + min(len(tail), 70)].split())
+                best = (n, ("…" if start else "") + snippet[:160])
+    return best if best else (None, "")
+
+
 # --- ATS adapters: each yields dicts with title, locations, countries, url, posted ---
 def greenhouse(c):
-    data = fetch(f"https://boards-api.greenhouse.io/v1/boards/{c['slug']}/jobs")
+    data = fetch(f"https://boards-api.greenhouse.io/v1/boards/{c['slug']}/jobs?content=true")
     for j in data.get("jobs", []):
         locs = [j.get("location", {}).get("name", "")]
         for m in j.get("metadata") or []:
             if "location" in (m.get("name") or "").lower() and isinstance(m.get("value"), list):
                 locs += [str(v) for v in m["value"]]
         yield dict(id=f"gh-{j['id']}", title=j["title"], locations=locs, countries=[],
-                   url=j["absolute_url"], posted=iso(j.get("first_published") or j.get("updated_at")))
+                   url=j["absolute_url"], posted=iso(j.get("first_published") or j.get("updated_at")),
+                   desc=html_text(j.get("content")))
 
 
 def lever(c):
@@ -133,7 +187,10 @@ def lever(c):
         cat = j.get("categories", {})
         locs = cat.get("allLocations") or [cat.get("location", "")]
         yield dict(id=f"lv-{j['id']}", title=j["text"], locations=locs, countries=[j.get("country")],
-                   url=j["hostedUrl"], posted=iso(j.get("createdAt")))
+                   url=j["hostedUrl"], posted=iso(j.get("createdAt")),
+                   desc="\n".join([j.get("descriptionPlain") or ""]
+                                  + [l.get("text", "") + "\n" + html_text(l.get("content")) for l in j.get("lists") or []]
+                                  + [j.get("additionalPlain") or ""]))
 
 
 def ashby(c):
@@ -147,7 +204,7 @@ def ashby(c):
             locs.append(s.get("location", ""))
             countries.append(((s.get("address") or {}).get("postalAddress") or {}).get("addressCountry"))
         yield dict(id=f"ab-{j['id']}", title=j["title"], locations=locs, countries=countries,
-                   url=j["jobUrl"], posted=iso(j.get("publishedAt")))
+                   url=j["jobUrl"], posted=iso(j.get("publishedAt")), desc=j.get("descriptionPlain") or "")
 
 
 def workday(c):
@@ -179,7 +236,8 @@ def workday(c):
         countries = [(info.get("country") or {}).get("descriptor")]  # primary only; is_us also checks loc text
         yield dict(id=f"wd-{tenant}-{info.get('jobReqId') or path}", title=info.get("title", p["title"]),
                    locations=locs, countries=countries,
-                   url=info.get("externalUrl") or f"{base}/{site}{path}", posted=info.get("startDate"))
+                   url=info.get("externalUrl") or f"{base}/{site}{path}", posted=info.get("startDate"),
+                   desc=html_text(info.get("jobDescription")))
 
 
 ADAPTERS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby, "workday": workday}
@@ -212,9 +270,11 @@ def scrape_company(c):
                 tags.append("Intern")
             if any(re.search(r"remote", l, re.I) for l in locs):
                 tags.append("Remote")
+            exp_years, exp_text = experience(j.get("desc", ""))
             out.append(dict(id=j["id"], title=title, company=c["name"], domain=c["domain"],
                             location=" · ".join(dict.fromkeys(locs)) or "United States",
-                            url=j["url"], posted=j["posted"], tags=tags))
+                            url=j["url"], posted=j["posted"], tags=tags,
+                            exp_years=exp_years, exp_text=exp_text))
         return c["name"], out, None
     except Exception as e:
         return c["name"], out, f"{type(e).__name__}: {e}"

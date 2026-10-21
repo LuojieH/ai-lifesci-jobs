@@ -7,7 +7,9 @@ medical-imaging, and pharma companies. A GitHub Action re-scrapes every day.
 - `scraper/scrape.py` pulls from public Greenhouse, Lever, Ashby, and Workday APIs. It keeps
   AI/ML titles in US locations and writes `docs/jobs.json`. It only uses the Python standard library.
 - `docs/index.html` is the site, with search, sector/company filters, date range, and
-  Imaging, Internship, Remote, and New tags. Filter state lives in the URL, so filtered views can be shared.
+  Imaging, Internship, Remote, and New tags.
+  The **Required experience** filter reads phrases like "PhD + 0–2 years or MS + 4 years" from each
+  description and keeps the most lenient path. Hover a job's badge to see the sentence it came from. Filter state lives in the URL, so filtered views can be shared.
 
 ## Deploy
 
