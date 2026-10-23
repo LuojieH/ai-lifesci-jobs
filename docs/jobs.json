@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T16:11Z",
+ "updated": "2026-10-23T16:13Z",
  "count": 459,
  "companies": [
   "Abbott",
@@ -4715,6 +4715,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "gh-6142472004",
+   "title": "Director of Data Science and Bioinformatics",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6142472004",
+   "posted": "2026-08-12",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…Bioinformatics, with at least 5 years of direct people management experience leading technical teams",
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "gh-6135539004",
    "title": "Director of Data Science and Bioinformatics",
    "company": "Natera",
@@ -4725,19 +4738,6 @@
    "tags": [
     "Remote"
    ],
-   "exp_years": 5,
-   "exp_text": "…Bioinformatics, with at least 5 years of direct people management experience leading technical teams",
-   "first_seen": "2026-10-21"
-  },
-  {
-   "id": "gh-6142472004",
-   "title": "Director of Data Science and Bioinformatics",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6142472004",
-   "posted": "2026-08-12",
-   "tags": [],
    "exp_years": 5,
    "exp_text": "…Bioinformatics, with at least 5 years of direct people management experience leading technical teams",
    "first_seen": "2026-10-21"
@@ -5919,12 +5919,12 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "gh-7793644",
+   "id": "gh-7747518",
    "title": "Research Scientist, AI",
    "company": "CZ Biohub",
    "domain": "Research Institute",
-   "location": "Redwood City, CA (Hybrid)",
-   "url": "https://job-boards.greenhouse.io/biohub/jobs/7793644",
+   "location": "New York, NY (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/7747518",
    "posted": "2026-04-08",
    "tags": [],
    "exp_years": null,
@@ -5932,12 +5932,12 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "gh-7747518",
+   "id": "gh-7793644",
    "title": "Research Scientist, AI",
    "company": "CZ Biohub",
    "domain": "Research Institute",
-   "location": "New York, NY (Hybrid)",
-   "url": "https://job-boards.greenhouse.io/biohub/jobs/7747518",
+   "location": "Redwood City, CA (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/7793644",
    "posted": "2026-04-08",
    "tags": [],
    "exp_years": null,
