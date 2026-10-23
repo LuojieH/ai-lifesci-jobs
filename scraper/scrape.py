@@ -9,6 +9,7 @@ import html
 import json
 import re
 import sys
+import time
 import concurrent.futures as cf
 import urllib.parse
 import urllib.request
@@ -118,11 +119,25 @@ def is_us(locations, countries, us_default):
 
 
 # --- HTTP --------------------------------------------------------------------
+def _open(req, timeout, tries=3):
+    """urlopen with retries: career sites throttle cloud runners (429/5xx) far more than home IPs."""
+    for attempt in range(tries):
+        try:
+            return urllib.request.urlopen(req, timeout=timeout)
+        except urllib.error.HTTPError as e:
+            if e.code not in (429, 500, 502, 503, 504) or attempt == tries - 1:
+                raise
+        except (urllib.error.URLError, TimeoutError, ConnectionError):
+            if attempt == tries - 1:
+                raise
+        time.sleep(2 * 2 ** attempt)
+
+
 def fetch(url, body=None, timeout=30):
     req = urllib.request.Request(
         url, data=json.dumps(body).encode() if body is not None else None,
         headers={"User-Agent": UA, "Accept": "application/json", "Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=timeout) as r:
+    with _open(req, timeout) as r:
         return json.load(r)
 
 
@@ -131,8 +146,17 @@ def fetch_html(url, headers=None, timeout=30):
     req = urllib.request.Request(url, headers={
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) "
                       "Chrome/120.0 Safari/537.36", **(headers or {})})
-    with urllib.request.urlopen(req, timeout=timeout) as r:
+    with _open(req, timeout) as r:
         return r.read().decode("utf-8", "ignore")
+
+
+def workday_posted(text):
+    """Listing-page dates: 'Posted Today' / 'Posted Yesterday' / 'Posted 3 Days Ago' / 'Posted 30+ Days Ago'."""
+    m = re.search(r"(Today|Yesterday|(\d+)\+? Days? Ago)", text or "")
+    if not m:
+        return None
+    days = 0 if m.group(1) == "Today" else 1 if m.group(1) == "Yesterday" else int(m.group(2))
+    return datetime.fromtimestamp(time.time() - days * 86400, tz=timezone.utc).strftime("%Y-%m-%d")
 
 
 def iso(dt):
@@ -261,6 +285,10 @@ def workday(c):
         try:
             info = fetch(api + path)["jobPostingInfo"]
         except Exception:
+            # Keep the job with listing-page data rather than silently dropping it.
+            req = (p.get("bulletFields") or [path])[0]
+            yield dict(id=f"wd-{tenant}-{req}", title=p["title"], locations=[p.get("locationsText", "")],
+                       countries=[], url=f"{base}/{site}{path}", posted=workday_posted(p.get("postedOn")), desc="")
             continue
         locs = [info.get("location", "")] + list(info.get("additionalLocations") or [])
         countries = [(info.get("country") or {}).get("descriptor")]  # primary only; is_us also checks loc text
