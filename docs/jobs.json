@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T17:03Z",
- "count": 535,
+ "updated": "2026-10-23T17:05Z",
+ "count": 526,
  "companies": [
   "Abbott",
   "Absci",
@@ -2909,19 +2909,6 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "wd-bdx-R-552562",
-   "title": "Bioinformatics Specialist",
-   "company": "BD",
-   "domain": "MedTech",
-   "location": "USA CA - Milpitas 155",
-   "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---Milpitas-155/Bioinformatics-Specialist_R-552562-1",
-   "posted": "2026-10-02",
-   "tags": [],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "gh-5441954008",
    "title": "Intern, Computational Research",
    "company": "Profluent",
@@ -3201,22 +3188,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "wd-amgen-R-257124",
-   "title": "Grad Co-op — Computational Safety Modeling for Small Molecules",
-   "company": "Amgen",
-   "domain": "Pharma",
-   "location": "United States - Remote",
-   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Co-op---Computational-Safety-Modeling-for-Small-Molecules_R-257124",
-   "posted": "2026-09-30",
-   "tags": [
-    "Intern",
-    "Remote"
-   ],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-21"
-  },
-  {
    "id": "wd-gilead-R0055483",
    "title": "Director, Field AI & GPro Enablement, HIV Prevention",
    "company": "Gilead",
@@ -3361,32 +3332,6 @@
    "tags": [],
    "exp_years": 3,
    "exp_text": "…xperience in bioinformatics. 3+ years of experience in medical device/IVD, biotech, life science or pharmace",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-bdx-R-554051",
-   "title": "Staff Machine Learning Engineer",
-   "company": "BD",
-   "domain": "MedTech",
-   "location": "USA CA - Irvine Laguna Canyon",
-   "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---Irvine-Laguna-Canyon/Staff-Machine-Learning-Engineer_R-554051-1",
-   "posted": "2026-09-29",
-   "tags": [],
-   "exp_years": 7,
-   "exp_text": "…cience, or related field. 7+ years of hands-on ML/AI and software engineering with production ownership,",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-bdx-R-554044",
-   "title": "Staff Data Engineer",
-   "company": "BD",
-   "domain": "MedTech",
-   "location": "USA CA - Irvine Laguna Canyon",
-   "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---Irvine-Laguna-Canyon/Staff-Data-Engineer_R-554044-1",
-   "posted": "2026-09-29",
-   "tags": [],
-   "exp_years": 7,
-   "exp_text": "…ering, or related field. 7+ years of data engineering experience with increasing technical ownership, in",
    "first_seen": "2026-10-23"
   },
   {
@@ -4835,19 +4780,6 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "wd-bdx-R-538063",
-   "title": "Principal Algorithms Engineer",
-   "company": "BD",
-   "domain": "MedTech",
-   "location": "USA CA - Irvine Laguna Canyon",
-   "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---Irvine-Laguna-Canyon/Principal-Algorithms-Engineer_R-538063-1",
-   "posted": "2026-09-01",
-   "tags": [],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "gh-4377096009",
    "title": "Senior Data Engineer, Bioinformatics, Cheminformatics, Materials",
    "company": "Lila Sciences",
@@ -5033,19 +4965,6 @@
    "tags": [],
    "exp_years": 8,
    "exp_text": "…r a related field. • Minimum 8 years of experience in enterprise solution architecture, commercial technolo",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-bdx-R-548573",
-   "title": "Senior Manager, People Analytics, Insights and AI",
-   "company": "BD",
-   "domain": "MedTech",
-   "location": "USA NJ - Franklin Lakes",
-   "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Senior-Manager--People-Analytics--Insights-and-AI_R-548573-1",
-   "posted": "2026-08-27",
-   "tags": [],
-   "exp_years": 5,
-   "exp_text": "…p, and hands-on analytics. 5+ years of people or workforce analytics experience with large, complex datase",
    "first_seen": "2026-10-23"
   },
   {
@@ -5277,19 +5196,6 @@
    "exp_years": 5,
    "exp_text": "…Preferred Qualifications: 5+ years of experience as a data scientist or data analyst in generating analys",
    "first_seen": "2026-10-21"
-  },
-  {
-   "id": "wd-bdx-R-550857",
-   "title": "Senior Engineer – Applied ML/AI Algorithms R&D for Advanced Patient Monitoring",
-   "company": "BD",
-   "domain": "MedTech",
-   "location": "USA CA - Irvine Laguna Canyon",
-   "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---Irvine-Laguna-Canyon/Senior-Engineer---Applied-ML-AI-Algorithms-R-D-for-Advanced-Patient-Monitoring_R-550857-1",
-   "posted": "2026-08-24",
-   "tags": [],
-   "exp_years": 0,
-   "exp_text": "…rements) PhD with 0+ years, MS with 3+ years, or BS with 4+ years of experience in AI/ML,",
-   "first_seen": "2026-10-23"
   },
   {
    "id": "gh-5219763007",
@@ -5847,32 +5753,6 @@
    "exp_years": 0,
    "exp_text": "…ogy, or a related field, with 0–4 years of postdoctoral or professional research experience",
    "first_seen": "2026-10-21"
-  },
-  {
-   "id": "wd-bdx-R-550855",
-   "title": "Principal Engineer – Applied ML/AI Algorithms R&D for Advanced Patient Monitoring",
-   "company": "BD",
-   "domain": "MedTech",
-   "location": "USA CA - Irvine Laguna Canyon",
-   "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---Irvine-Laguna-Canyon/Principal-Engineer---Applied-ML-AI-Algorithms-R-D-for-Advanced-Patient-Monitoring_R-550855-1",
-   "posted": "2026-08-03",
-   "tags": [],
-   "exp_years": 2,
-   "exp_text": "…rements) PhD with 2+ years, MS with 5+ years, or BS with 6+ years of experience in AI/ML, da",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-bdx-R-550852",
-   "title": "Senior Principal Engineer – Applied ML/AI Algorithms R&D for Advanced Patient Monitoring",
-   "company": "BD",
-   "domain": "MedTech",
-   "location": "USA CA - Irvine Laguna Canyon",
-   "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---Irvine-Laguna-Canyon/Senior-Principal-Engineer---Applied-ML-AI-Algorithms-R-D-for-Advanced-Patient-Monitoring_R-550852-1",
-   "posted": "2026-08-03",
-   "tags": [],
-   "exp_years": 7,
-   "exp_text": "…4 + years or MS with 7 + years or BS with 8+ years of experience in AI/ML, data science, or s",
-   "first_seen": "2026-10-23"
   },
   {
    "id": "gh-4286513009",
