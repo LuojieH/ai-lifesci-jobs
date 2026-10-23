@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T17:44Z",
- "count": 624,
+ "updated": "2026-10-23T17:47Z",
+ "count": 610,
  "companies": [
   "Abbott",
   "Absci",
@@ -517,21 +517,6 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "wd-labcorp-2634135",
-   "title": "Intern - Bioinformatics",
-   "company": "Labcorp",
-   "domain": "Genomics / Diagnostics",
-   "location": "Baltimore MD",
-   "url": "https://labcorp.wd1.myworkdayjobs.com/External/job/Baltimore-MD/Intern---Bioinformatics_2634135",
-   "posted": "2026-10-22",
-   "tags": [
-    "Intern"
-   ],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "wd-astrazeneca-R-258183",
    "title": "Director, Biologics AI",
    "company": "AstraZeneca",
@@ -705,12 +690,12 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "ph-R18226",
-   "title": "DD&AI Intern - AI and Process Automation",
+   "id": "ph-R18227",
+   "title": "Applied AI & Enablement Intern",
    "company": "Genmab",
    "domain": "Pharma",
    "location": "Princeton, New Jersey, United States of America",
-   "url": "https://careers.genmab.com/global/en/job/R18226",
+   "url": "https://careers.genmab.com/global/en/job/R18227",
    "posted": "2026-10-21",
    "tags": [
     "Intern"
@@ -720,12 +705,12 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "ph-R18227",
-   "title": "Applied AI & Enablement Intern",
+   "id": "ph-R18226",
+   "title": "DD&AI Intern - AI and Process Automation",
    "company": "Genmab",
    "domain": "Pharma",
    "location": "Princeton, New Jersey, United States of America",
-   "url": "https://careers.genmab.com/global/en/job/R18227",
+   "url": "https://careers.genmab.com/global/en/job/R18226",
    "posted": "2026-10-21",
    "tags": [
     "Intern"
@@ -1715,19 +1700,6 @@
    "tags": [],
    "exp_years": 15,
    "exp_text": "…alifications and Experience 15+ years of experience in corporate communications, public affairs, digital str",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-modernatx-R19295",
-   "title": "Sr. Technical Program Manager, AI Security",
-   "company": "Moderna",
-   "domain": "Pharma",
-   "location": "Cambridge, Massachusetts · Seattle, Washington · Digital",
-   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Sr-Technical-Program-Manager--AI-Security_R19295",
-   "posted": "2026-10-16",
-   "tags": [],
-   "exp_years": null,
-   "exp_text": "",
    "first_seen": "2026-10-23"
   },
   {
@@ -2875,6 +2847,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "ph-R18077",
+   "title": "Senior Manager, Databricks & Enterprise AI/BI Platform",
+   "company": "Genmab",
+   "domain": "Pharma",
+   "location": "Princeton, New Jersey, United States of America",
+   "url": "https://careers.genmab.com/global/en/job/R18077",
+   "posted": "2026-10-08",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…or related technical roles. 3+ years of experience administering or operating enterprise-scale analytics or",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-lilly-R-112528",
    "title": "AVP, Generative Design & Optimization, Biotherapeutics",
    "company": "Eli Lilly",
@@ -2926,19 +2911,6 @@
    ],
    "exp_years": 5,
    "exp_text": "…ons Required Skills 5+ years of combined experience in cybersecurity engineering, software engineer",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-modernatx-R19819",
-   "title": "Scientist, Protein Design",
-   "company": "Moderna",
-   "domain": "Pharma",
-   "location": "Cambridge, Massachusetts · Research",
-   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Scientist--Protein-Design_R19819-1",
-   "posted": "2026-10-08",
-   "tags": [],
-   "exp_years": null,
-   "exp_text": "",
    "first_seen": "2026-10-23"
   },
   {
@@ -3258,21 +3230,6 @@
    "tags": [],
    "exp_years": 2,
    "exp_text": "…rch experience (Scientist) or 2+ years of industry research experience (Senior Scientist)",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-modernatx-R19884",
-   "title": "Co-Op, Protein Design",
-   "company": "Moderna",
-   "domain": "Pharma",
-   "location": "Cambridge, Massachusetts · Research",
-   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Protein-Design_R19884",
-   "posted": "2026-10-05",
-   "tags": [
-    "Intern"
-   ],
-   "exp_years": null,
-   "exp_text": "",
    "first_seen": "2026-10-23"
   },
   {
@@ -3792,47 +3749,6 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "wd-modernatx-R19527",
-   "title": "Sr. Scientist, Protein Design",
-   "company": "Moderna",
-   "domain": "Pharma",
-   "location": "Cambridge, Massachusetts · Research",
-   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Scientist--Protein-Design_R19527",
-   "posted": "2026-09-29",
-   "tags": [],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-modernatx-R19893",
-   "title": "Co-Op, Research Engineering and AI Integration",
-   "company": "Moderna",
-   "domain": "Pharma",
-   "location": "Cambridge, Massachusetts · Research",
-   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Research-Engineering-and-AI-Integration_R19893",
-   "posted": "2026-09-29",
-   "tags": [
-    "Intern"
-   ],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-modernatx-R19813",
-   "title": "Sr. Research Associate, Protein Design",
-   "company": "Moderna",
-   "domain": "Pharma",
-   "location": "Cambridge, Massachusetts · Research",
-   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Sr-Research-Associate--Protein-Design_R19813",
-   "posted": "2026-09-29",
-   "tags": [],
-   "exp_years": 2,
-   "exp_text": "…ed scientific discipline with 2+ years of relevant experience",
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "wd-vrtx-REQ-30307",
    "title": "Computational Chemistry Research Scientist (Computational Drug Design)",
    "company": "Vertex",
@@ -3887,19 +3803,6 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "wd-bdx-R-554051",
-   "title": "Staff Machine Learning Engineer",
-   "company": "BD",
-   "domain": "MedTech",
-   "location": "USA CA - Irvine Laguna Canyon",
-   "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---Irvine-Laguna-Canyon/Staff-Machine-Learning-Engineer_R-554051-1",
-   "posted": "2026-09-29",
-   "tags": [],
-   "exp_years": 7,
-   "exp_text": "…cience, or related field. 7+ years of hands-on ML/AI and software engineering with production ownership,",
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "wd-bdx-R-554044",
    "title": "Staff Data Engineer",
    "company": "BD",
@@ -3910,6 +3813,19 @@
    "tags": [],
    "exp_years": 7,
    "exp_text": "…ering, or related field. 7+ years of data engineering experience with increasing technical ownership, in",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-bdx-R-554051",
+   "title": "Staff Machine Learning Engineer",
+   "company": "BD",
+   "domain": "MedTech",
+   "location": "USA CA - Irvine Laguna Canyon",
+   "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---Irvine-Laguna-Canyon/Staff-Machine-Learning-Engineer_R-554051-1",
+   "posted": "2026-09-29",
+   "tags": [],
+   "exp_years": 7,
+   "exp_text": "…cience, or related field. 7+ years of hands-on ML/AI and software engineering with production ownership,",
    "first_seen": "2026-10-23"
   },
   {
@@ -5049,21 +4965,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "wd-modernatx-R19429",
-   "title": "Sr. Security Data Engineer, Vulnerability Risk Management",
-   "company": "Moderna",
-   "domain": "Pharma",
-   "location": "Cambridge, Massachusetts · Remote - US · Digital",
-   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Sr-Security-Data-Engineer--Vulnerability-Risk-Management_R19429",
-   "posted": "2026-09-09",
-   "tags": [
-    "Remote"
-   ],
-   "exp_years": 5,
-   "exp_text": "…Minimum Qualifications) 5+ years of experience in data engineering, analytics engineering, security dat",
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "gh-8188707",
    "title": "Senior AI Researcher",
    "company": "Recursion",
@@ -5570,19 +5471,6 @@
    ],
    "exp_years": null,
    "exp_text": "",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-verily-REQ-949",
-   "title": "AI Applied Scientist",
-   "company": "Verily",
-   "domain": "Bio Software / Data",
-   "location": "San Bruno, California · Boston, Massachusetts · Mountain View, California",
-   "url": "https://verily.wd1.myworkdayjobs.com/Verily_Careers/job/San-Bruno-California/AI-Applied-Scientist_REQ-949",
-   "posted": "2026-09-01",
-   "tags": [],
-   "exp_years": 3,
-   "exp_text": "…ical experience). Minimum of 3 years of industry experience applying advanced machine learning, NLP, and ge",
    "first_seen": "2026-10-23"
   },
   {
@@ -6527,19 +6415,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "wd-modernatx-R19578",
-   "title": "Sr. Scientist, Therapeutics & Translational Bioinformatics",
-   "company": "Moderna",
-   "domain": "Pharma",
-   "location": "Cambridge, Massachusetts · Research",
-   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Sr-Scientist--Therapeutics---Translational-Bioinformatics_R19578",
-   "posted": "2026-08-10",
-   "tags": [],
-   "exp_years": 2,
-   "exp_text": "…ive discipline, with at least 2 years of relevant postdoctoral or industry experience",
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "gh-6139063004",
    "title": "Associate Director of Bioinformatics (Women's Health and Organ Health)",
    "company": "Natera",
@@ -6807,19 +6682,6 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "wd-bdx-R-550855",
-   "title": "Principal Engineer – Applied ML/AI Algorithms R&D for Advanced Patient Monitoring",
-   "company": "BD",
-   "domain": "MedTech",
-   "location": "USA CA - Irvine Laguna Canyon",
-   "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---Irvine-Laguna-Canyon/Principal-Engineer---Applied-ML-AI-Algorithms-R-D-for-Advanced-Patient-Monitoring_R-550855-1",
-   "posted": "2026-08-03",
-   "tags": [],
-   "exp_years": 2,
-   "exp_text": "…rements) PhD with 2+ years, MS with 5+ years, or BS with 6+ years of experience in AI/ML, da",
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "wd-bdx-R-550852",
    "title": "Senior Principal Engineer – Applied ML/AI Algorithms R&D for Advanced Patient Monitoring",
    "company": "BD",
@@ -6830,6 +6692,19 @@
    "tags": [],
    "exp_years": 7,
    "exp_text": "…4 + years or MS with 7 + years or BS with 8+ years of experience in AI/ML, data science, or s",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-bdx-R-550855",
+   "title": "Principal Engineer – Applied ML/AI Algorithms R&D for Advanced Patient Monitoring",
+   "company": "BD",
+   "domain": "MedTech",
+   "location": "USA CA - Irvine Laguna Canyon",
+   "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---Irvine-Laguna-Canyon/Principal-Engineer---Applied-ML-AI-Algorithms-R-D-for-Advanced-Patient-Monitoring_R-550855-1",
+   "posted": "2026-08-03",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…rements) PhD with 2+ years, MS with 5+ years, or BS with 6+ years of experience in AI/ML, da",
    "first_seen": "2026-10-23"
   },
   {
@@ -7258,62 +7133,6 @@
    "exp_years": 3,
    "exp_text": "…ated quantitative field, with 3+ years of applied experience in AI for bioimaging and computer vision",
    "first_seen": "2026-10-21"
-  },
-  {
-   "id": "wd-modernatx-R19437",
-   "title": "Sr. AI Red Team Engineer",
-   "company": "Moderna",
-   "domain": "Pharma",
-   "location": "Cambridge, Massachusetts · Remote - US · Digital",
-   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Sr-AI-Red-Team-Engineer_R19437",
-   "posted": "2026-07-08",
-   "tags": [
-    "Remote"
-   ],
-   "exp_years": 4,
-   "exp_text": "…(Basic Qualifications) 4+ years in cybersecurity with deep experience in red teaming, offensive securi",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-modernatx-R19454",
-   "title": "Power Platform & AI Engineer",
-   "company": "Moderna",
-   "domain": "Pharma",
-   "location": "Cambridge, Massachusetts · Digital",
-   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Power-Platform---AI-Engineer_R19454",
-   "posted": "2026-07-08",
-   "tags": [],
-   "exp_years": 5,
-   "exp_text": "…(Minimum Qualifications) 5+ years of demonstrated experience as Microsoft Power Platform administrator",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-modernatx-R19432",
-   "title": "Sr. Power Platform & AI Engineer",
-   "company": "Moderna",
-   "domain": "Pharma",
-   "location": "Cambridge, Massachusetts · Digital",
-   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Sr-Power-Platform---AI-Engineer_R19432",
-   "posted": "2026-07-08",
-   "tags": [],
-   "exp_years": 7,
-   "exp_text": "…Minimum Qualifications) 7+ years of demonstrated experience as Microsoft Power Platform administrator",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-modernatx-R19435",
-   "title": "AI Identity & Endpoint Controls Lead",
-   "company": "Moderna",
-   "domain": "Pharma",
-   "location": "Cambridge, Massachusetts · Remote - US · Digital",
-   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/AI-Identity---Endpoint-Controls-Lead_R19435",
-   "posted": "2026-07-08",
-   "tags": [
-    "Remote"
-   ],
-   "exp_years": 8,
-   "exp_text": "…Minimum Qualifications) 8+ years of experience in security engineering, identity engineering, platform",
-   "first_seen": "2026-10-23"
   },
   {
    "id": "wd-abbott-31154237",
@@ -8206,19 +8025,6 @@
    "exp_years": null,
    "exp_text": "",
    "first_seen": "2026-10-21"
-  },
-  {
-   "id": "wd-modernatx-R18853",
-   "title": "Principal Scientist, Protein Design",
-   "company": "Moderna",
-   "domain": "Pharma",
-   "location": "Cambridge, Massachusetts · Research",
-   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Principal-Scientist--Protein-Design_R18853-2",
-   "posted": "2026-03-02",
-   "tags": [],
-   "exp_years": 5,
-   "exp_text": "…ering, or a related field. 5+ years of post-PhD industry or equivalent experience leading in vitro selecti",
-   "first_seen": "2026-10-23"
   },
   {
    "id": "wd-astrazeneca-R-229733",
