@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T18:13Z",
- "count": 727,
+ "updated": "2026-10-23T18:17Z",
+ "count": 735,
  "companies": [
   "Abbott",
   "Abridge",
@@ -786,6 +786,21 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "ph-R18227",
+   "title": "Applied AI & Enablement Intern",
+   "company": "Genmab",
+   "domain": "Pharma",
+   "location": "Princeton, New Jersey, United States of America",
+   "url": "https://careers.genmab.com/global/en/job/R18227",
+   "posted": "2026-10-21",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": 25,
+   "exp_text": "…ed antibody therapeutics. For 25 years, its hard-working, innovative and collaborative team has invented nex",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "ph-R18226",
    "title": "DD&AI Intern - AI and Process Automation",
    "company": "Genmab",
@@ -1502,6 +1517,19 @@
    "tags": [],
    "exp_years": null,
    "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "az-10583320",
+   "title": "Software Dev Engineer II, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10583320/software-dev-engineer-ii-aws-healthcare-ai",
+   "posted": "2026-10-19",
+   "tags": [],
+   "exp_years": 1,
+   "exp_text": "…ting systems experience<br/>- 1+ years of software development engineer or related occupational experience<br",
    "first_seen": "2026-10-23"
   },
   {
@@ -2922,6 +2950,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "az-10575360",
+   "title": "Software Dev Engineer II, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10575360/software-dev-engineer-ii-aws-healthcare-ai",
+   "posted": "2026-10-10",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…development experience<br/>- 2+ years of non-internship design or architecture (design patterns, reliability",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-zoetis-JR00021759",
    "title": "Summer Intern – Pharmacogenomics Data Science & Genomic Prediction (VMRD)",
    "company": "Zoetis",
@@ -4271,6 +4312,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "az-10563054",
+   "title": "Software Dev Engineer II, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10563054/software-dev-engineer-ii-aws-healthcare-ai",
+   "posted": "2026-09-29",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…development experience<br/>- 2+ years of non-internship design or architecture (design patterns, reliability",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "ab-ef59b5ca-8c20-47c0-b44a-2bea5eb5017a",
    "title": "Senior Backend Engineer (ML)",
    "company": "Tennr",
@@ -4711,6 +4765,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "az-10558688",
+   "title": "Software Dev Engineer II, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10558688/software-dev-engineer-ii-aws-healthcare-ai",
+   "posted": "2026-09-24",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…development experience<br/>- 2+ years of non-internship design or architecture (design patterns, reliability",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "ab-dd8bf1b0-be34-42ba-94f7-76e6ebe204f6",
    "title": "Research Engineer, ML Infrastructure",
    "company": "Chai Discovery",
@@ -5038,6 +5105,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "az-10553626",
+   "title": "Senior Applied Scientist, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10553626/senior-applied-scientist-aws-healthcare-ai",
+   "posted": "2026-09-18",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…ied research experience<br/>- 3+ years of building machine learning models for business application experienc",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "ab-1253d6c7-f9ce-4bda-ab08-2abe1a9fbfd0",
    "title": "Senior Manager / Director, Statistical Genetics",
    "company": "insitro",
@@ -5170,6 +5250,19 @@
    "tags": [],
    "exp_years": 2,
    "exp_text": "…d STEM quantitative field. 2+ years of applied technical work building AI or machine learning solutions in",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "az-10551370",
+   "title": "Software Dev Engineer II, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10551370/software-dev-engineer-ii-aws-healthcare-ai",
+   "posted": "2026-09-16",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…development experience<br/>- 2+ years of non-internship design or architecture (design patterns, reliability",
    "first_seen": "2026-10-23"
   },
   {
@@ -7233,6 +7326,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "gh-6142472004",
+   "title": "Director of Data Science and Bioinformatics",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6142472004",
+   "posted": "2026-08-12",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…Bioinformatics, with at least 5 years of direct people management experience leading technical teams",
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "gh-6135539004",
    "title": "Director of Data Science and Bioinformatics",
    "company": "Natera",
@@ -7243,19 +7349,6 @@
    "tags": [
     "Remote"
    ],
-   "exp_years": 5,
-   "exp_text": "…Bioinformatics, with at least 5 years of direct people management experience leading technical teams",
-   "first_seen": "2026-10-21"
-  },
-  {
-   "id": "gh-6142472004",
-   "title": "Director of Data Science and Bioinformatics",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6142472004",
-   "posted": "2026-08-12",
-   "tags": [],
    "exp_years": 5,
    "exp_text": "…Bioinformatics, with at least 5 years of direct people management experience leading technical teams",
    "first_seen": "2026-10-21"
@@ -8137,6 +8230,19 @@
    "tags": [],
    "exp_years": 4,
    "exp_text": "…neering experience, including 4+ years delivering production ML, GenAI, analytics, automation, or data-intens",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "az-10475859",
+   "title": "Software Dev Engineer II, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10475859/software-dev-engineer-ii-aws-healthcare-ai",
+   "posted": "2026-07-15",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…development experience<br/>- 2+ years of non-internship design or architecture (design patterns, reliability",
    "first_seen": "2026-10-23"
   },
   {
@@ -9296,12 +9402,12 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "gh-7793644",
+   "id": "gh-7747518",
    "title": "Research Scientist, AI",
    "company": "CZ Biohub",
    "domain": "Research Institute",
-   "location": "Redwood City, CA (Hybrid)",
-   "url": "https://job-boards.greenhouse.io/biohub/jobs/7793644",
+   "location": "New York, NY (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/7747518",
    "posted": "2026-04-08",
    "tags": [],
    "exp_years": null,
@@ -9309,12 +9415,12 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "gh-7747518",
+   "id": "gh-7793644",
    "title": "Research Scientist, AI",
    "company": "CZ Biohub",
    "domain": "Research Institute",
-   "location": "New York, NY (Hybrid)",
-   "url": "https://job-boards.greenhouse.io/biohub/jobs/7747518",
+   "location": "Redwood City, CA (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/7793644",
    "posted": "2026-04-08",
    "tags": [],
    "exp_years": null,
