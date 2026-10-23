@@ -1,5 +1,5 @@
 {
-  "_comment": "Add companies here. ats: greenhouse | lever | ashby | workday. 'domain' groups companies in the UI. 'us_default': treat ambiguous locations (e.g. 'Remote', 'Cambridge') as US. 'title_must_match_domain': only keep titles that also mention bio/health/imaging (for general tech companies).",
+  "_comment": "Add companies here. ats: greenhouse | lever | ashby | workday | phenom | radancy | successfactors. 'domain' groups companies in the UI. 'us_default': treat ambiguous locations (e.g. 'Remote', 'Cambridge') as US. 'title_must_match_domain': only keep titles that also mention bio/health/imaging (for general tech companies).",
   "companies": [
     {"name": "Recursion", "ats": "greenhouse", "slug": "recursionpharmaceuticals", "domain": "AI Drug Discovery", "us_default": true},
     {"name": "insitro", "ats": "ashby", "slug": "insitro", "domain": "AI Drug Discovery", "us_default": true},
@@ -73,6 +73,10 @@
     {"name": "Philips", "ats": "workday", "slug": "philips/wd3/jobs-and-careers", "domain": "Medical Imaging AI"},
     {"name": "Medtronic", "ats": "workday", "slug": "medtronic/wd1/MedtronicCareers", "domain": "MedTech"},
     {"name": "Stryker", "ats": "workday", "slug": "stryker/wd1/StrykerCareers", "domain": "MedTech"},
+    {"name": "Eli Lilly", "ats": "workday", "slug": "lilly/wd115/LLY", "domain": "Pharma"},
+    {"name": "Takeda", "ats": "radancy", "slug": "https://jobs.takeda.com", "domain": "Pharma"},
+    {"name": "UCB", "ats": "phenom", "slug": "https://careers.ucb.com/global/en", "domain": "Pharma"},
+    {"name": "Boston Scientific", "ats": "successfactors", "slug": "https://jobs.bostonscientific.com", "domain": "MedTech"},
     {"name": "Merck (MSD)", "ats": "workday", "slug": "msd/wd5/SearchJobs", "domain": "Pharma"},
     {"name": "Bristol Myers Squibb", "ats": "workday", "slug": "bristolmyerssquibb/wd5/BMS", "domain": "Pharma"},
     {"name": "Biogen", "ats": "workday", "slug": "biibhr/wd3/external", "domain": "Pharma"},

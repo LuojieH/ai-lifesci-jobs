@@ -10,6 +10,7 @@ import json
 import re
 import sys
 import concurrent.futures as cf
+import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
@@ -122,6 +123,15 @@ def fetch(url, body=None, timeout=30):
         headers={"User-Agent": UA, "Accept": "application/json", "Content-Type": "application/json"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return json.load(r)
+
+
+def fetch_html(url, headers=None, timeout=30):
+    # Career sites built for browsers reject the scraper UA, so present as a desktop browser.
+    req = urllib.request.Request(url, headers={
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/120.0 Safari/537.36", **(headers or {})})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.read().decode("utf-8", "ignore")
 
 
 def iso(dt):
@@ -255,7 +265,122 @@ def workday(c):
                    desc=html_text(info.get("jobDescription")))
 
 
-ADAPTERS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby, "workday": workday}
+SITE_PAGES = 5  # result pages per query for the HTML career-site adapters below
+
+
+def _phenom_ddo(page):
+    """Phenom career sites embed their data as `phApp.ddo = {...}` in the page."""
+    i = page.find("phApp.ddo")
+    return json.JSONDecoder().raw_decode(page[page.index("{", i):])[0] if i >= 0 else {}
+
+
+def phenom(c):
+    """slug: site root including locale, e.g. https://careers.ucb.com/global/en"""
+    base = c["slug"].rstrip("/")
+    seen = {}
+    # The server-rendered page ignores ?keywords= on some sites, so walk the whole board (10 per page).
+    for page in range(c.get("max_pages", 80)):
+        try:
+            res = _phenom_ddo(fetch_html(f"{base}/search-results?from={page * 10}&s=1")).get("eagerLoadRefineSearch", {})
+        except Exception:
+            break
+        for j in res.get("data", {}).get("jobs", []):
+            seen.setdefault(j["jobId"], j)
+        if (page + 1) * 10 >= res.get("totalHits", 0):
+            break
+    for jid, j in seen.items():
+        if not keep_title(j.get("title", ""), c):
+            continue
+        try:
+            detail = _phenom_ddo(fetch_html(f"{base}/job/{jid}")).get("jobDetail", {}).get("data", {}).get("job", {})
+        except Exception:
+            detail = {}
+        yield dict(id=f"ph-{jid}", title=j["title"], locations=j.get("multi_location") or [j.get("location", "")],
+                   countries=[j.get("country")], url=f"{base}/job/{jid}", posted=iso(j.get("postedDate")),
+                   desc=html_text(detail.get("description")) or j.get("descriptionTeaser", ""))
+
+
+def _job_posting_ld(page):
+    for m in re.finditer(r'<script[^>]*application/ld\+json[^>]*>(.*?)</script>', page, re.S):
+        try:
+            d = json.loads(m.group(1))
+        except ValueError:
+            continue
+        for x in d if isinstance(d, list) else [d]:
+            if isinstance(x, dict) and x.get("@type") == "JobPosting":
+                return x
+    return {}
+
+
+def radancy(c):
+    """Radancy (TalentBrew) sites, e.g. jobs.takeda.com. slug: site root."""
+    base = c["slug"].rstrip("/")
+    seen = {}
+    for q in c.get("queries", WORKDAY_QUERIES):
+        params = urllib.parse.urlencode({
+            "ActiveFacetID": 0, "CurrentPage": 1, "RecordsPerPage": 100, "Keywords": q, "Location": "",
+            "SearchResultsModuleName": "Search Results", "SearchFiltersModuleName": "Search Filters",
+            "SortCriteria": 0, "SortDirection": 0, "SearchType": 5})
+        try:
+            res = json.loads(fetch_html(f"{base}/search-jobs/results?{params}",
+                                        {"Accept": "application/json", "X-Requested-With": "XMLHttpRequest"}))["results"]
+        except Exception:
+            continue
+        for m in re.finditer(r'<a href="(/job/[^"]+)"[^>]*>\s*<h2 class="title">([^<]+)</h2>(.*?)</a>', res, re.S):
+            loc = re.search(r'<span class="location">([^<]+)', m.group(3))
+            seen.setdefault(m.group(1), (html.unescape(m.group(2)).strip(), loc.group(1).strip() if loc else ""))
+    for path, (title, loc) in seen.items():
+        if not keep_title(title, c):
+            continue
+        try:
+            ld = _job_posting_ld(fetch_html(base + path))
+        except Exception:
+            ld = {}
+        places = ld.get("jobLocation") or []
+        addrs = [(p.get("address") or {}) for p in (places if isinstance(places, list) else [places])]
+        locs = [loc] + [", ".join(filter(None, [a.get("addressLocality"), a.get("addressRegion")])) for a in addrs]
+        yield dict(id=f"rd-{path.rstrip('/').rsplit('/', 1)[-1]}", title=title, locations=locs,
+                   countries=[a.get("addressCountry") for a in addrs], url=base + path,
+                   posted=iso(ld.get("datePosted")), desc=html_text(ld.get("description")))
+
+
+def successfactors(c):
+    """SAP SuccessFactors career sites (".../search/?q="), e.g. jobs.bostonscientific.com. slug: site root."""
+    base = c["slug"].rstrip("/")
+    seen = {}
+    for q in c.get("queries", WORKDAY_QUERIES):
+        for page in range(SITE_PAGES):
+            try:  # quoted, or "machine learning" also matches "Machine Operator"
+                s = fetch_html(f"{base}/search/?" + urllib.parse.urlencode({"q": f'"{q}"', "startrow": page * 25}))
+            except Exception:
+                break
+            for m in re.finditer(r'<a[^>]*?(?:href="(/job/[^"]+)"[^>]*class="jobTitle-link"|class="jobTitle-link"[^>]*href="(/job/[^"]+)")'
+                                 r'[^>]*>([^<]+)</a>', s):
+                seen.setdefault(m.group(1) or m.group(2), html.unescape(m.group(3)).strip())
+            total = re.search(r'Results <b>[^<]*</b> of <b>(\d+)', s)
+            if not total or (page + 1) * 25 >= int(total.group(1)):
+                break
+    for path, title in seen.items():
+        if not keep_title(title, c):
+            continue
+        try:
+            d = fetch_html(base + path)
+        except Exception:
+            continue
+        loc = re.search(r'class="jobGeoLocation"[^>]*>([^<]+)', d)
+        posted = re.search(r'itemprop="datePosted"[^>]*content="([^"]+)"', d)
+        try:
+            posted = datetime.strptime(posted.group(1), "%a %b %d %H:%M:%S UTC %Y").strftime("%Y-%m-%d") if posted else None
+        except ValueError:
+            posted = None
+        i = d.find('itemprop="description"')
+        yield dict(id=f"sf-{path.rstrip('/').rsplit('/', 1)[-1]}", title=title,
+                   locations=[" ".join(loc.group(1).split()) if loc else ""], countries=[], url=base + path,
+                   posted=posted, desc=html_text(d[i:i + 15000]) if i >= 0 else "")
+
+
+ADAPTERS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby, "workday": workday,
+            "phenom": phenom, "radancy": radancy, "successfactors": successfactors}
 
 
 def keep_title(title, c):

@@ -43,6 +43,11 @@ Find the company's careers page:
 | `jobs.lever.co/<slug>` | `"ats": "lever", "slug": "<slug>"` |
 | `jobs.ashbyhq.com/<slug>` | `"ats": "ashby", "slug": "<slug>"` |
 | `<tenant>.wd5.myworkdayjobs.com/<Site>` | `"ats": "workday", "slug": "<tenant>/wd5/<Site>"` |
+| Search page has `phApp.ddo` in its source (Phenom) | `"ats": "phenom", "slug": "https://careers.example.com/global/en"` |
+| `/search-jobs/<keywords>` URLs (Radancy / TalentBrew) | `"ats": "radancy", "slug": "https://jobs.example.com"` |
+| `/search/?q=` with `/job/.../<id>/` URLs (SuccessFactors) | `"ats": "successfactors", "slug": "https://jobs.example.com"` |
+
+Tip: Phenom sites often link "Apply" to Workday. If so, use the Workday entry instead (that's how Lilly works).
 
 Options:
 - `us_default: true` counts vague locations like "Remote" as US. Use it for US-based startups.
