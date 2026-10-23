@@ -22,7 +22,8 @@ UA = "Mozilla/5.0 (ai-lifesci-jobs scraper; +https://github.com)"
 
 WORKDAY_QUERIES = ["machine learning", "artificial intelligence", "deep learning",
                    "computer vision", "data scientist", "computational biology", "postdoctoral", "postdoc"]
-WORKDAY_PAGES = 3  # 20 results per page per query
+WORKDAY_MAX_PAGES = 25  # 20 results per page per query
+WORKDAY_DRY_PAGES = 5   # Workday search is fuzzy and relevance-ranked: stop after this many pages with no AI titles
 
 # --- Title filters -----------------------------------------------------------
 AI_TITLE = re.compile(
@@ -238,16 +239,20 @@ def workday(c):
     api = f"{base}/wday/cxs/{tenant}/{site}"
     seen = {}
     for q in c.get("queries", WORKDAY_QUERIES):
-        for page in range(WORKDAY_PAGES):
+        dry = 0
+        for page in range(WORKDAY_MAX_PAGES):
             try:
                 d = fetch(f"{api}/jobs", {"appliedFacets": {}, "limit": 20, "offset": page * 20, "searchText": q})
             except Exception:
                 break
             posts = d.get("jobPostings") or []
+            hits = 0
             for p in posts:
                 if "externalPath" in p:
                     seen.setdefault(p["externalPath"], p)
-            if len(posts) < 20:
+                    hits += keep_title(p.get("title", ""), c)
+            dry = 0 if hits else dry + 1
+            if len(posts) < 20 or dry >= WORKDAY_DRY_PAGES:
                 break
     # Only fetch details for titles that pass the filter (details give country + exact date).
     for path, p in seen.items():
