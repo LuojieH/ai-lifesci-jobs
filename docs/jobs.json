@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T12:24Z",
+ "updated": "2026-10-23T15:50Z",
  "count": 356,
  "companies": [
   "Absci",
@@ -77,6 +77,45 @@
  "errors": {},
  "jobs": [
   {
+   "id": "wd-gsk-449602",
+   "title": "Principal (Senior Director), Commercial Enterprise AI Product Mgmt., Field Force Effectiveness",
+   "company": "GSK",
+   "domain": "Pharma",
+   "location": "USA - Pennsylvania - Philadelphia · USA - Massachusetts - Boston · UK – London – New Oxford Street · Durham Blackwell Street",
+   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---Pennsylvania---Philadelphia/Principal--Senior-Director---Commercial-Enterprise-AI-Product-Mgmt--Field-Force-Effectiveness_449602",
+   "posted": "2026-10-23",
+   "tags": [],
+   "exp_years": 15,
+   "exp_text": "…o help us achieve our goals 15 or more years of professional experience across some combination of pharma/life scie",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-gsk-449604",
+   "title": "Principal (Senior Director), Commercial Enterprise AI Product Mgmt. - Knowledge Foundation and Insights Acceleration",
+   "company": "GSK",
+   "domain": "Pharma",
+   "location": "USA - Pennsylvania - Philadelphia · USA - Massachusetts - Waltham · UK – London – New Oxford Street · Durham Blackwell Street",
+   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---Pennsylvania---Philadelphia/Principal--Senior-Director---Commercial-Enterprise-AI-Product-Mgmt---Knowledge-Foundation-and-Insights-Acceleration_449604",
+   "posted": "2026-10-23",
+   "tags": [],
+   "exp_years": 15,
+   "exp_text": "…help us achieve our goals: 15 or more years of professional experience across some combination of pharma/life scie",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-gsk-450437",
+   "title": "Senior Manager, Product Management-Customer Planning and AI Enablement",
+   "company": "GSK",
+   "domain": "Pharma",
+   "location": "USA - Pennsylvania - Philadelphia · Durham Blackwell Street",
+   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---Pennsylvania---Philadelphia/Senior-Manager--Product-Management-Customer-Planning-and-AI-Enablement_450437",
+   "posted": "2026-10-23",
+   "tags": [],
+   "exp_years": 8,
+   "exp_text": "…or a related discipline. 8+ years of experience in Technology Product Management, Commercial Technology,",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-regeneron-R51674",
    "title": "Process Data Scientist",
    "company": "Regeneron",
@@ -87,6 +126,19 @@
    "tags": [],
    "exp_years": 0,
    "exp_text": "…s Data Scientist: Degree plus 0-2 + years of experience",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-sanofi-R2870857",
+   "title": "Head of AI Driven Digital Customer Engagement Management Platform",
+   "company": "Sanofi",
+   "domain": "Pharma",
+   "location": "Morristown, NJ · Cambridge, MA",
+   "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Head-of-AI-Driven-Digital-Customer-Engagement-Management-Platform_R2870857-1",
+   "posted": "2026-10-23",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…al/technology experience with 5+ years in senior program or product leadership roles required",
    "first_seen": "2026-10-23"
   },
   {
@@ -816,19 +868,6 @@
    "tags": [],
    "exp_years": 3,
    "exp_text": "…post-graduate experience. 3+ years of hands-on experience in scientific data science or engineering, AI/M",
-   "first_seen": "2026-10-21"
-  },
-  {
-   "id": "gh-4423490009",
-   "title": "Senior Specialist / Manager, AI Safety Data and Evaluation Program",
-   "company": "Lila Sciences",
-   "domain": "AI for Science",
-   "location": "Cambridge, MA USA; London, UK; San Francisco, CA USA",
-   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4423490009",
-   "posted": "2026-10-16",
-   "tags": [],
-   "exp_years": null,
-   "exp_text": "",
    "first_seen": "2026-10-21"
   },
   {
@@ -2187,19 +2226,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "wd-pfizer-4964531",
-   "title": "AI Oncology Portfolio Lead (Director)",
-   "company": "Pfizer",
-   "domain": "Pharma",
-   "location": "United States - California - San Diego",
-   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---California---San-Diego/AI-Oncology-Portfolio-Lead--Director-_4964531-3",
-   "posted": "2026-09-27",
-   "tags": [],
-   "exp_years": 5,
-   "exp_text": "…y, computational biology) and 5+ years of experience using AI to solve drug discovery problems, perform scena",
-   "first_seen": "2026-10-21"
-  },
-  {
    "id": "wd-amgen-R-256660",
    "title": "Director, AI & Machine Learning",
    "company": "Amgen",
@@ -2255,19 +2281,6 @@
    ],
    "exp_years": 7,
    "exp_text": "…ield. Or Advanced degree plus 7 years of relevant experience, as stated above",
-   "first_seen": "2026-10-21"
-  },
-  {
-   "id": "ab-d9fbc2b6-b695-4282-976f-73b91ef6c8bb",
-   "title": "Research Engineer, Auto Research",
-   "company": "Chai Discovery",
-   "domain": "AI Drug Discovery",
-   "location": "San Francisco office",
-   "url": "https://jobs.ashbyhq.com/chaidiscovery/d9fbc2b6-b695-4282-976f-73b91ef6c8bb",
-   "posted": "2026-09-24",
-   "tags": [],
-   "exp_years": null,
-   "exp_text": "",
    "first_seen": "2026-10-21"
   },
   {
@@ -2453,19 +2466,6 @@
    "exp_years": 1,
    "exp_text": "…nce: Doctorate Degree and 1 year of experience in Computer Science, IT or related field OR",
    "first_seen": "2026-10-21"
-  },
-  {
-   "id": "wd-jj-R-099962",
-   "title": "Senior Machine Learning Engineer, Biologics Discovery",
-   "company": "Johnson & Johnson",
-   "domain": "Pharma",
-   "location": "Spring House, Pennsylvania, United States of America · Raritan, New Jersey, United States of America · Titusville, New Jersey, United States of America · Madrid, Spain · Beerse, Antwerp, Belgium",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Senior-Machine-Learning-Engineer--Biologics-Discovery_R-099962-1",
-   "posted": "2026-09-18",
-   "tags": [],
-   "exp_years": 4,
-   "exp_text": "…related computational field. 4+ years of experience operationalizing and scaling AI/ML solutions in producti",
-   "first_seen": "2026-10-23"
   },
   {
    "id": "ab-1253d6c7-f9ce-4bda-ab08-2abe1a9fbfd0",
@@ -3459,19 +3459,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "gh-6142472004",
-   "title": "Director of Data Science and Bioinformatics",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6142472004",
-   "posted": "2026-08-12",
-   "tags": [],
-   "exp_years": 5,
-   "exp_text": "…Bioinformatics, with at least 5 years of direct people management experience leading technical teams",
-   "first_seen": "2026-10-21"
-  },
-  {
    "id": "gh-6135539004",
    "title": "Director of Data Science and Bioinformatics",
    "company": "Natera",
@@ -3482,6 +3469,19 @@
    "tags": [
     "Remote"
    ],
+   "exp_years": 5,
+   "exp_text": "…Bioinformatics, with at least 5 years of direct people management experience leading technical teams",
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-6142472004",
+   "title": "Director of Data Science and Bioinformatics",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6142472004",
+   "posted": "2026-08-12",
+   "tags": [],
    "exp_years": 5,
    "exp_text": "…Bioinformatics, with at least 5 years of direct people management experience leading technical teams",
    "first_seen": "2026-10-21"
