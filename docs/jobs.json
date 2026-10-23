@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T16:54Z",
- "count": 500,
+ "updated": "2026-10-23T17:03Z",
+ "count": 535,
  "companies": [
   "Abbott",
   "Absci",
@@ -40,7 +40,7 @@
   "GE HealthCare",
   "GRAIL",
   "GSK",
-  "Genentech / Roche",
+  "Genentech",
   "Generate:Biomedicines",
   "Gilead",
   "Ginkgo Bioworks",
@@ -76,6 +76,7 @@
   "Regeneron",
   "Relation Therapeutics",
   "Retro Biosciences",
+  "Roche",
   "Sanofi",
   "Seer",
   "Siemens Healthineers",
@@ -96,6 +97,19 @@
  ],
  "errors": {},
  "jobs": [
+  {
+   "id": "wd-roche-202610-127377",
+   "title": "Vice President, VP, Global Head of AI for Drug Discovery (AIDD)",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco · New York City",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Job-Posting-Title-Vice-President--VP--Global-Head-of-AI-for-Drug-Discovery--AIDD-_202610-127377-1",
+   "posted": "2026-10-23",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
   {
    "id": "wd-astrazeneca-R-262597",
    "title": "Director, Data Science Operations – Early Cardiovascular, Renal and Metabolism",
@@ -255,6 +269,34 @@
    ],
    "exp_years": null,
    "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-roche-202609-124657",
+   "title": "2027 Spring Intern - Data Science & Machine Learning",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---Data-Science---Machine-Learning_202609-124657",
+   "posted": "2026-10-22",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-roche-202608-120617",
+   "title": "Senior Machine Learning Engineer, Agentic Science/Generative Models, AI for Biology & Translation (AIBT)",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Machine-Learning-Engineer--Agentic-Science-Generative-Models--AI-for-Biology---Translation--AIBT-_202608-120617",
+   "posted": "2026-10-22",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…related quantitative field 5+ years building and shipping ML systems in industry",
    "first_seen": "2026-10-23"
   },
   {
@@ -804,6 +846,32 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "wd-roche-202610-126995",
+   "title": "Senior Machine Learning Research Scientist, Structure and Simulation (AI for Drug Discovery)",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "New York City",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/Senior-Machine-Learning-Research-Scientist--Structure-and-Simulation--AI-for-Drug-Discovery-_202610-126995",
+   "posted": "2026-10-20",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…ry experience, or a PhD with +2 years of industry experience",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-roche-202610-125840",
+   "title": "Machine Learning Engineer (AI Enablement)",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Engineer--Data-and-Digital-Catalyst-_202610-125840",
+   "posted": "2026-10-20",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-lilly-R-110977",
    "title": "ML Ops Engineer",
    "company": "Eli Lilly",
@@ -1015,6 +1083,47 @@
    "exp_years": 6,
    "exp_text": "…MENTS: • Advanced Degree plus 6 years of experience, or Bachelor's Degree plus 8 years of experience in data",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-roche-202610-126098",
+   "title": "Senior AI Engineer- Imaging",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-AI-Engineer--Imaging_202610-126098",
+   "posted": "2026-10-19",
+   "tags": [
+    "Imaging"
+   ],
+   "exp_years": 3,
+   "exp_text": "…· PhD, Master’s with 3–5 years, or Bachelor’s with 4–7 years experience with a degree in Computer Sc",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-roche-202604-110822",
+   "title": "Senior Data Scientist (AI-assisted Clinical Development)",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "Boston",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/Boston/Senior-Data-Scientist--AI-assisted-Clinical-Development-_202604-110822",
+   "posted": "2026-10-19",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…a related field You have 3+ years of experience applying machine learning and statistical modeling to da",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-roche-202610-126834",
+   "title": "Machine Learning Engineer/Senior Machine Learning Engineer - Devops, AI for Drug Discovery",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "New York City · South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/Machine-Learning-Engineer-Senior-Machine-Learning-Engineer---Devops--AI-for-Drug-Discovery_202610-126834",
+   "posted": "2026-10-19",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…neer - DevOps BS/MS with 2-3 years of industry experience required",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "wd-lilly-R-112530",
@@ -1242,6 +1351,21 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "wd-roche-202610-126669",
+   "title": "Postdoctoral Fellow - Computational Biology, Regev Lab",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Postdoctoral-Fellow---Computational-Biology--Regev-Lab_202610-126669",
+   "posted": "2026-10-18",
+   "tags": [
+    "Postdoc"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-lilly-R-113206",
    "title": "Director / Sr. Director of Computational Chemistry for Molecule Discovery – ExploR&D",
    "company": "Eli Lilly",
@@ -1270,6 +1394,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "wd-roche-202608-120343",
+   "title": "Principal Scientist, SOP & Workflow Automation Champion, AI for Drug Discovery (AIDD)",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Principal-Scientist--SOP---Workflow-Automation-Champion--AI-for-Drug-Discovery--AIDD-_202608-120343",
+   "posted": "2026-10-17",
+   "tags": [],
+   "exp_years": 8,
+   "exp_text": "…uivalent advanced experience (8+ years building computational systems)",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-novartis-REQ-10088821",
    "title": "Scientific AI Platform Lead, Data Science, Disease Area X",
    "company": "Novartis",
@@ -1281,6 +1418,19 @@
    "exp_years": 3,
    "exp_text": "…post-graduate experience. 3+ years of hands-on experience in scientific data science or engineering, AI/M",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-roche-202609-124232",
+   "title": "Senior Manager Business Intelligence, AI & Data Governance, CVRM",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "Holly Springs",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/Holly-Springs/Senior-Manager-Business-Intelligence--AI---Data-Governance--CVRM_202609-124232",
+   "posted": "2026-10-16",
+   "tags": [],
+   "exp_years": 8,
+   "exp_text": "…related technical field ● 8+ years of experience in pharmaceutical manufacturing, process engineering, au",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "wd-lilly-R-112529",
@@ -1925,6 +2075,32 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "wd-roche-202610-125995",
+   "title": "Senior Director, Data Management & Analytical Data Science Solutions",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "Boston · Kaiseraugst · South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/Boston/Senior-Director--Data-Management---Analytical-Data-Science-Solutions_202610-125995-2",
+   "posted": "2026-10-13",
+   "tags": [],
+   "exp_years": 4,
+   "exp_text": "…iness Analysis, with at least 4 years recent experience in Pharma/Biotech Biometrics domain and 4+ years in",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-roche-202610-125975",
+   "title": "Senior Physical AI & Robotics Scientist - Lab Automation",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Physical-AI---Robotics-Scientist---Lab-Automation_202610-125975",
+   "posted": "2026-10-13",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…of experience, or a PhD with 2+ years of experience in deploying Physical AI or robotics solutions",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "rd-98529894640",
    "title": "Manager, AI-Ready Data Modeling",
    "company": "Takeda",
@@ -2443,6 +2619,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "wd-roche-202604-110245",
+   "title": "AI Scientist/Senior, Clinical & Molecular Genomics Modeling, BRAID",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/AI-Scientist-Senior--Clinical---Molecular-Genomics-Modeling--BRAID_202604-110245",
+   "posted": "2026-10-07",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…related quantitative field + 2 years of experience building ML models and/or interpreting models for target",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-abbott-31164446",
    "title": "Senior Research Scientist, Translational Neuroscience, AI & Biomarker Discovery",
    "company": "Abbott",
@@ -2614,6 +2803,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "wd-roche-202606-115542",
+   "title": "Machine Learning Scientist/Senior Machine Learning Scientist - Synthesis Planning and Optimization, AI for Drug Discovery",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "San Francisco · New York City",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/San-Francisco/Machine-Learning-Scientist---Synthesis-Planning-and-Optimization_202606-115542-1",
+   "posted": "2026-10-05",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…rch experience (Scientist) or 2+ years of industry research experience (Senior Scientist)",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-modernatx-R19884",
    "title": "Co-Op, Protein Design",
    "company": "Moderna",
@@ -2675,6 +2877,19 @@
    "location": "US, San Diego CA",
    "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-San-Diego-CA/AVP--AI-ML---Generative-Foundation-Models-for-Biotherapeutics_R-112338",
    "posted": "2026-10-04",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-roche-202607-119719",
+   "title": "Senior Machine Learning Scientist, AI for Biology & Translation (AIBT)",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Machine-Learning-Scientist--AI-for-Biology---Translation--AIBT-_202607-119719",
+   "posted": "2026-10-02",
    "tags": [],
    "exp_years": null,
    "exp_text": "",
@@ -3250,6 +3465,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "wd-roche-202606-115525",
+   "title": "Machine Learning Scientist/Senior Machine Learning Scientist - Agents for Applied Small Molecule Drug Design, AI for Drug Discovery",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "San Francisco · New York City",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/San-Francisco/Machine-Learning-Scientist---Agents-for-Applied-Small-Molecule-Drug-Design_202606-115525-1",
+   "posted": "2026-09-28",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…rch experience (Scientist) or 2+ years of industry research experience (Senior Scientist)",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "rd-101300358672",
    "title": "Technical Product Owner, AI-native Large molecule Discovery",
    "company": "Takeda",
@@ -3425,6 +3653,19 @@
    "exp_years": 3,
    "exp_text": "…science, or a related field. 3-5 years of experience in product management, digital experience, workflow tran",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-roche-202607-118950",
+   "title": "Machine Learning Engineer/Senior Machine Learning Engineer, Agentic Systems, AI for Drug Discovery",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco · New York City",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Software-Development-Engineer-Senior-Software-Development-Engineer--Agentic-Systems--AI-for-Drug-Discovery_202607-118950",
+   "posted": "2026-09-25",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…ent practical experience, and 3+ years of professional software engineering experience",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "wd-lilly-R-111470",
@@ -3830,6 +4071,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "wd-roche-202609-123434",
+   "title": "Senior Data Product Manager - Analytics & AI",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Data-Product-Manager---Analytics---AI_202609-123434-1",
+   "posted": "2026-09-16",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…related field. You have 5+ years of combined experience in product management, data management, AI, sof",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-lilly-R-111718",
    "title": "Agentic AI Solutions, Associate Director",
    "company": "Eli Lilly",
@@ -3923,7 +4177,7 @@
   {
    "id": "wd-roche-202608-122114",
    "title": "Global Head Regulatory Data, Digital and AI",
-   "company": "Genentech / Roche",
+   "company": "Roche",
    "domain": "Pharma",
    "location": "Basel · South San Francisco",
    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Global-Head-Regulatory-Data--Digital-and-AI_202608-122114",
@@ -4050,6 +4304,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "wd-roche-202607-119492",
+   "title": "Principal Statistical Methodology Data Scientist",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Principal-Statistical-Methodology-Data-Scientist_202607-119492",
+   "posted": "2026-09-10",
+   "tags": [],
+   "exp_years": 6,
+   "exp_text": "…tative discipline You have 6+ years of experience designing and applying advanced analytics to complex bio",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-lilly-R-111467",
    "title": "Advisor - Agentic Automation, Frontier AI",
    "company": "Eli Lilly",
@@ -4089,6 +4356,19 @@
    "exp_years": 3,
    "exp_text": "…riting communication skills 3+ years of frontier AI research experience",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-roche-202609-122724",
+   "title": "Principal Machine Learning Engineer, Foundation Models, AI for Drug Discovery",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "New York City · South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/Principal-Machine-Learning-Engineer_202609-122724-1",
+   "posted": "2026-09-08",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…nce based on degree: PhD with 5+ years, MS with 8+ years, or BS with 10+ years of industry experience buildi",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "rd-100377630752",
@@ -4516,6 +4796,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "wd-roche-202607-119869",
+   "title": "Senior/Principal Scientist, Computational Neuroscience, Computational Sciences Center of Excellence",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Principal-Scientist--Computational-Neuroscience--Computational-Sciences-Center-of-Excellence_202607-119869",
+   "posted": "2026-09-01",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…ful postdoctoral research or ≥3 years equivalent experience after PhD (Principal Scientist)",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-verily-REQ-949",
    "title": "AI Applied Scientist",
    "company": "Verily",
@@ -4594,6 +4887,19 @@
    "exp_years": 3,
    "exp_text": "…cometric tools NONMEM or R 3+ years of experience in planning, performing, and reporting analysis of clini",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-roche-202608-120928",
+   "title": "Senior Principal DSX Data Scientist, AI",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Principal-DSX-Data-Scientist--AI_202608-120928",
+   "posted": "2026-08-31",
+   "tags": [],
+   "exp_years": 8,
+   "exp_text": "…ld You have a minimum of 8 years of experience in data science, statistical computing, or platform deve",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "ab-e418c9bf-4fe6-4484-92ad-e9a320557815",
@@ -4704,6 +5010,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "wd-roche-202607-119751",
+   "title": "Principal Data Scientist - RDT Applied AI",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Principal-Data-Scientist---RDT-Applied-AI_202607-119751-2",
+   "posted": "2026-08-27",
+   "tags": [],
+   "exp_years": 7,
+   "exp_text": "…preferred. A minimum of 7 years of direct, related experience in Data Science working intimately with",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-bristolmyerssquibb-R1605662",
    "title": "Associate Director, Rewire Field Experience and Agentic AI Architect",
    "company": "Bristol Myers Squibb",
@@ -4757,6 +5076,19 @@
    "exp_years": 4,
    "exp_text": "…nical partners. - Typically 4+ years of relevant applied ML research or engineering experience, or equivale",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-roche-202608-121261",
+   "title": "Principal Machine Learning Scientist, Frontier Research, AI for Drug Discovery (AIDD)",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco · New York City · Basel",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Principal-Machine-Learning-Scientist--Frontier-Research--AI-for-Drug-Discovery--AIDD-_202608-121261",
+   "posted": "2026-08-26",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…, or related disciplines with 2-7 years of relevant work experience",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "rd-99383973056",
@@ -5141,6 +5473,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "wd-roche-202608-121326",
+   "title": "Senior Machine Learning Scientist, Protein ML, AI for Drug Discovery (AIDD)",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Machine-Learning-Scientist--Protein-ML--AI-for-Drug-Discovery--AIDD-_202608-121326",
+   "posted": "2026-08-18",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…industry research experience (3+ years for BS or MS)",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "gh-7893982003",
    "title": "Sr. Machine Learning Engineer - Machine Learning",
    "company": "Dyno Therapeutics",
@@ -5381,6 +5726,45 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "wd-roche-202607-120009",
+   "title": "Machine Learning Engineer, Infra, AI for Drug Discovery",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco · New York City",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Engineer--Infra--AI-for-Drug-Discovery_202607-120009",
+   "posted": "2026-08-05",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…lent practical experience. 3+ years of relevant industry experience in software engineering, infrastructur",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-roche-202608-120346",
+   "title": "Senior Scientist, Antibody Developability/Biophysics & Portfolio Support, AI for Drug Discovery (AIDD)",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Scientist--Developability-Biophysics---Portfolio-Support--AI-for-Drug-Discovery--AIDD-_202608-120346",
+   "posted": "2026-08-05",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…uivalent advanced experience (5-8 years in ML/computational methods or biophysics)",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-roche-202608-120345",
+   "title": "Principal Scientist, Portfolio & gRED Interface-Biologics, AI for Drug Discovery (AIDD)",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Principal-Scientist--Portfolio---gRED-Interface-Biologics--AI-for-Drug-Discovery--AIDD-_202608-120345",
+   "posted": "2026-08-05",
+   "tags": [],
+   "exp_years": 10,
+   "exp_text": "…experience in drug discovery (10+ years total, 5+ in ML/computational methods for biologics)",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-bristolmyerssquibb-R1604108",
    "title": "Senior Manager, Data Engineer, Clinical Operations",
    "company": "Bristol Myers Squibb",
@@ -5532,7 +5916,7 @@
   {
    "id": "wd-roche-202607-118174",
    "title": "Senior Bioinformatics Software Engineer",
-   "company": "Genentech / Roche",
+   "company": "Roche",
    "domain": "Pharma",
    "location": "Santa Clara",
    "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Santa-Clara/Senior-Bioinformatics-Software-Engineer_202607-118174-2",
@@ -5610,6 +5994,19 @@
    "exp_years": null,
    "exp_text": "",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-roche-202602-103618",
+   "title": "Senior / Principal Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "New York City · South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/Senior---Principal-Machine-Learning-Scientist--Scientific-Reasoning-Models_202602-103618",
+   "posted": "2026-07-27",
+   "tags": [],
+   "exp_years": 0,
+   "exp_text": "…nce: For Senior (SE6): 0 – 2+ years of industry or post-doc experience with a focus on deep learning",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "gh-4324969009",
@@ -5751,6 +6148,22 @@
    "exp_years": 6,
    "exp_text": "…Biology, or Bioinformatics. 6+ years of postdoc or post-PhD industry experience achieving impactful results",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-roche-202607-118035",
+   "title": "Postdoctoral Fellow – Imaging Technology and Compound Screening, Regev & Singh Labs",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Postdoctoral-Fellow---Imaging-Technology-and-Compound-Screening--Regev---Singh-Labs_202607-118035",
+   "posted": "2026-07-15",
+   "tags": [
+    "Imaging",
+    "Postdoc"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "wd-modernatx-R19417",
@@ -5902,6 +6315,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "wd-roche-202606-117077",
+   "title": "Senior Machine Learning Scientist, Foundational ML, AI for Biology & Translation (AIBT)",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Machine-Learning-Scientist--Foundational-ML--AI-for-Biology---Translation--AIBT-_202606-117077",
+   "posted": "2026-07-01",
+   "tags": [],
+   "exp_years": 0,
+   "exp_text": "…ield Experience: 0 – 2+ years of industry or post-doc experience",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "gh-4302917009",
    "title": "Senior / Staff Machine Learning Engineer, Applied AI",
    "company": "Lila Sciences",
@@ -5993,6 +6419,19 @@
    "exp_years": 2,
    "exp_text": "…ts Bachelor’s degree and 2+ years of experience as a Data Engineer or similar technical role",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-roche-202606-114787",
+   "title": "Senior/Principal Machine Learning Scientist, Perturbation Biology, AI Biology & Translation (AIBT)",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Principal-Machine-Learning-Scientist--Perturbation-Biology--AI-Biology---Translation--AIBT-_202606-114787",
+   "posted": "2026-06-17",
+   "tags": [],
+   "exp_years": 0,
+   "exp_text": "…nce : Senior ML Scientist 0-2 years of experience post PhD, Principal ML Scientist 2-7 years of experience",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "wd-abbott-31151998",
@@ -6658,6 +7097,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "wd-roche-202602-103501",
+   "title": "Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "New York City · South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/Machine-Learning-Scientist--Scientific-Reasoning-Models--AI-for-Drug-Discovery_202602-103501",
+   "posted": "2026-02-11",
+   "tags": [],
+   "exp_years": 0,
+   "exp_text": "…rk experience. Or Ph. D. with 0-2 years relevant work experience",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "gh-4116513009",
    "title": "Machine Learning Engineer, Physical Sciences AI",
    "company": "Lila Sciences",
@@ -6710,6 +7162,19 @@
    "exp_years": null,
    "exp_text": "",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "wd-roche-202512-130932",
+   "title": "Principal Supply Chain Data Scientist",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "Louisville",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/Louisville/Principal-Supply-Chain-Data-Scientist_202512-130932-1",
+   "posted": "2025-12-01",
+   "tags": [],
+   "exp_years": 10,
+   "exp_text": "…revious Experience: Over 10 years of experience in supply chain analytics, business intelligence, or adv",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "gh-4961579007",

@@ -57,7 +57,8 @@
     {"name": "Neuralink", "ats": "greenhouse", "slug": "neuralink", "domain": "Neurotech", "us_default": true},
 
     {"name": "Pfizer", "ats": "workday", "slug": "pfizer/wd1/PfizerCareers", "domain": "Pharma"},
-    {"name": "Genentech / Roche", "ats": "workday", "slug": "roche/wd3/roche-ext", "domain": "Pharma"},
+    {"name": "Genentech", "ats": "workday", "slug": "roche/wd3/ROG-A2O-GENE", "domain": "Pharma"},
+    {"name": "Roche", "ats": "workday", "slug": "roche/wd3/roche-ext", "domain": "Pharma"},
     {"name": "AstraZeneca", "ats": "workday", "slug": "astrazeneca/wd3/Careers", "domain": "Pharma"},
     {"name": "GSK", "ats": "workday", "slug": "gsk/wd5/GSKCareers", "domain": "Pharma"},
     {"name": "Novartis", "ats": "workday", "slug": "novartis/wd3/Novartis_Careers", "domain": "Pharma"},

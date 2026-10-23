@@ -397,7 +397,7 @@ def scrape_company(c):
     out = []
     try:
         for j in ADAPTERS[c["ats"]](c):
-            title = " ".join(j["title"].split())
+            title = re.sub(r"^Job Posting Title\s*", "", " ".join(j["title"].split()))  # Workday template leak
             if not keep_title(title, c):
                 continue
             if POSTDOC_TITLE.search(title) and not (AI_TITLE.search(title) or AI_TITLE_CS.search(title)):
