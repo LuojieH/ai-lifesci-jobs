@@ -33,17 +33,31 @@ AI_TITLE = re.compile(
     r"LLMs?|generative|foundation models?|neural|perception|reinforcement learning|"
     r"applied scientist|research engineer|algorithms?|image analysis|"
     r"imaging scien\w*|digital pathology|statistical genetic\w*|"
-    r"ML ?Ops|data engineer\w*|multimodal|representation learning|in[- ]silico|protein design)\b", re.I)
+    r"ML ?Ops|data engineer\w*|multimodal|representation learning|in[- ]silico|protein design|agentic)\b", re.I)
 AI_TITLE_CS = re.compile(r"\b(AI|ML|GenAI|AI/ML|ML/AI)\b")  # case-sensitive acronyms
 EXCLUDE_TITLE = re.compile(
     r"\b(recruit\w*|sales|account executive|account manager|marketing|counsel|paralegal|"
-    r"talent pool|executive assistant|business partner)\b", re.I)
+    r"talent pool|executive assistant|business partner|account director|business development|"
+    r"customer success|solutions consultant)\b", re.I)
 DOMAIN_TITLE = re.compile(
     r"(bio|health|medic|clinic|drug|genom|protein|patholog|imaging|life scien|chem|"
     r"molecul|\bcell|pharma|BioNeMo|Clara|MONAI|radiolog|surgical)", re.I)
 IMAGING_TITLE = re.compile(
     r"(imag|vision|patholog|radiolog|microscop|ultrasound|\bMRI\b|\bCT\b|x-ray|"
     r"segmentation|visual|spatial|endoscop|optical|photonic)", re.I)
+# Big tech / AI labs: every title can say "Cell"ular, "Bio"metrics or camera "Imaging", so require a real
+# health or life-science word instead (companies.json: "title_must_match_domain": "strict").
+HEALTH_BIO_TITLE = re.compile(
+    r"(health|medic|clinic|drug|genom|protein|biolog|bioinformat|biomedic|biotech|life scien|patholog|"
+    r"radiolog|pharma|patient|hospital|molecul|chemistry|neuro|BioNeMo|Clara|MONAI)", re.I)
+NOT_HEALTH_TITLE = re.compile(r"health (and|&) safety|\bEHS\b|(service|system|site|network|fleet|account|platform) health",
+                              re.I)
+# AI-native companies ("ai_company": true): research/technical roles count even without an AI keyword.
+# With a strict health title (AI labs) any engineering role counts; otherwise (clinical-AI startups) skip
+# generic SWE/IT/infra roles.
+TECH_TITLE = re.compile(
+    r"\b(scientist|research\w*|technical staff|product staff|forward deployed|deployment|applied|data scien\w*)\b", re.I)
+TECH_TITLE_BROAD = re.compile(r"\b(engineer\w*|developer|architect)\b", re.I)
 POSTDOC_TITLE = re.compile(r"post-?doc", re.I)
 # Postdoc titles are often just "Postdoctoral Fellow, X Lab", so for those we judge AI-ness by the description.
 AI_DESC = re.compile(r"machine learning|deep learning|artificial intelligence|computer vision|neural net\w*|"
@@ -412,16 +426,122 @@ def successfactors(c):
                    posted=posted, desc=html_text(d[i:i + 15000]) if i >= 0 else "")
 
 
+BIGTECH_QUERIES = ["health", "medical", "healthcare machine learning", "biology", "life sciences",
+                   "drug discovery", "genomics", "clinical"]
+BIGTECH_PAGES = 10
+
+
+def _slug(t):
+    return re.sub(r"[^a-z0-9]+", "-", t.lower()).strip("-")
+
+
+def google(c):
+    """google.com/about/careers: results are embedded in the page as AF_initDataCallback 'ds:1'."""
+    base = "https://www.google.com/about/careers/applications/jobs/results/"
+    seen = set()
+    for q in c.get("queries", BIGTECH_QUERIES):
+        dry = 0
+        for page in range(1, BIGTECH_PAGES + 1):
+            try:
+                h = fetch_html(base + "?" + urllib.parse.urlencode({"q": q, "location": "United States", "page": page}))
+                i = h.index("AF_initDataCallback({key: 'ds:1'")
+                data = json.JSONDecoder().raw_decode(h[h.index("data:", i) + 5:])[0]
+            except Exception:
+                break
+            jobs, total = data[0] or [], data[2] if len(data) > 2 else 0
+            hits = 0
+            for x in jobs:
+                if x[0] in seen or not keep_title(x[1], c):
+                    continue
+                seen.add(x[0])
+                hits += 1
+                places = x[9] or []
+                text = lambda k: (x[k][1] if len(x) > k and isinstance(x[k], list) and len(x[k]) > 1 else "") or ""
+                yield dict(id=f"gg-{x[0]}", title=x[1], locations=[pl[0] for pl in places],
+                           countries=[pl[5] for pl in places if len(pl) > 5],
+                           url=f"{base}{x[0]}-{_slug(x[1])}",
+                           posted=iso(x[12][0] * 1000) if len(x) > 12 and x[12] else None,
+                           desc=html_text(text(4) + "\n" + text(19) + "\n" + text(3)))
+            dry = 0 if hits else dry + 1
+            if page * 20 >= (total or 0) or dry >= 3:
+                break
+
+
+def amazon(c):
+    """amazon.jobs public search JSON."""
+    seen = set()
+    for q in c.get("queries", BIGTECH_QUERIES):
+        dry = 0
+        for page in range(BIGTECH_PAGES):
+            try:
+                d = json.loads(fetch_html("https://www.amazon.jobs/en/search.json?" + urllib.parse.urlencode(
+                    {"base_query": q, "country": "USA", "result_limit": 100, "offset": page * 100})))
+            except Exception:
+                break
+            jobs = d.get("jobs") or []
+            hits = 0
+            for j in jobs:
+                if j["id_icims"] in seen or not keep_title(j["title"], c):
+                    continue
+                seen.add(j["id_icims"])
+                hits += 1
+                try:
+                    posted = datetime.strptime(j.get("posted_date", ""), "%B %d, %Y").strftime("%Y-%m-%d")
+                except ValueError:
+                    posted = None
+                yield dict(id=f"az-{j['id_icims']}", title=j["title"],
+                           locations=[j.get("normalized_location") or j.get("location", "")],
+                           countries=[j.get("country_code")], url="https://www.amazon.jobs" + j["job_path"], posted=posted,
+                           desc="\n".join(filter(None, [j.get("basic_qualifications"), j.get("description")])))
+            dry = 0 if hits else dry + 1
+            if len(jobs) < 100 or dry >= 3:
+                break
+
+
+def apple(c):
+    """jobs.apple.com: results are double-encoded JSON in __staticRouterHydrationData. Its keyword ranking is weak,
+    so we narrow by team (slug "team=...") and walk the pages."""
+    seen = set()
+    for q in c.get("queries", ["health", "medical", "biology"]):
+        for page in range(1, c.get("max_pages", 20) + 1):
+            try:
+                h = fetch_html("https://jobs.apple.com/en-us/search?" + urllib.parse.urlencode(
+                    {"search": q, "location": "united-states-USA", "team": c["slug"], "page": page}))
+                k = h.index('__staticRouterHydrationData = JSON.parse(') + len('__staticRouterHydrationData = JSON.parse(')
+                d = json.loads(json.JSONDecoder().raw_decode(h[k:])[0])["loaderData"]["search"]
+            except Exception:
+                break
+            for r in d.get("searchResults") or []:
+                if r["positionId"] in seen or not keep_title(r["postingTitle"], c):
+                    continue
+                seen.add(r["positionId"])
+                locs = r.get("locations") or []
+                yield dict(id=f"ap-{r['positionId']}", title=r["postingTitle"],
+                           locations=[", ".join(filter(None, [l.get("city"), l.get("stateProvince")])) or l.get("countryName", "")
+                                      for l in locs],
+                           countries=[l.get("countryName") for l in locs],
+                           url=f"https://jobs.apple.com/en-us/details/{r['positionId']}/{r.get('transformedPostingTitle', '')}",
+                           posted=iso(r.get("postDateInGMT")), desc=r.get("jobSummary", ""))
+            if page * 20 >= (d.get("totalRecords") or 0):
+                break
+
+
 ADAPTERS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby, "workday": workday,
-            "phenom": phenom, "radancy": radancy, "successfactors": successfactors}
+            "phenom": phenom, "radancy": radancy, "successfactors": successfactors,
+            "google": google, "amazon": amazon, "apple": apple}
 
 
 def keep_title(title, c):
     if EXCLUDE_TITLE.search(title):
         return False
-    if not (AI_TITLE.search(title) or AI_TITLE_CS.search(title) or POSTDOC_TITLE.search(title)):
+    if not (AI_TITLE.search(title) or AI_TITLE_CS.search(title) or POSTDOC_TITLE.search(title)
+            or (c.get("ai_company") and (TECH_TITLE.search(title) or (
+                c.get("title_must_match_domain") == "strict" and TECH_TITLE_BROAD.search(title))))):
         return False
-    if c.get("title_must_match_domain") and not DOMAIN_TITLE.search(title):
+    domain = c.get("title_must_match_domain")
+    if domain and not (HEALTH_BIO_TITLE if domain == "strict" else DOMAIN_TITLE).search(title):
+        return False
+    if domain == "strict" and NOT_HEALTH_TITLE.search(title):
         return False
     return True
 

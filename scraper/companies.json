@@ -110,7 +110,21 @@
     {"name": "Siemens Healthineers", "ats": "workday", "slug": "onehealthineers/wd3/SHSJB", "domain": "Medical Imaging AI"},
     {"name": "Abbott", "ats": "workday", "slug": "abbott/wd5/abbottcareers", "domain": "MedTech"},
     {"name": "BD", "ats": "workday", "slug": "bdx/wd1/EXTERNAL_CAREER_SITE_USA", "domain": "MedTech"},
-    {"name": "NVIDIA (Healthcare)", "ats": "workday", "slug": "nvidia/wd5/NVIDIAExternalCareerSite", "domain": "AI for Science", "title_must_match_domain": true,
+    {"name": "Google / DeepMind (Health & Bio)", "ats": "google", "slug": "-", "domain": "Big Tech / AI Lab", "title_must_match_domain": "strict"},
+    {"name": "Amazon / AWS (Health & Life Sciences)", "ats": "amazon", "slug": "-", "domain": "Big Tech / AI Lab", "title_must_match_domain": "strict"},
+    {"name": "Apple (Health)", "ats": "apple", "slug": "machine-learning-and-ai-MLAI", "domain": "Big Tech / AI Lab", "title_must_match_domain": "strict"},
+    {"name": "Anthropic (Life Sciences & Health)", "ats": "greenhouse", "slug": "anthropic", "domain": "Big Tech / AI Lab", "title_must_match_domain": "strict", "ai_company": true},
+    {"name": "OpenAI (Health & Life Sciences)", "ats": "ashby", "slug": "openai", "domain": "Big Tech / AI Lab", "title_must_match_domain": "strict", "ai_company": true},
+    {"name": "Abridge", "ats": "ashby", "slug": "abridge", "domain": "Clinical AI", "ai_company": true, "us_default": true},
+    {"name": "OpenEvidence", "ats": "ashby", "slug": "openevidence", "domain": "Clinical AI", "ai_company": true, "us_default": true},
+    {"name": "Ambience Healthcare", "ats": "ashby", "slug": "ambiencehealthcare", "domain": "Clinical AI", "ai_company": true, "us_default": true},
+    {"name": "Suki", "ats": "greenhouse", "slug": "suki", "domain": "Clinical AI", "ai_company": true, "us_default": true},
+    {"name": "Tennr", "ats": "ashby", "slug": "tennr", "domain": "Clinical AI", "ai_company": true, "us_default": true},
+    {"name": "Infinitus", "ats": "ashby", "slug": "infinitus", "domain": "Clinical AI", "ai_company": true, "us_default": true},
+    {"name": "Notable", "ats": "ashby", "slug": "notable", "domain": "Clinical AI", "ai_company": true, "us_default": true},
+    {"name": "Commure", "ats": "ashby", "slug": "commure", "domain": "Clinical AI", "ai_company": true, "us_default": true},
+    {"name": "Qventus", "ats": "greenhouse", "slug": "qventus", "domain": "Clinical AI", "ai_company": true, "us_default": true},
+    {"name": "NVIDIA (Healthcare)", "ats": "workday", "slug": "nvidia/wd5/NVIDIAExternalCareerSite", "domain": "Big Tech / AI Lab", "title_must_match_domain": "strict",
      "queries": ["healthcare", "drug discovery", "medical imaging", "biology", "genomics", "life sciences"]}
   ]
 }

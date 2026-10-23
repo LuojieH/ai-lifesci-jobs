@@ -1,15 +1,20 @@
 {
- "updated": "2026-10-23T17:56Z",
- "count": 624,
+ "updated": "2026-10-23T18:13Z",
+ "count": 727,
  "companies": [
   "Abbott",
+  "Abridge",
   "Absci",
   "Achira",
   "Adaptive Biotechnologies",
   "Agilent",
   "Aidoc",
   "Altos Labs",
+  "Amazon / AWS (Health & Life Sciences)",
+  "Ambience Healthcare",
   "Amgen",
+  "Anthropic (Life Sciences & Health)",
+  "Apple (Health)",
   "Arc Institute",
   "Arcadia Science",
   "Artera",
@@ -29,6 +34,7 @@
   "Chai Discovery",
   "Chan Zuckerberg Initiative",
   "Cleerly",
+  "Commure",
   "Cradle",
   "Danaher",
   "Deep Genomics",
@@ -51,6 +57,7 @@
   "Genmab",
   "Gilead",
   "Ginkgo Bioworks",
+  "Google / DeepMind (Health & Bio)",
   "HHMI Janelia",
   "HeartFlow",
   "Hyperfine",
@@ -58,6 +65,7 @@
   "Iambic Therapeutics",
   "Illumina",
   "Inceptive",
+  "Infinitus",
   "Insulet",
   "Isomorphic Labs",
   "Iterative Health",
@@ -75,7 +83,10 @@
   "Neuralink",
   "NewLimit",
   "Noetik",
+  "Notable",
   "Novartis",
+  "OpenAI (Health & Life Sciences)",
+  "OpenEvidence",
   "Owkin",
   "PacBio",
   "PathAI",
@@ -84,6 +95,7 @@
   "Philips",
   "Profluent",
   "Qiagen",
+  "Qventus",
   "Rad AI",
   "Recursion",
   "Regeneron",
@@ -96,7 +108,9 @@
   "Siemens Healthineers",
   "Singular Genomics",
   "Stryker",
+  "Suki",
   "Takeda",
+  "Tennr",
   "Thermo Fisher",
   "Truveta",
   "Twist Bioscience",
@@ -217,6 +231,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "wd-regeneron-R51878",
+   "title": "Associate Manager, AI Data Engineer",
+   "company": "Regeneron",
+   "domain": "Pharma",
+   "location": "TARRYTOWN",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/Associate-Manager--AI-Data-Engineer_R51878",
+   "posted": "2026-10-23",
+   "tags": [],
+   "exp_years": 6,
+   "exp_text": "…ES: • Bachelor's degree and 6 + years solid experience designing and maintaining infrastructure and architec",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-regeneron-R51674",
    "title": "Process Data Scientist",
    "company": "Regeneron",
@@ -298,6 +325,21 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "wd-msd-R423333",
+   "title": "2027 Future Talent Program - Data, AI, and Genome Sciences - Intern",
+   "company": "Merck (MSD)",
+   "domain": "Pharma",
+   "location": "USA - Massachusetts - Cambridge (320 Bent Street)",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/XMLNAME-2027-Future-Talent-Program---Data--AI--and-Genome-Sciences---Intern_R423333",
+   "posted": "2026-10-23",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-msd-R423438",
    "title": "2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern",
    "company": "Merck (MSD)",
@@ -310,6 +352,32 @@
    ],
    "exp_years": null,
    "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ap-200690827",
+   "title": "Senior Software Engineer, On-Device Health Agentic Systems",
+   "company": "Apple (Health)",
+   "domain": "Big Tech / AI Lab",
+   "location": "United States of America",
+   "url": "https://jobs.apple.com/en-us/details/200690827/senior-software-engineer-on-device-health-agentic-systems",
+   "posted": "2026-10-23",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "gh-5461873008",
+   "title": "Applied AI Security Architect - Healthcare & Life Sciences",
+   "company": "Anthropic (Life Sciences & Health)",
+   "domain": "Big Tech / AI Lab",
+   "location": "New York City, NY; San Francisco, CA | New York City, NY",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461873008",
+   "posted": "2026-10-23",
+   "tags": [],
+   "exp_years": 8,
+   "exp_text": "…a good fit if you have: 8+ years of experience in enterprise security, cloud architecture, or technical",
    "first_seen": "2026-10-23"
   },
   {
@@ -532,6 +600,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "ab-ad72cee4-6a9e-47ef-a959-91bb7847c263",
+   "title": "Senior Software Engineer, Applied AI (RCM)",
+   "company": "Commure",
+   "domain": "Clinical AI",
+   "location": "Mountain View, CA · Los Angeles, CA · New York City, NY · San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/commure/ad72cee4-6a9e-47ef-a959-91bb7847c263",
+   "posted": "2026-10-22",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…lent extensive experience - 5+ years of professional software development industry experience",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-astrazeneca-R-258183",
    "title": "Director, Biologics AI",
    "company": "AstraZeneca",
@@ -717,34 +798,6 @@
    ],
    "exp_years": 25,
    "exp_text": "…ed antibody therapeutics. For 25 years, its hard-working, innovative and collaborative team has invented nex",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "ph-R18227",
-   "title": "Applied AI & Enablement Intern",
-   "company": "Genmab",
-   "domain": "Pharma",
-   "location": "Princeton, New Jersey, United States of America",
-   "url": "https://careers.genmab.com/global/en/job/R18227",
-   "posted": "2026-10-21",
-   "tags": [
-    "Intern"
-   ],
-   "exp_years": 25,
-   "exp_text": "…ed antibody therapeutics. For 25 years, its hard-working, innovative and collaborative team has invented nex",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "ph-94411",
-   "title": "DT Commerical AI & Agentic Lead",
-   "company": "UCB",
-   "domain": "Pharma",
-   "location": "Atlanta, Georgia, United States",
-   "url": "https://careers.ucb.com/global/en/job/94411",
-   "posted": "2026-10-21",
-   "tags": [],
-   "exp_years": 8,
-   "exp_text": "…cience, or a related field 8+ years extensive experience in Digital Technology or IT leadership roles with",
    "first_seen": "2026-10-23"
   },
   {
@@ -1131,6 +1184,21 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "gh-4429668009",
+   "title": "Senior Data Engineer",
+   "company": "Qventus",
+   "domain": "Clinical AI",
+   "location": "Remote, United States",
+   "url": "https://www.qventus.com/company/working-qventus/job?gh_jid=4429668009",
+   "posted": "2026-10-20",
+   "tags": [
+    "Remote"
+   ],
+   "exp_years": 5,
+   "exp_text": "…Bonus Points For 5+ years of experience designing, building, and operating cloud-based, highly a",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-astrazeneca-R-262275",
    "title": "Director, Clinical AI Delivery Operations",
    "company": "AstraZeneca",
@@ -1331,6 +1399,21 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "ph-R18165",
+   "title": "Clinical Development Data Science Intern",
+   "company": "Genmab",
+   "domain": "Pharma",
+   "location": "Princeton, New Jersey, United States of America",
+   "url": "https://careers.genmab.com/global/en/job/R18165",
+   "posted": "2026-10-19",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": 25,
+   "exp_text": "…ed antibody therapeutics. For 25 years, its hard-working, innovative and collaborative team has invented nex",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-lilly-R-112530",
    "title": "Advisor - Generative Design & Optimization, Biotherapeutics",
    "company": "Eli Lilly",
@@ -1419,6 +1502,19 @@
    "tags": [],
    "exp_years": null,
    "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-79569aab-9bc6-4f0d-b98e-e2bdb9fe171a",
+   "title": "Member of Technical Staff, Health Systems",
+   "company": "OpenEvidence",
+   "domain": "Clinical AI",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openevidence/79569aab-9bc6-4f0d-b98e-e2bdb9fe171a",
+   "posted": "2026-10-19",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…. What we're looking for - 3+ years of professional engineering experience",
    "first_seen": "2026-10-23"
   },
   {
@@ -1651,6 +1747,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "wd-astrazeneca-R-259839",
+   "title": "Director - CRM Agentic Solutions",
+   "company": "AstraZeneca",
+   "domain": "Pharma",
+   "location": "US - Gaithersburg - MD",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Director---CRM-Agentic-Solutions_R-259839",
+   "posted": "2026-10-16",
+   "tags": [],
+   "exp_years": 8,
+   "exp_text": "…titative field. 8+ years of progressive experience in software engineering,",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-lilly-R-112529",
    "title": "Director, Generative Design & Optimization, Biotherapeutics",
    "company": "Eli Lilly",
@@ -1796,6 +1905,32 @@
    "tags": [],
    "exp_years": 8,
    "exp_text": "…ed Qualifications • 8–10+ years of product management experience, including managing platform, infrast",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "az-10581850",
+   "title": "Delivery Consultant - AI/ML, AWS Professional Services WWPS Healthcare and Life Science",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Arlington, Virginia, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10581850/delivery-consultant-ai-ml-aws-professional-services-wwps-healthcare-and-life-science",
+   "posted": "2026-10-16",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…s of software development, or 3+ years of scripting language experience<br/>- 3+ years of building machine le",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-ef398821-8ee9-4f7c-824b-fac83d0a3023",
+   "title": "Senior Engineering Manager, AI Accounting & Ledger Systems",
+   "company": "Commure",
+   "domain": "Clinical AI",
+   "location": "Mountain View, CA · Los Angeles, CA · San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/commure/ef398821-8ee9-4f7c-824b-fac83d0a3023",
+   "posted": "2026-10-16",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
    "first_seen": "2026-10-23"
   },
   {
@@ -2067,6 +2202,21 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "wd-msd-R412857",
+   "title": "2027 Future Talent Program - Computer Scientist - Agentic & Augmented Authoring Systems - Co-op",
+   "company": "Merck (MSD)",
+   "domain": "Pharma",
+   "location": "USA - Pennsylvania - West Point",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Computer-Scientist---Agentic---Augmented-Authoring-Systems---Co-op_R412857",
+   "posted": "2026-10-15",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-msd-R421439",
    "title": "Associate Director, Data Engineering and Analytics",
    "company": "Merck (MSD)",
@@ -2120,6 +2270,32 @@
    ],
    "exp_years": 4,
    "exp_text": "…in the essential duties plus 4 years of relevant experience",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "az-10580975",
+   "title": "Sr. SDE, AWS Healthcare AI, Amazon Connect Health",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10580975/sr-sde-aws-healthcare-ai-amazon-connect-health",
+   "posted": "2026-10-15",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "- 5+ years of non-internship professional software development experience<br/>- 5",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "gh-5454650008",
+   "title": "Applied AI Engineer, Startups (Life Sciences)",
+   "company": "Anthropic (Life Sciences & Health)",
+   "domain": "Big Tech / AI Lab",
+   "location": "San Francisco, CA | New York City, NY",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454650008",
+   "posted": "2026-10-15",
+   "tags": [],
+   "exp_years": 4,
+   "exp_text": "…the life sciences need 4+ years of technical experience as a software engineer, ML or research enginee",
    "first_seen": "2026-10-23"
   },
   {
@@ -2487,6 +2663,58 @@
    "tags": [],
    "exp_years": 5,
    "exp_text": "…or life sciences analytics. 5 or more years of experience leading cross-functional AI/ML or advanced analytics ini",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "gg-73965804575433414",
+   "title": "Research Engineer, Chemical, Biological and Nuclear AI Safety, DeepMind",
+   "company": "Google / DeepMind (Health & Bio)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Mountain View, CA, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/73965804575433414-research-engineer-chemical-biological-and-nuclear-ai-safety-deepmind",
+   "posted": "2026-10-13",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…include research software. 3 years of experience training, fine-tuning, or evaluating machine learning mo",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "az-10577588",
+   "title": "Applied Scientist, AWS Applied AI Solutions - Life Sciences",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10577588/applied-scientist-aws-applied-ai-solutions-life-sciences",
+   "posted": "2026-10-13",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "az-10576576",
+   "title": "Senior Healthcare Solutions Architect, AI Solutions",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "San Francisco, California, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10576576/senior-healthcare-solutions-architect-ai-solutions",
+   "posted": "2026-10-13",
+   "tags": [],
+   "exp_years": 4,
+   "exp_text": "…rastructures experience<br/>- 4+ years of specific technology domain areas (e",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-76b8fccd-a683-4583-bdbd-b64b8b407579",
+   "title": "Member of Product Staff, Life Sciences",
+   "company": "Abridge",
+   "domain": "Clinical AI",
+   "location": "SF Office",
+   "url": "https://jobs.ashbyhq.com/abridge/76b8fccd-a683-4583-bdbd-b64b8b407579",
+   "posted": "2026-10-13",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…product. WHAT YOU BRING - 5+ years of product management experience, with meaningful time spent building",
    "first_seen": "2026-10-23"
   },
   {
@@ -2953,6 +3181,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "gg-102726078115521222",
+   "title": "Computational Biologist, DeepMind",
+   "company": "Google / DeepMind (Health & Bio)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Mountain View, CA, USA · New York, NY, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/102726078115521222-computational-biologist-deepmind",
+   "posted": "2026-10-08",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "lv-e69fa8b3-ecad-4f6a-b8b6-77d6542dfbe1",
    "title": "Machine Learning Scientist, Computational Pathology",
    "company": "Artera",
@@ -3072,6 +3313,19 @@
    "tags": [],
    "exp_years": 5,
    "exp_text": "…lated scientific discipline. 5+ years of postdoctoral, industry, or equivalent research experience in neuros",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "gh-5446657008",
+   "title": "Applied AI Architect, Beneficial Deployments (Life Sciences Community & Enablement)",
+   "company": "Anthropic (Life Sciences & Health)",
+   "domain": "Big Tech / AI Lab",
+   "location": "San Francisco, CA | New York City, NY",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446657008",
+   "posted": "2026-10-07",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
    "first_seen": "2026-10-23"
   },
   {
@@ -3207,6 +3461,84 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "az-10569943",
+   "title": "Sr. Applied Scientist, AWS Applied AI Solutions - Life Sciences",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10569943/sr-applied-scientist-aws-applied-ai-solutions-life-sciences",
+   "posted": "2026-10-06",
+   "tags": [],
+   "exp_years": 6,
+   "exp_text": "- PhD, or Master's degree and 6+ years of applied research experience<br/>- Experience programming in Java, C",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-4f0d64b8-bfa7-4c30-9972-a10d74b49075",
+   "title": "Software Engineer, Life Sciences",
+   "company": "OpenAI (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/4f0d64b8-bfa7-4c30-9972-a10d74b49075",
+   "posted": "2026-10-06",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-39e07152-a3d2-47c0-8c5b-36e8b3a6cdf5",
+   "title": "Software Engineer, AI Integrations",
+   "company": "Commure",
+   "domain": "Clinical AI",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.ashbyhq.com/commure/39e07152-a3d2-47c0-8c5b-36e8b3a6cdf5",
+   "posted": "2026-10-06",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…lent extensive experience - 2+ years of professional software development industry experience",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-ee0220cc-ecec-413f-a22a-4d4d229683de",
+   "title": "Senior Software Engineer, AI Integrations",
+   "company": "Commure",
+   "domain": "Clinical AI",
+   "location": "Mountain View, CA · Los Angeles, CA · New York City, NY · San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/commure/ee0220cc-ecec-413f-a22a-4d4d229683de",
+   "posted": "2026-10-06",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…lent extensive experience - 5+ years of professional software development industry experience",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-eb7c3584-4708-45e7-b56a-31fcf6bf3c8e",
+   "title": "Senior iOS Engineer, Ambient AI",
+   "company": "Commure",
+   "domain": "Clinical AI",
+   "location": "Mountain View, CA · San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/commure/eb7c3584-4708-45e7-b56a-31fcf6bf3c8e",
+   "posted": "2026-10-06",
+   "tags": [],
+   "exp_years": 4,
+   "exp_text": "…atforms. What You Have - 4+ years of professional mobile development experience, with meaningful ownersh",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-2b2ad41e-8946-4c69-b3ed-abdf54ca92cc",
+   "title": "Staff Backend Engineer, Ambient AI",
+   "company": "Commure",
+   "domain": "Clinical AI",
+   "location": "Mountain View, CA · San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/commure/2b2ad41e-8946-4c69-b3ed-abdf54ca92cc",
+   "posted": "2026-10-06",
+   "tags": [],
+   "exp_years": 8,
+   "exp_text": "…hitecture. What You Have - 8+ years of professional backend or infrastructure engineering experience",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-regeneron-R48868",
    "title": "Senior Director Product Management — Enterprise AI Platforms & Tools",
    "company": "Regeneron",
@@ -3271,6 +3603,21 @@
    ],
    "exp_years": null,
    "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "gh-4433770009",
+   "title": "Senior Data Scientist",
+   "company": "Qventus",
+   "domain": "Clinical AI",
+   "location": "Remote, United States",
+   "url": "https://www.qventus.com/company/working-qventus/job?gh_jid=4433770009",
+   "posted": "2026-10-05",
+   "tags": [
+    "Remote"
+   ],
+   "exp_years": 1,
+   "exp_text": "…ems in production at scale. 1+ years experience developing and tuning LLM systems",
    "first_seen": "2026-10-23"
   },
   {
@@ -3514,6 +3861,19 @@
    "tags": [],
    "exp_years": 15,
    "exp_text": "…n. Experience Required 15+ years of leadership experience in Enterprise Data, Analytics, Digital Transf",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "gg-82450594073060038",
+   "title": "Senior Research Scientist, Foundational AI in Health",
+   "company": "Google / DeepMind (Health & Bio)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Mountain View, CA, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/82450594073060038-senior-research-scientist-foundational-ai-in-health",
+   "posted": "2026-10-01",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…related quantitative field. 2 years of experience with modern machine learning frameworks such as JAX, PyT",
    "first_seen": "2026-10-23"
   },
   {
@@ -3911,6 +4271,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "ab-ef59b5ca-8c20-47c0-b44a-2bea5eb5017a",
+   "title": "Senior Backend Engineer (ML)",
+   "company": "Tennr",
+   "domain": "Clinical AI",
+   "location": "New York City Office",
+   "url": "https://jobs.ashbyhq.com/tennr/ef59b5ca-8c20-47c0-b44a-2bea5eb5017a",
+   "posted": "2026-09-29",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-amgen-R-256345",
    "title": "Senior Machine Learning Engineer",
    "company": "Amgen",
@@ -4052,6 +4425,32 @@
    ],
    "exp_years": 10,
    "exp_text": "…hcare, or a related field. 10+ years of enterprise sales experience, focusing on research data platforms, S",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "gh-5437172008",
+   "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences)",
+   "company": "Anthropic (Life Sciences & Health)",
+   "domain": "Big Tech / AI Lab",
+   "location": "San Francisco, CA | New York City, NY",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5437172008",
+   "posted": "2026-09-28",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-ce18e908-3e76-4828-a95d-ef98569937e0",
+   "title": "Data Engineer",
+   "company": "Tennr",
+   "domain": "Clinical AI",
+   "location": "New York City Office",
+   "url": "https://jobs.ashbyhq.com/tennr/ce18e908-3e76-4828-a95d-ef98569937e0",
+   "posted": "2026-09-28",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…CANDIDATE QUALIFICATIONS - 3–5 years of experience in data engineering, with a strong track record of build",
    "first_seen": "2026-10-23"
   },
   {
@@ -4215,6 +4614,32 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "gg-126647132546310854",
+   "title": "Staff Data Scientist, Research, Search Health",
+   "company": "Google / DeepMind (Health & Bio)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Mountain View, CA, USA · New York, NY, USA",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/126647132546310854-staff-data-scientist-research-search-health",
+   "posted": "2026-09-25",
+   "tags": [],
+   "exp_years": 6,
+   "exp_text": "…s or statistical analysis, or 6 years of work experience with a PhD degree",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-b8d40cf3-3bde-4aec-a2a9-ded988ab128f",
+   "title": "Senior Software Engineer, Air AI",
+   "company": "Commure",
+   "domain": "Clinical AI",
+   "location": "Mountain View, CA · Los Angeles, CA · New York City, NY · San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/commure/b8d40cf3-3bde-4aec-a2a9-ded988ab128f",
+   "posted": "2026-09-25",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-amgen-R-256660",
    "title": "Director, AI & Machine Learning",
    "company": "Amgen",
@@ -4353,6 +4778,45 @@
    "tags": [],
    "exp_years": 2,
    "exp_text": "…); advanced degree a plus. 2 - 4 years of experience in IT, informatics, data analysis, business analysis, or",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-d7d1bd40-d9d5-466b-9d21-39b9b423db40",
+   "title": "Deployment Lead, Life Sciences- NYC",
+   "company": "OpenAI (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/d7d1bd40-d9d5-466b-9d21-39b9b423db40",
+   "posted": "2026-09-23",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-99db1c40-ace4-4f39-a9a6-7da985fa91b5",
+   "title": "Member of Product Staff, Nursing",
+   "company": "Abridge",
+   "domain": "Clinical AI",
+   "location": "NYC Office · SF Office",
+   "url": "https://jobs.ashbyhq.com/abridge/99db1c40-ace4-4f39-a9a6-7da985fa91b5",
+   "posted": "2026-09-23",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…oyments. WHAT YOU BRING - 5+ years of product management experience with 0 to 1 ownership in a complex do",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-259988fe-0389-461f-823c-36d81840d465",
+   "title": "Software Engineer, Scribe AI",
+   "company": "Commure",
+   "domain": "Clinical AI",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.ashbyhq.com/commure/259988fe-0389-461f-823c-36d81840d465",
+   "posted": "2026-09-23",
+   "tags": [],
+   "exp_years": 1,
+   "exp_text": "…lent extensive experience - 1–4 years of professional software development experience",
    "first_seen": "2026-10-23"
   },
   {
@@ -4522,6 +4986,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "ab-ef077fba-d269-40e8-9610-35f8246262cc",
+   "title": "Member of Technical Staff, Beneficial Deployments",
+   "company": "OpenEvidence",
+   "domain": "Clinical AI",
+   "location": "Miami · San Francisco",
+   "url": "https://jobs.ashbyhq.com/openevidence/ef077fba-d269-40e8-9610-35f8246262cc",
+   "posted": "2026-09-19",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-jj-R-099962",
    "title": "Senior Machine Learning Engineer, Biologics Discovery",
    "company": "Johnson & Johnson",
@@ -4621,7 +5098,7 @@
    "id": "wd-nvidia-JR2025378",
    "title": "Senior Developer Relations Lead, AI-Enabled Drug Discovery Science",
    "company": "NVIDIA (Healthcare)",
-   "domain": "AI for Science",
+   "domain": "Big Tech / AI Lab",
    "location": "US, CA, Santa Clara",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Lead--AI-Enabled-Drug-Discovery-Science_JR2025378-1",
    "posted": "2026-09-18",
@@ -4696,16 +5173,31 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "ph-R17812",
-   "title": "Director, Global Commercialization, Advanced Analytics & AI",
-   "company": "Genmab",
-   "domain": "Pharma",
-   "location": "Princeton, New Jersey, United States of America",
-   "url": "https://careers.genmab.com/global/en/job/R17812",
-   "posted": "2026-09-15",
+   "id": "ab-1baad891-43b8-4e2a-9e6c-f68741e718a4",
+   "title": "Applied AI Architect, Healthcare & Life Sciences",
+   "company": "OpenAI (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/1baad891-43b8-4e2a-9e6c-f68741e718a4",
+   "posted": "2026-09-16",
    "tags": [],
-   "exp_years": 12,
-   "exp_text": "…ence and Qualifications: 12+ years of progressive experience in commercial analytics, data science, or bu",
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "gh-4408106009",
+   "title": "Forward Deployed AI Solutions Architect",
+   "company": "Qventus",
+   "domain": "Clinical AI",
+   "location": "Remote, United States",
+   "url": "https://www.qventus.com/company/working-qventus/job?gh_jid=4408106009",
+   "posted": "2026-09-16",
+   "tags": [
+    "Remote"
+   ],
+   "exp_years": 5,
+   "exp_text": "…What We’re Looking For 5+ years of experience and proven track record in product management or solutio",
    "first_seen": "2026-10-23"
   },
   {
@@ -4734,6 +5226,32 @@
    ],
    "exp_years": 8,
    "exp_text": "…statistics or Bioinformatics 8 years of experience in data science, statistical programming, biostatistics,",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-4923fd3e-acf2-4551-91ad-5a92ca81455b",
+   "title": "Software Engineer, Healthcare",
+   "company": "OpenAI (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/4923fd3e-acf2-4551-91ad-5a92ca81455b",
+   "posted": "2026-09-15",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…production systems. - Have 5+ years of experience writing maintainable, production-quality software",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-7d6ae2be-cd53-466c-8151-2dae2e87aace",
+   "title": "Member of Technical Staff, Early Career",
+   "company": "Abridge",
+   "domain": "Clinical AI",
+   "location": "SF Office",
+   "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
+   "posted": "2026-09-15",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
    "first_seen": "2026-10-23"
   },
   {
@@ -4905,6 +5423,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "wd-sanofi-R2869429",
+   "title": "Head of Agentic Biology",
+   "company": "Sanofi",
+   "domain": "Pharma",
+   "location": "Cambridge, MA",
+   "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Head-of-Agentic-Biology_R2869429-1",
+   "posted": "2026-09-14",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…r a related STEM field. 5+ years of experience in AI/ML required",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-bristolmyerssquibb-R1605063",
    "title": "Senior Manager, Analytical AI Clinical Development",
    "company": "Bristol Myers Squibb",
@@ -4979,6 +5510,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "ab-c2aeb70d-3eca-4c4f-a414-6394b30fea80",
+   "title": "Software Engineer, Consumer Health",
+   "company": "OpenAI (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/c2aeb70d-3eca-4c4f-a414-6394b30fea80",
+   "posted": "2026-09-12",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…formance, and craft. - Have 5+ years of experience building and shipping production software",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-abbott-31160493",
    "title": "Bioinformatician II",
    "company": "Abbott",
@@ -4989,6 +5533,19 @@
    "tags": [],
    "exp_years": 2,
    "exp_text": "…nal Biology or related field. 2 years of job related experience in academic/industrial applied research envi",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "az-10538102",
+   "title": "Principal Applied Scientist - AI for Life Sciences, AWS Applied AI Solutions - Life Sciences",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10538102/principal-applied-scientist-ai-for-life-sciences-aws-applied-ai-solutions-life-sciences",
+   "posted": "2026-09-11",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
    "first_seen": "2026-10-23"
   },
   {
@@ -5059,6 +5616,32 @@
    ],
    "exp_years": 5,
    "exp_text": "…Minimum Qualifications) 5+ years of experience in data engineering, analytics engineering, security dat",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ap-200662966",
+   "title": "Machine Learning Engineer - Health AIML",
+   "company": "Apple (Health)",
+   "domain": "Big Tech / AI Lab",
+   "location": "United States of America",
+   "url": "https://jobs.apple.com/en-us/details/200662966/machine-learning-engineer-health-aiml",
+   "posted": "2026-09-09",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ap-200659977",
+   "title": "Machine Learning Engineer - Health AIML",
+   "company": "Apple (Health)",
+   "domain": "Big Tech / AI Lab",
+   "location": "United States of America",
+   "url": "https://jobs.apple.com/en-us/details/200659977/machine-learning-engineer-health-aiml",
+   "posted": "2026-09-09",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
    "first_seen": "2026-10-23"
   },
   {
@@ -5248,6 +5831,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "wd-vrtx-REQ-29990",
+   "title": "Senior Principal Scientist, Agentic Systems Development for Drug Discovery",
+   "company": "Vertex",
+   "domain": "Pharma",
+   "location": "Boston, MA",
+   "url": "https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Senior-Principal-Scientist--Agentic-Systems-Development-for-Drug-Discovery_REQ-29990",
+   "posted": "2026-09-08",
+   "tags": [],
+   "exp_years": 8,
+   "exp_text": "…entific discipline More than 8 years of experience in scientific software development and application to dr",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-vrtx-REQ-29960",
    "title": "Computational Genomics Senior Research Scientist",
    "company": "Vertex",
@@ -5323,6 +5919,19 @@
    "tags": [],
    "exp_years": null,
    "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "az-10532110",
+   "title": "Software Development Manager, Life Sciences Applied AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10532110/software-development-manager-life-sciences-applied-ai",
+   "posted": "2026-09-08",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "- 3+ years of engineering team management experience<br/>- 7+ years of working di",
    "first_seen": "2026-10-23"
   },
   {
@@ -5448,6 +6057,32 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "az-10529051",
+   "title": "Revenue Cycle Analyst, AI & Process Innovation, Healthcare Finance Operations",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Arlington, Virginia, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10529051/revenue-cycle-analyst-ai-process-innovation-healthcare-finance-operations",
+   "posted": "2026-09-03",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "- 3+ years of tax, finance or a related analytical field experience<br/>- 3+ year",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-3a7e2f4e-6570-4101-92a3-9731eadc23ad",
+   "title": "Senior AI Product Manager",
+   "company": "Notable",
+   "domain": "Clinical AI",
+   "location": "San Mateo, CA",
+   "url": "https://jobs.ashbyhq.com/notable/3a7e2f4e-6570-4101-92a3-9731eadc23ad",
+   "posted": "2026-09-03",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-astrazeneca-R-259425",
    "title": "Computational Chemistry Co-op , Closed-Loop Ligand Design and Optimization (Doctoral)",
    "company": "AstraZeneca",
@@ -5514,6 +6149,32 @@
    "tags": [],
    "exp_years": 3,
    "exp_text": "…Preferred Qualifications 3–5 years’ experience designing solutions on governed enterprise data — row-level",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "gh-5412944008",
+   "title": "Research Manager, Biological Safety",
+   "company": "Anthropic (Life Sciences & Health)",
+   "domain": "Big Tech / AI Lab",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412944008",
+   "posted": "2026-09-02",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…eferred qualifications 3+ years of people management experience, ideally leading research scientists,",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-93777ef3-e710-4f10-9475-3804d36390ad",
+   "title": "Engineering Manager, AI Orchestrator",
+   "company": "Commure",
+   "domain": "Clinical AI",
+   "location": "Mountain View, CA · San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/commure/93777ef3-e710-4f10-9475-3804d36390ad",
+   "posted": "2026-09-02",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
    "first_seen": "2026-10-23"
   },
   {
@@ -5607,6 +6268,19 @@
    "tags": [],
    "exp_years": null,
    "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-480c4c99-2ca8-4dc7-ba6b-29a9ee28ed95",
+   "title": "Member of Technical Staff, Data",
+   "company": "Abridge",
+   "domain": "Clinical AI",
+   "location": "SF Office",
+   "url": "https://jobs.ashbyhq.com/abridge/480c4c99-2ca8-4dc7-ba6b-29a9ee28ed95",
+   "posted": "2026-09-01",
+   "tags": [],
+   "exp_years": 8,
+   "exp_text": "…work. WHAT YOU’LL BRING - 8+ years of experience in Data Engineering or Backend Engineering with a focus",
    "first_seen": "2026-10-23"
   },
   {
@@ -5959,6 +6633,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "ab-5b66aac3-cb7a-4bbc-a28c-9fb38cf16656",
+   "title": "Member of Product Staff, Foundation Models & Post-Training",
+   "company": "Abridge",
+   "domain": "Clinical AI",
+   "location": "SF Office",
+   "url": "https://jobs.ashbyhq.com/abridge/5b66aac3-cb7a-4bbc-a28c-9fb38cf16656",
+   "posted": "2026-08-26",
+   "tags": [],
+   "exp_years": 7,
+   "exp_text": "…rm bets. WHAT YOU BRING - 7+ years of product-management or closely related experience, including substan",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "gh-8742221002",
    "title": "Senior / Principal Computational Biologist",
    "company": "Cellarity",
@@ -6175,6 +6862,21 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "wd-novartis-REQ-10086326",
+   "title": "Director, Agentic Lab",
+   "company": "Novartis",
+   "domain": "Pharma",
+   "location": "Remote Position (USA)",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Remote-Position-USA/Director--Agentic-Lab_REQ-10086326",
+   "posted": "2026-08-21",
+   "tags": [
+    "Remote"
+   ],
+   "exp_years": 7,
+   "exp_text": "…ted technical discipline. 7+ years of experience building AI, machine learning, or software engineering s",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-lilly-R-108640",
    "title": "QSP postdoctoral scientist",
    "company": "Eli Lilly",
@@ -6185,6 +6887,19 @@
    "tags": [
     "Postdoc"
    ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-719cc0f6-ed38-41db-8870-299b4d336f37",
+   "title": "Research Engineer / Research Scientist, Health",
+   "company": "OpenAI (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/719cc0f6-ed38-41db-8870-299b4d336f37",
+   "posted": "2026-08-21",
+   "tags": [],
    "exp_years": null,
    "exp_text": "",
    "first_seen": "2026-10-23"
@@ -6263,6 +6978,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "gh-5390890008",
+   "title": "Manager Applied AI Architecture, Healthcare & Life Sciences",
+   "company": "Anthropic (Life Sciences & Health)",
+   "domain": "Big Tech / AI Lab",
+   "location": "New York City, NY; San Francisco, CA | New York City, NY",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390890008",
+   "posted": "2026-08-20",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…r pre-sales technical role. 3+ years of technical pre-sales management experience",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "gh-5156238007",
    "title": "AI in Residence, Computational Protein Design",
    "company": "Xaira Therapeutics",
@@ -6287,6 +7015,45 @@
    "exp_years": 4,
    "exp_text": "…ck record, with a minimum of 4–5 years of experience, in people management",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-c1261830-47f0-430f-8593-6f9c1203f5e5",
+   "title": "Senior Fullstack Engineer, Ambient AI",
+   "company": "Commure",
+   "domain": "Clinical AI",
+   "location": "Mountain View, CA · San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/commure/c1261830-47f0-430f-8593-6f9c1203f5e5",
+   "posted": "2026-08-19",
+   "tags": [],
+   "exp_years": 4,
+   "exp_text": "…e team. What You Have - 4+ years of professional software development experience, with significant owne",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-fe3e0991-d9e7-4948-ac30-c0caf8d7bae5",
+   "title": "Senior Backend Engineer, Ambient AI",
+   "company": "Commure",
+   "domain": "Clinical AI",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.ashbyhq.com/commure/fe3e0991-d9e7-4948-ac30-c0caf8d7bae5",
+   "posted": "2026-08-19",
+   "tags": [],
+   "exp_years": 4,
+   "exp_text": "…tecture. What You Have - 4+ years of professional backend or infrastructure engineering experience",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-d5f91cfa-48ab-430d-b618-ba77c82c64a2",
+   "title": "Fullstack Engineer, Ambient AI",
+   "company": "Commure",
+   "domain": "Clinical AI",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.ashbyhq.com/commure/d5f91cfa-48ab-430d-b618-ba77c82c64a2",
+   "posted": "2026-08-19",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "gh-7860122003",
@@ -6370,6 +7137,32 @@
    "tags": [],
    "exp_years": 2,
    "exp_text": "…: Must have a minimum of 2 years of related work experience in software development",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "az-10502429",
+   "title": "Healthcare & Life Sciences Solutions Architect, AI Solutions, HCLS",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "New York, New York, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10502429/healthcare-life-sciences-solutions-architect-ai-solutions-hcls",
+   "posted": "2026-08-14",
+   "tags": [],
+   "exp_years": 4,
+   "exp_text": "…rastructures experience<br/>- 4+ years of specific technology domain areas (e",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "gh-5387564008",
+   "title": "Research Scientist, Life Sciences (Chemistry)",
+   "company": "Anthropic (Life Sciences & Health)",
+   "domain": "Big Tech / AI Lab",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387564008",
+   "posted": "2026-08-14",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…Preferred qualifications 5+ years of medicinal chemistry experience beyond the PhD",
    "first_seen": "2026-10-23"
   },
   {
@@ -6481,6 +7274,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "ab-6f44370e-1979-4237-a3db-94c46ec7ec9c",
+   "title": "Senior Machine Learning Engineer",
+   "company": "Ambience Healthcare",
+   "domain": "Clinical AI",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/ambiencehealthcare/6f44370e-1979-4237-a3db-94c46ec7ec9c",
+   "posted": "2026-08-11",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "gh-8696752002",
    "title": "Machine Learning Engineer II (Applied Research & Model Development)",
    "company": "PathAI",
@@ -6535,6 +7341,19 @@
    "tags": [],
    "exp_years": 2,
    "exp_text": "…ive discipline, with at least 2 years of relevant postdoctoral or industry experience",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "az-10497769",
+   "title": "Sr. Software Dev Engineer, Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10497769/sr-software-dev-engineer-healthcare-ai",
+   "posted": "2026-08-10",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "- 5+ years of non-internship professional software development experience<br/>- 5",
    "first_seen": "2026-10-23"
   },
   {
@@ -6604,6 +7423,45 @@
    "tags": [],
    "exp_years": 3,
    "exp_text": "…related arenas. 3+ years of experience in cross-system and full-stack architecture using Snowfl",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-a4332746-163e-4506-b62a-90758fb7a950",
+   "title": "Forward Deployed Engineer (FDE), Healthcare - Seattle",
+   "company": "OpenAI (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle",
+   "url": "https://jobs.ashbyhq.com/openai/a4332746-163e-4506-b62a-90758fb7a950",
+   "posted": "2026-08-06",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-2a931dd1-5002-47d1-a367-ec1a19ef7e9e",
+   "title": "Forward Deployed Engineer (FDE), Healthcare - NYC",
+   "company": "OpenAI (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "New York City",
+   "url": "https://jobs.ashbyhq.com/openai/2a931dd1-5002-47d1-a367-ec1a19ef7e9e",
+   "posted": "2026-08-06",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-d8b894e3-c399-4303-a708-3cef8ff5c1a2",
+   "title": "Forward Deployed Engineer (FDE), Healthcare - SF",
+   "company": "OpenAI (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/d8b894e3-c399-4303-a708-3cef8ff5c1a2",
+   "posted": "2026-08-06",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
    "first_seen": "2026-10-23"
   },
   {
@@ -6686,6 +7544,19 @@
    "tags": [],
    "exp_years": 7,
    "exp_text": "…lifications & Experience: 7+ years of cross-domain experience in Data Engineering, Analytics, and AI/ML,",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "az-10493145",
+   "title": "Senior Healthcare & Life Sciences Solutions Architect, AI Solutions, HCLS",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "New York, New York, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10493145/senior-healthcare-life-sciences-solutions-architect-ai-solutions-hcls",
+   "posted": "2026-08-05",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
    "first_seen": "2026-10-23"
   },
   {
@@ -6831,6 +7702,32 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "az-10491056",
+   "title": "Sr. PMT - ES, Healthcare AI, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10491056/sr-pmt-es-healthcare-ai-aws-healthcare-ai",
+   "posted": "2026-08-03",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "- 5+ years of working as a Technical Product Manager experience<br/>- Experience",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "az-10490705",
+   "title": "Software Development Engineer II, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10490705/software-development-engineer-ii-aws-healthcare-ai",
+   "posted": "2026-08-03",
+   "tags": [],
+   "exp_years": 1,
+   "exp_text": "…ting systems experience<br/>- 1+ years of software development engineer or related occupational experience<br",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "gh-4286513009",
    "title": "Research Engineer, Scientific Data & Workflow Infrastructure",
    "company": "Lila Sciences",
@@ -6926,6 +7823,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "ab-727c0ce9-7d3b-43fe-8d00-05255f094db5",
+   "title": "Software Engineer, AI Billing",
+   "company": "Commure",
+   "domain": "Clinical AI",
+   "location": "Mountain View, CA",
+   "url": "https://jobs.ashbyhq.com/commure/727c0ce9-7d3b-43fe-8d00-05255f094db5",
+   "posted": "2026-07-29",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…and staff What You Have - 3+ years of professional software development experience, with a focus on build",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-regeneron-R48875",
    "title": "Associate Manager, Production AI/ML Engineering, Advanced Informatics",
    "company": "Regeneron",
@@ -6937,6 +7847,32 @@
    "exp_years": 7,
    "exp_text": "…ted (Master's preferred) with 7–9 years of progressive ML/platform/software engineering experience with an inf",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "az-10485451",
+   "title": "Sr. PMT - ES, Healthcare AI, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10485451/sr-pmt-es-healthcare-ai-aws-healthcare-ai",
+   "posted": "2026-07-28",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "- 5+ years of working as a Technical Product Manager experience<br/>- Experience",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "az-10485452",
+   "title": "Sr. PMT - ES, Healthcare AI, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10485452/sr-pmt-es-healthcare-ai-aws-healthcare-ai",
+   "posted": "2026-07-28",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "- 5+ years of working as a Technical Product Manager experience<br/>- Experience",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "gh-4324886009",
@@ -7008,6 +7944,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "ap-200652252",
+   "title": "Senior Software Engineer, On-Device Health Agentic Systems",
+   "company": "Apple (Health)",
+   "domain": "Big Tech / AI Lab",
+   "location": "United States of America",
+   "url": "https://jobs.apple.com/en-us/details/200652252/senior-software-engineer-on-device-health-agentic-systems",
+   "posted": "2026-07-24",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-gilead-R0053716",
    "title": "Platform Delivery Lead, Data & AI",
    "company": "Gilead",
@@ -7019,6 +7968,19 @@
    "exp_years": 2,
    "exp_text": "…rience OR PhD and Two Years Experience",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-5acb269b-6ca0-4890-ae3f-ffb46e99d2ba",
+   "title": "Member of Product Staff, Clinical Decision Support",
+   "company": "Abridge",
+   "domain": "Clinical AI",
+   "location": "SF Office",
+   "url": "https://jobs.ashbyhq.com/abridge/5acb269b-6ca0-4890-ae3f-ffb46e99d2ba",
+   "posted": "2026-07-22",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "gh-8638413002",
@@ -7078,6 +8040,19 @@
    "exp_years": 6,
    "exp_text": "…lent practical experience - 6+ years of applied ML research experience, with a track record of taking work",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5357739008",
+   "title": "Research Scientist, Life Sciences (Computational)",
+   "company": "Anthropic (Life Sciences & Health)",
+   "domain": "Big Tech / AI Lab",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357739008",
+   "posted": "2026-07-16",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "gh-5182395007",
@@ -7314,6 +8289,32 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "gh-5285248008",
+   "title": "Research Associate, Biology",
+   "company": "Anthropic (Life Sciences & Health)",
+   "domain": "Big Tech / AI Lab",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5285248008",
+   "posted": "2026-07-08",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "gh-5285250008",
+   "title": "Research Scientist, Life Sciences (Experimental Biology)",
+   "company": "Anthropic (Life Sciences & Health)",
+   "domain": "Big Tech / AI Lab",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5285250008",
+   "posted": "2026-07-08",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-abbott-31154237",
    "title": "Senior Postmarket Surveillance Data Scientist",
    "company": "Abbott",
@@ -7355,6 +8356,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "gh-5265365008",
+   "title": "Research Engineer, Life Sciences",
+   "company": "Anthropic (Life Sciences & Health)",
+   "domain": "Big Tech / AI Lab",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5265365008",
+   "posted": "2026-07-03",
+   "tags": [],
+   "exp_years": 8,
+   "exp_text": "…Preferred Qualifications 8+ years of machine learning experience",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-roche-202606-117077",
    "title": "Senior Machine Learning Scientist, Foundational ML, AI for Biology & Translation (AIBT)",
    "company": "Genentech",
@@ -7365,6 +8379,19 @@
    "tags": [],
    "exp_years": 0,
    "exp_text": "…ield Experience: 0 – 2+ years of industry or post-doc experience",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "az-10463836",
+   "title": "SDE II, Life Sciences Applied AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10463836/sde-ii-life-sciences-applied-ai",
+   "posted": "2026-07-01",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…development experience<br/>- 2+ years of non-internship design or architecture (design patterns, reliability",
    "first_seen": "2026-10-23"
   },
   {
@@ -7407,6 +8434,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "ap-200670408",
+   "title": "Health Sensing ML Engineer",
+   "company": "Apple (Health)",
+   "domain": "Big Tech / AI Lab",
+   "location": "United States of America",
+   "url": "https://jobs.apple.com/en-us/details/200670408/health-sensing-ml-engineer",
+   "posted": "2026-06-30",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "gh-4689741006",
    "title": "Forward Deployed Product Manager – AI",
    "company": "Iterative Health",
@@ -7422,6 +8462,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "ab-faeeff7f-b1f9-4db2-93ff-99da570f85b0",
+   "title": "Forward Deployed Engineer",
+   "company": "Commure",
+   "domain": "Clinical AI",
+   "location": "Mountain View, CA · Phoenix, AZ · Austin, TX · Los Angeles, CA · Boston, MA · New York City, NY · San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/commure/faeeff7f-b1f9-4db2-93ff-99da570f85b0",
+   "posted": "2026-06-26",
+   "tags": [],
+   "exp_years": 1,
+   "exp_text": "…ering, or a related field - 1+ years of professional experience in software engineering or a similar role",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-novartis-REQ-10081408",
    "title": "Principal Scientist II/Senior Principal Scientist, PK Sciences Clinical Pharmacology Artificial Intelligence (AI) Lead (dual level posting)",
    "company": "Novartis",
@@ -7435,6 +8488,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "ab-61965fb1-439b-4d66-9d75-ab7b0197b705",
+   "title": "Senior Forward Deployed Engineer",
+   "company": "Commure",
+   "domain": "Clinical AI",
+   "location": "Mountain View, CA · Phoenix, AZ · Austin, TX · Los Angeles, CA · Boston, MA · New York City, NY · San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/commure/61965fb1-439b-4d66-9d75-ab7b0197b705",
+   "posted": "2026-06-25",
+   "tags": [],
+   "exp_years": 4,
+   "exp_text": "…ering, or a related field - 4+ years of professional software development experience or a similar role",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-gsk-435679",
    "title": "AIML Software Engineer, AI for Science",
    "company": "GSK",
@@ -7446,6 +8512,45 @@
    "exp_years": null,
    "exp_text": "",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-9fbc5bc2-2115-4a7b-ac20-539240c964ca",
+   "title": "Senior Software Engineer, AI Billing",
+   "company": "Commure",
+   "domain": "Clinical AI",
+   "location": "Mountain View, CA · Los Angeles, CA · San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/commure/9fbc5bc2-2115-4a7b-ac20-539240c964ca",
+   "posted": "2026-06-23",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…nd staff What You Have - 5+ years of professional software development experience, with a focus on build",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-aef83f6a-0bc8-4d6a-b310-24415918ee3c",
+   "title": "Member of Product Staff, Forward Deployed",
+   "company": "Abridge",
+   "domain": "Clinical AI",
+   "location": "SF Office · NYC Office",
+   "url": "https://jobs.ashbyhq.com/abridge/aef83f6a-0bc8-4d6a-b310-24415918ee3c",
+   "posted": "2026-06-22",
+   "tags": [],
+   "exp_years": 7,
+   "exp_text": "…rack. WHAT YOU'LL BRING - 7+ years of product management experience shipping products that users love, wi",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-9c7ba6c3-7744-48b8-a5b3-dab55c22e4b3",
+   "title": "Member of Product Staff, AI/ML (Evals)",
+   "company": "Abridge",
+   "domain": "Clinical AI",
+   "location": "SF Office",
+   "url": "https://jobs.ashbyhq.com/abridge/9c7ba6c3-7744-48b8-a5b3-dab55c22e4b3",
+   "posted": "2026-06-22",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…tability. What You Bring - 5+ years of product management experience with significant ownership of ML powe",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "gh-7997533",
@@ -7485,6 +8590,19 @@
    "exp_years": 2,
    "exp_text": "…ts Bachelor’s degree and 2+ years of experience as a Data Engineer or similar technical role",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "az-10453383",
+   "title": "Applied Science Manager, Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10453383/applied-science-manager-healthcare-ai",
+   "posted": "2026-06-19",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "gh-7776872003",
@@ -7552,6 +8670,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "ab-3adb42ca-6695-48ce-96a3-b288fd1ac145",
+   "title": "Clinical AI Researcher",
+   "company": "Ambience Healthcare",
+   "domain": "Clinical AI",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/ambiencehealthcare/3adb42ca-6695-48ce-96a3-b288fd1ac145",
+   "posted": "2026-06-16",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "ab-9ddc2691-8f3d-491e-ab10-3a96fe32600a",
    "title": "Research Scientist II/Senior, Discovery Machine Learning",
    "company": "Iambic Therapeutics",
@@ -7584,6 +8715,19 @@
    "domain": "AI Drug Discovery",
    "location": "San Mateo, CA",
    "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/6e9c55b1-73b6-4881-8b7a-f7838626e17d",
+   "posted": "2026-06-12",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-42c7c2f1-4622-4ca1-adad-5580a47e40c2",
+   "title": "AI Platform Engineer",
+   "company": "Notable",
+   "domain": "Clinical AI",
+   "location": "San Mateo, CA",
+   "url": "https://jobs.ashbyhq.com/notable/42c7c2f1-4622-4ca1-adad-5580a47e40c2",
    "posted": "2026-06-12",
    "tags": [],
    "exp_years": null,
@@ -7630,6 +8774,34 @@
    "exp_years": 3,
    "exp_text": "…and associated limitations 3 to 5 years of industry experience",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-5239733008",
+   "title": "Research Scientist, Life Sciences",
+   "company": "Anthropic (Life Sciences & Health)",
+   "domain": "Big Tech / AI Lab",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5239733008",
+   "posted": "2026-06-02",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…Preferred Qualifications 5+ years of experience applying ML and software engineering to biological probl",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "gh-4264977009",
+   "title": "AI Tooling Engineer",
+   "company": "Qventus",
+   "domain": "Clinical AI",
+   "location": "Remote, United States",
+   "url": "https://www.qventus.com/company/working-qventus/job?gh_jid=4264977009",
+   "posted": "2026-06-02",
+   "tags": [
+    "Remote"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "gh-5238462008",
@@ -7774,6 +8946,19 @@
    "exp_years": null,
    "exp_text": "",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-d7efc55b-2fde-4d3f-ae34-2e467f02a57c",
+   "title": "Software Engineer, Hardware Health",
+   "company": "OpenAI (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/d7efc55b-2fde-4d3f-ae34-2e467f02a57c",
+   "posted": "2026-05-11",
+   "tags": [],
+   "exp_years": 7,
+   "exp_text": "…IN THIS ROLE IF YOU HAVE: - 7+ years of industry experience in software or infrastructure engineering",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "wd-amgen-R-244307",
@@ -7990,6 +9175,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "ap-200658941",
+   "title": "Biomedical Research Engineer",
+   "company": "Apple (Health)",
+   "domain": "Big Tech / AI Lab",
+   "location": "United States of America",
+   "url": "https://jobs.apple.com/en-us/details/200658941/biomedical-research-engineer",
+   "posted": "2026-04-22",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "gh-5978375004",
    "title": "ML Postdoc Researcher - Healthcare AI Innovation",
    "company": "Truveta",
@@ -8028,6 +9226,34 @@
    "tags": [],
    "exp_years": 3,
    "exp_text": "…discipline with a minimum of 3 years of relevant industry experience, or",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-3897d978-77c0-4132-ae33-1bf9356be630",
+   "title": "Member of Technical Staff, Cerner Integrations",
+   "company": "Abridge",
+   "domain": "Clinical AI",
+   "location": "United States - Remote",
+   "url": "https://jobs.ashbyhq.com/abridge/3897d978-77c0-4132-ae33-1bf9356be630",
+   "posted": "2026-04-09",
+   "tags": [
+    "Remote"
+   ],
+   "exp_years": 2,
+   "exp_text": "…ns with large enterprises - 2+ years of Cerner Integration experience",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-44814e98-7791-45c6-a474-f841d969fa08",
+   "title": "Member of Technical Staff, Epic Integrations",
+   "company": "Abridge",
+   "domain": "Clinical AI",
+   "location": "California",
+   "url": "https://jobs.ashbyhq.com/abridge/44814e98-7791-45c6-a474-f841d969fa08",
+   "posted": "2026-04-09",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…ns with large enterprises - 2+ years of Epic Integration experience launching embedded and external apps in",
    "first_seen": "2026-10-23"
   },
   {
@@ -8099,7 +9325,7 @@
    "id": "wd-nvidia-JR2016068",
    "title": "Senior Robotics Research Engineer, Robotics and AI for Drug Discovery",
    "company": "NVIDIA (Healthcare)",
-   "domain": "AI for Science",
+   "domain": "Big Tech / AI Lab",
    "location": "US, CA, Santa Clara",
    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Robotics-Research-Engineer--Robotics-and-AI-for-Drug-Discovery_JR2016068",
    "posted": "2026-04-08",
@@ -8163,6 +9389,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "ab-a8b59898-34b0-4272-83a0-d530af467004",
+   "title": "Staff ML Engineer, Frontier AI",
+   "company": "Ambience Healthcare",
+   "domain": "Clinical AI",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/ambiencehealthcare/a8b59898-34b0-4272-83a0-d530af467004",
+   "posted": "2026-03-17",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "gh-8443273002",
    "title": "Staff Data Scientist, Computational Biology",
    "company": "Valo Health",
@@ -8204,6 +9443,19 @@
    "exp_years": null,
    "exp_text": "",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-03a3231f-8361-405e-87a6-192d710ca912",
+   "title": "Member of Technical Staff, Research Science",
+   "company": "Abridge",
+   "domain": "Clinical AI",
+   "location": "NYC Office",
+   "url": "https://jobs.ashbyhq.com/abridge/03a3231f-8361-405e-87a6-192d710ca912",
+   "posted": "2026-03-03",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…e; a PhD is not required. - 3+ years of research experience within clinical environments or through sustain",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "wd-modernatx-R18853",
@@ -8286,6 +9538,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "ab-80ca886f-2c07-43b2-8978-07c37542a207",
+   "title": "Research Scientist",
+   "company": "OpenEvidence",
+   "domain": "Clinical AI",
+   "location": "San Francisco · Miami",
+   "url": "https://jobs.ashbyhq.com/openevidence/80ca886f-2c07-43b2-8978-07c37542a207",
+   "posted": "2026-02-11",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "gh-4116513009",
    "title": "Machine Learning Engineer, Physical Sciences AI",
    "company": "Lila Sciences",
@@ -8325,6 +9590,32 @@
    "exp_years": null,
    "exp_text": "",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ab-4c577aae-1ad0-444b-9e15-2ad994333de4",
+   "title": "Member of Technical Staff",
+   "company": "OpenEvidence",
+   "domain": "Clinical AI",
+   "location": "San Francisco · Miami",
+   "url": "https://jobs.ashbyhq.com/openevidence/4c577aae-1ad0-444b-9e15-2ad994333de4",
+   "posted": "2026-01-22",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "gh-5066977008",
+   "title": "Research Scientist/Engineer, Biological Safety",
+   "company": "Anthropic (Life Sciences & Health)",
+   "domain": "Big Tech / AI Lab",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5066977008",
+   "posted": "2026-01-13",
+   "tags": [],
+   "exp_years": 8,
+   "exp_text": "…of ML systems Have at least 8 years of hands-on experience in life sciences, with deep expertise in areas",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "ab-fbec38e7-d55b-4bb3-8c74-644d75626c82",
@@ -8436,6 +9727,34 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "ab-7a28a84b-6756-4fe6-8af9-501fc8772a62",
+   "title": "Member of Technical Staff, VistA Integrations",
+   "company": "Abridge",
+   "domain": "Clinical AI",
+   "location": "United States - Remote",
+   "url": "https://jobs.ashbyhq.com/abridge/7a28a84b-6756-4fe6-8af9-501fc8772a62",
+   "posted": "2025-10-15",
+   "tags": [
+    "Remote"
+   ],
+   "exp_years": 2,
+   "exp_text": "…ns with large enterprises - 2+ years of VistA Integration experience",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-c3837e7e-2d59-49b6-95dc-0f670494fb31",
+   "title": "Member of Data Science Staff",
+   "company": "Abridge",
+   "domain": "Clinical AI",
+   "location": "SF Office",
+   "url": "https://jobs.ashbyhq.com/abridge/c3837e7e-2d59-49b6-95dc-0f670494fb31",
+   "posted": "2025-10-08",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "gh-4031455009",
    "title": "Principal Software Engineer, Applied AI",
    "company": "Lila Sciences",
@@ -8503,6 +9822,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "ab-c7f09dee-07ca-444f-803d-961e7f88056b",
+   "title": "Member of Technical Staff, Machine Learning Infrastructure",
+   "company": "Abridge",
+   "domain": "Clinical AI",
+   "location": "SF Office",
+   "url": "https://jobs.ashbyhq.com/abridge/c7f09dee-07ca-444f-803d-961e7f88056b",
+   "posted": "2025-08-25",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…mance. What You’ll Bring - 5+ years of experience in building and deploying machine learning models in pro",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "ab-fbca4380-dc17-4b90-acf3-cf4b105cbc0d",
    "title": "ML Research Engineer, Foundation Models (Senior / Staff / Principal)",
    "company": "Genesis Therapeutics",
@@ -8526,6 +9858,19 @@
    "tags": [
     "Remote"
    ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ab-097490e8-48c6-46e3-a0ce-882151fb4fa2",
+   "title": "Member of Technical Staff, Machine Learning",
+   "company": "Abridge",
+   "domain": "Clinical AI",
+   "location": "SF Office · NYC Office",
+   "url": "https://jobs.ashbyhq.com/abridge/097490e8-48c6-46e3-a0ce-882151fb4fa2",
+   "posted": "2025-07-11",
+   "tags": [],
    "exp_years": null,
    "exp_text": "",
    "first_seen": "2026-10-23"
@@ -8557,6 +9902,32 @@
    "exp_years": null,
    "exp_text": "",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ap-200602168",
+   "title": "Data Engineer - Health Sensing",
+   "company": "Apple (Health)",
+   "domain": "Big Tech / AI Lab",
+   "location": "United States of America",
+   "url": "https://jobs.apple.com/en-us/details/200602168/data-engineer-health-sensing",
+   "posted": "2025-04-30",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "gh-6555187003",
+   "title": "Senior AI Engineer",
+   "company": "Suki",
+   "domain": "Clinical AI",
+   "location": "Redwood City, CA",
+   "url": "https://www.suki.ai/open-positions?gh_jid=6555187003",
+   "posted": "2025-04-24",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…are experience, with at least 2+ years focused on shipping AI or machine learning systems to production",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "wd-astrazeneca-R-224496",
