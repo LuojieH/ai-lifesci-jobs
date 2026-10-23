@@ -83,6 +83,12 @@ US_EXPLICIT = re.compile(r"(United States|\bUSA\b|\bU\.S\.A?\.?|\bUS\b|\bAmerica
 US_STATE_ABBR = re.compile(r"[,\-–]\s*(" + "|".join(STATES) + r")\b")
 US_STATE_NAME = re.compile(r"\b(" + "|".join(re.escape(s) for s in STATES.values()) + r")\b", re.I)
 US_CITY = re.compile(r"\b(" + "|".join(re.escape(c) for c in US_CITIES) + r")\b", re.I)
+# Workday codes like "Hyderabad - TS - IN" would otherwise read as Indiana.
+NON_US = re.compile(
+    r"\b(India|Hyderabad|Bangalore|Bengaluru|Mumbai|Pune|Chennai|China|Shanghai|Beijing|Ireland|Dublin|"
+    r"Canada|Toronto|Montreal|Vancouver|United Kingdom|England|London|Germany|Switzerland|Basel|Zug|"
+    r"France|Paris|Spain|Madrid|Barcelona|Belgium|Netherlands|Japan|Tokyo|Singapore|Israel|Australia|"
+    r"Brazil|Mexico|Poland|Italy|Sweden|Denmark|Iceland)\b|-\s*IN\s*$", re.I)
 AMBIGUOUS = re.compile(r"^\s*(remote|hybrid|cambridge|anywhere|flexible|multiple locations|\d+ locations)?\s*$", re.I)
 
 
@@ -99,7 +105,10 @@ def is_us(locations, countries, us_default):
     countries = [c for c in countries if c]
     if any(c.strip().upper() in ("US", "USA", "UNITED STATES", "UNITED STATES OF AMERICA") for c in countries):
         return True
-    if any(looks_us(l) for l in locations):
+    if countries and len(locations) <= 1:  # one location and its country isn't US
+        return False
+    parts = [p for l in locations for p in re.split(r";|\||\bor\b| / ", l)]  # "Boston, MA; London, UK"
+    if any(looks_us(p) and not NON_US.search(p) for p in parts):
         return True
     if countries:  # structured data says non-US
         return False
