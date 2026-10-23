@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T15:50Z",
- "count": 356,
+ "updated": "2026-10-23T16:03Z",
+ "count": 359,
  "companies": [
   "Absci",
   "Aidoc",
@@ -77,6 +77,32 @@
  "errors": {},
  "jobs": [
   {
+   "id": "wd-astrazeneca-R-262597",
+   "title": "Director, Data Science Operations – Early Cardiovascular, Renal and Metabolism",
+   "company": "AstraZeneca",
+   "domain": "Pharma",
+   "location": "US - Boston - MA",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Boston---MA/Director--Data-Science-Operations---Early-Cardiovascular--Renal-and-Metabolism_R-262597",
+   "posted": "2026-10-23",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…matics, or informatics. 5+ years of experience leading interdisciplinary scientific, software engineeri",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-gsk-448761",
+   "title": "Dir. Product Manager, Digital & Growth AI Tech",
+   "company": "GSK",
+   "domain": "Pharma",
+   "location": "USA - Pennsylvania - Philadelphia · Durham Blackwell Street",
+   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---Pennsylvania---Philadelphia/Dir-Product-Manager--Digital---Growth-AI-Tech_448761",
+   "posted": "2026-10-23",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "wd-gsk-449602",
    "title": "Principal (Senior Director), Commercial Enterprise AI Product Mgmt., Field Force Effectiveness",
    "company": "GSK",
@@ -113,6 +139,19 @@
    "tags": [],
    "exp_years": 8,
    "exp_text": "…or a related discipline. 8+ years of experience in Technology Product Management, Commercial Technology,",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-jj-R-096020",
+   "title": "Senior Manager, Data Science",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Raynham, Massachusetts, United States of America · West Chester, Pennsylvania, United States of America · Palm Beach Gardens, Florida, United States of America · Warsaw, Indiana, United States of America · Raritan, New Jersey, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raynham-Massachusetts-United-States-of-America/Senior-Manager--Data-Science_R-096020-1",
+   "posted": "2026-10-23",
+   "tags": [],
+   "exp_years": 6,
+   "exp_text": "…Required: Typically, 6-8 years of progressive experience in data science, advanced analytics, machine",
    "first_seen": "2026-10-23"
   },
   {
