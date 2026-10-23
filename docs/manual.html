@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Check Manually · AI × Life Science Jobs</title>
+<style>
+  :root {
+    --bg: #f7f7f5; --surface: #ffffff; --text: #1b1d1f; --muted: #646a71; --line: #e3e3df;
+    --accent: #0b7a6f; --accent-soft: #e2f2ef; --chip: #f0f0ec; --warn: #b4500a; --warn-soft: #fdeee2;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #121416; --surface: #1a1d20; --text: #e7e9eb; --muted: #9aa1a8; --line: #2b2f33;
+      --accent: #4cc5b6; --accent-soft: #163330; --chip: #24282c; --warn: #f3a061; --warn-soft: #3a2614;
+      color-scheme: dark;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  .wrap { max-width: 1040px; margin: 0 auto; padding: 32px 20px 64px; }
+  a { color: var(--accent); }
+  .back { font-size: .9rem; text-decoration: none; }
+  header h1 { font-size: 1.75rem; letter-spacing: -0.02em; margin: 8px 0 4px; }
+  header p { margin: 0; color: var(--muted); max-width: 70ch; }
+  .tip { margin: 18px 0 8px; padding: 12px 14px; border-radius: 10px; background: var(--accent-soft); font-size: .92rem; }
+  .controls { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 2; background: var(--bg); padding: 12px 0;
+              border-bottom: 1px solid var(--line); display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+  input[type=search], select { font: inherit; color: var(--text); background: var(--surface); border: 1px solid var(--line);
+    border-radius: 8px; padding: 8px 12px; min-width: 0; }
+  input[type=search] { flex: 1 1 240px; }
+  .count { color: var(--muted); font-size: .88rem; margin-left: auto; }
+  h2 { font-size: 1.05rem; margin: 28px 0 4px; }
+  h2 + .sub { color: var(--muted); font-size: .88rem; margin: 0 0 10px; }
+  ul.cos { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+  .co { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px;
+        display: grid; grid-template-columns: 1fr auto; gap: 2px 16px; align-items: center; }
+  .co.done { opacity: .6; }
+  .co a.name { font-weight: 600; font-size: 1rem; text-decoration: none; color: var(--text); }
+  .co a.name:hover { color: var(--accent); text-decoration: underline; }
+  .co a.name::after { content: " ↗"; color: var(--muted); font-weight: 400; }
+  .meta { color: var(--muted); font-size: .86rem; grid-column: 1; }
+  .tag { font-size: .75rem; padding: 1px 8px; border-radius: 999px; background: var(--chip); color: var(--muted); margin-right: 6px; }
+  label.chk { grid-row: 1 / span 2; grid-column: 2; display: flex; align-items: center; gap: 6px; font-size: .85rem;
+              color: var(--muted); cursor: pointer; white-space: nowrap; }
+  label.chk input { width: 18px; height: 18px; accent-color: var(--accent); }
+  .stale { color: var(--warn); }
+  .empty { color: var(--muted); padding: 24px 0; }
+  footer { margin-top: 40px; color: var(--muted); font-size: .85rem; }
+  @media (max-width: 600px) {
+    .co { grid-template-columns: 1fr; }
+    label.chk { grid-row: auto; grid-column: 1; margin-top: 6px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <a class="back" href="./">← Back to the job board</a>
+  <header>
+    <h1>Check these manually</h1>
+    <p>Major companies whose career sites block automated access or don't publish a job feed, so they can't appear on the main board.
+       Open each one and search for <b>machine learning</b>, <b>AI</b>, <b>computational</b>, or <b>imaging</b>, filtered to the United States.</p>
+  </header>
+  <div class="tip">Tip: most of these sites offer free <b>job alerts</b>. Set one up per company with your keywords and you'll get new postings by email.
+    Tick <b>Checked</b> after each visit; the date is saved in this browser so you can see what's due for another look.</div>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="Filter companies…" autocomplete="off">
+    <select id="sector"><option value="">All sectors</option></select>
+    <select id="show">
+      <option value="">All</option>
+      <option value="due">Not checked in 7+ days</option>
+    </select>
+    <span class="count" id="count"></span>
+  </div>
+
+  <div id="groups"></div>
+
+  <footer>Know a scrapable job board for one of these? Add it to <code>scraper/companies.json</code> and it moves to the main board.</footer>
+</div>
+
+<script>
+const GROUPS = [
+  { title: "Blocked or no public job feed",
+    sub: "Checked: these sites block automated access or use a system with no public job feed.",
+    items: [
+      ["AbbVie", "Pharma", "https://careers.abbvie.com/en", "Jobs only load in a browser"],
+      ["Bayer", "Pharma", "https://www.bayer.com/en/careers", "Eightfold, no public feed"],
+      ["Novo Nordisk", "Pharma", "https://www.novonordisk.com/careers/find-a-job.html", "SuccessFactors, no public feed"],
+      ["Alnylam", "Biotech", "https://www.alnylam.com/careers", "No public feed found"],
+      ["BioMarin", "Biotech", "https://www.biomarin.com/careers/jobs/", "No public feed found"],
+      ["Incyte", "Biotech", "https://careers.incyte.com/jobs", "iCIMS, no public feed"],
+      ["Tempus AI", "AI Diagnostics", "https://www.tempus.com/careers/", "Blocks automated access"],
+      ["10x Genomics", "Genomics / Tools", "https://www.10xgenomics.com/careers", "Blocks automated access"],
+      ["Guardant Health", "Genomics / Diagnostics", "https://guardanthealth.com/careers/", "No public feed found"],
+      ["Foundation Medicine", "Genomics / Diagnostics", "https://careers.foundationmedicine.com/", "Custom site; public feed is empty"],
+      ["Intuitive", "MedTech / Surgical Robotics", "https://careers.intuitive.com/en/jobs/", "Blocks automated access"],
+      ["Hologic", "Medical Imaging", "https://careers.hologic.com/", "No public feed found"],
+      ["Paige", "Pathology AI", "https://www.paige.ai/", "Careers page moved; use the site's Careers link"],
+      ["Viz.ai", "Medical Imaging AI", "https://www.viz.ai/careers", "Old job board removed"],
+      ["Broad Institute", "Research Institute", "https://www.broadinstitute.org/careers", "Workday board blocks automated access"],
+      ["Allen Institute", "Research Institute", "https://alleninstitute.org/careers/jobs", "No public feed found"],
+      ["Google DeepMind", "AI for Science", "https://deepmind.google/careers/", "Moved to Google's own careers system"],
+      ["Microsoft Research", "AI for Science", "https://jobs.careers.microsoft.com/global/en/search?q=machine%20learning%20health", "Microsoft's own careers system"],
+    ] },
+  { title: "Not automated yet",
+    sub: "Custom career sites or job systems the scraper doesn't support yet.",
+    items: [
+      ["Boehringer Ingelheim", "Pharma", "https://www.boehringer-ingelheim.com/us/careers", "Custom site"],
+      ["Astellas", "Pharma", "https://careers.astellas.com/", "SuccessFactors"],
+      ["Daiichi Sankyo", "Pharma", "https://www.daiichisankyo.com/careers/", "Custom site"],
+      ["Otsuka", "Pharma", "https://www.otsuka-us.com/", "Use the site's Careers link"],
+      ["EMD Serono", "Pharma", "https://www.emdserono.com/us-en/careers.html", "Custom site"],
+      ["Teva", "Pharma", "https://www.careers.teva/careers", "Eightfold"],
+      ["BioNTech", "Biotech", "https://www.biontech.com/int/en/home/careers.html", "SuccessFactors"],
+      ["BeOne Medicines (BeiGene)", "Biotech", "https://www.beonemedicines.com/careers", "Custom site"],
+      ["Insilico Medicine", "AI Drug Discovery", "https://insilico.com/careers", "Custom site"],
+      ["Terray", "AI Drug Discovery", "https://www.terraytx.ai/careers", "Rippling"],
+      ["BigHat Biosciences", "AI Drug Discovery", "https://www.bighatbio.com/careers", "Custom site"],
+      ["Character Biosciences", "AI Drug Discovery", "https://www.characterbio.com/careers", "Rippling"],
+      ["EvolutionaryScale", "AI Drug Discovery", "https://www.evolutionaryscale.ai/", "Use the site's Careers link"],
+      ["Tahoe Labs (formerly Tahoe Therapeutics)", "AI Drug Discovery", "https://www.tahoelabs.ai/", "Use the site's Careers link"],
+      ["Modella AI", "Pathology AI", "https://www.modella.ai/", "Use the site's Careers link"],
+      ["Lunit", "Medical Imaging AI", "https://www.lunit.io/en/careers/", "Workable / BambooHR; mostly Korea"],
+      ["Subtle Medical", "Medical Imaging AI", "https://subtlemedical.com/careers/", "Custom site"],
+      ["Caris Life Sciences", "Genomics / Diagnostics", "https://www.carislifesciences.com/about/careers/", "Custom site"],
+      ["Myriad Genetics", "Genomics / Diagnostics", "https://myriad.com/careers/", "Custom site"],
+      ["Personalis", "Genomics / Diagnostics", "https://www.personalis.com/careers/", "Custom site"],
+      ["Bio-Rad", "Life Science Tools", "https://www.bio-rad.com/en-us/corporate/careers", "Blocks automated access"],
+      ["Waters", "Life Science Tools", "https://www.waters.com/nextgen/us/en/about-waters/careers.html", "Blocks automated access"],
+      ["Revvity", "Life Science Tools", "https://www.revvity.com/careers", "Blocks automated access"],
+    ] },
+];
+
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const KEY = "manual-checked-v1";
+let checked = {};
+try { checked = JSON.parse(localStorage.getItem(KEY) || "{}") || {}; } catch (e) { checked = {}; }
+const save = () => { try { localStorage.setItem(KEY, JSON.stringify(checked)); } catch (e) {} };
+const daysSince = d => d ? Math.floor((Date.now() - new Date(d + "T00:00:00")) / 864e5) : Infinity;
+const today = () => new Date().toISOString().slice(0, 10);
+
+function label(name) {
+  const d = checked[name];
+  if (!d) return "Checked";
+  const n = daysSince(d);
+  const txt = n <= 0 ? "Checked today" : n === 1 ? "Checked yesterday" : `Checked ${n} days ago`;
+  return n >= 7 ? `<span class="stale">${txt}</span>` : txt;
+}
+
+function render() {
+  const q = $("#q").value.trim().toLowerCase(), sector = $("#sector").value, due = $("#show").value === "due";
+  let shown = 0, total = 0;
+  $("#groups").innerHTML = GROUPS.map(g => {
+    const items = g.items.filter(([name, sec, , why]) => {
+      total++;
+      if (sector && sec !== sector) return false;
+      if (q && !(name + " " + sec + " " + why).toLowerCase().includes(q)) return false;
+      if (due && daysSince(checked[name]) < 7) return false;
+      return true;
+    });
+    shown += items.length;
+    if (!items.length) return "";
+    return `<h2>${esc(g.title)} (${items.length})</h2><p class="sub">${esc(g.sub)}</p><ul class="cos">${items.map(([name, sec, url, why]) => {
+      const done = daysSince(checked[name]) < 7;
+      return `<li class="co${done ? " done" : ""}">
+        <a class="name" href="${esc(url)}" target="_blank" rel="noopener">${esc(name)}</a>
+        <label class="chk"><input type="checkbox" data-name="${esc(name)}"${checked[name] ? " checked" : ""}> ${label(name)}</label>
+        <div class="meta"><span class="tag">${esc(sec)}</span>${esc(why)}</div>
+      </li>`;
+    }).join("")}</ul>`;
+  }).join("") || `<p class="empty">Nothing matches. Everything's been checked recently.</p>`;
+  $("#count").textContent = `${shown} of ${total} companies`;
+}
+
+const sectors = [...new Set(GROUPS.flatMap(g => g.items.map(i => i[1])))].sort();
+for (const s of sectors) $("#sector").insertAdjacentHTML("beforeend", `<option>${esc(s)}</option>`);
+$("#q").addEventListener("input", render);
+$("#sector").addEventListener("change", render);
+$("#show").addEventListener("change", render);
+$("#groups").addEventListener("change", e => {
+  const name = e.target.dataset && e.target.dataset.name;
+  if (!name) return;
+  if (e.target.checked) checked[name] = today(); else delete checked[name];
+  save(); render();
+});
+// Opening a company's site counts as checking it.
+$("#groups").addEventListener("click", e => {
+  const a = e.target.closest("a.name");
+  if (!a) return;
+  const name = a.closest(".co").querySelector("input").dataset.name;
+  checked[name] = today(); save(); setTimeout(render, 300);
+});
+render();
+</script>
+</body>
+</html>
