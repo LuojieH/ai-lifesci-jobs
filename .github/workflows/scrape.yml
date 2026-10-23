@@ -2,7 +2,10 @@ name: Scrape jobs
 
 on:
   schedule:
-    - cron: "0 12 * * *"   # daily, 12:00 UTC (8am ET)
+    # Daily at 10am New York time. GitHub cron is UTC-only, so schedule both the
+    # daylight-saving (14:00 UTC) and standard-time (15:00 UTC) slots; the gate step skips the wrong one.
+    - cron: "0 14 * * *"
+    - cron: "0 15 * * *"
   workflow_dispatch:        # "Run workflow" button in the Actions tab
   push:
     paths:
@@ -21,13 +24,25 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
+      - name: Gate on 10am New York time
+        id: gate
+        env:
+          SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then echo "run=true" >> "$GITHUB_OUTPUT"; exit 0; fi
+          if [ "$(TZ=America/New_York date +%z)" = "-0400" ]; then want="0 14 * * *"; else want="0 15 * * *"; fi
+          if [ "$SCHEDULE" = "$want" ]; then echo "run=true" >> "$GITHUB_OUTPUT"; else echo "run=false" >> "$GITHUB_OUTPUT"; echo "Not 10am in New York for this slot; skipping."; fi
       - uses: actions/checkout@v5
+        if: steps.gate.outputs.run == 'true'
       - uses: actions/setup-python@v6
+        if: steps.gate.outputs.run == 'true'
         with:
           python-version: "3.12"
       - name: Scrape
+        if: steps.gate.outputs.run == 'true'
         run: python scraper/scrape.py
       - name: Commit updated jobs.json
+        if: steps.gate.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898299+github-actions[bot]@users.noreply.github.com"

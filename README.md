@@ -1,7 +1,7 @@
 # AI × Life Science Jobs (US)
 
 A GitHub Pages site listing AI/ML job openings at US drug-discovery, genomics, pathology,
-medical-imaging, and pharma companies. A GitHub Action re-scrapes every day.
+medical-imaging, and pharma companies. A GitHub Action re-scrapes every day at 10am Eastern.
 
 - `scraper/companies.json` lists the companies that get scraped. Edit it to add or remove companies.
 - `scraper/scrape.py` pulls from public Greenhouse, Lever, Ashby, and Workday APIs. It keeps
