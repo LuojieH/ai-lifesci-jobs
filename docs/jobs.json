@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:15Z",
+ "updated": "2026-10-25T14:15Z",
  "count": 715,
  "companies": [
   "Abbott",
@@ -808,17 +808,19 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "ph-94411",
-   "title": "DT Commerical AI & Agentic Lead",
-   "company": "UCB",
+   "id": "ph-R18227",
+   "title": "Applied AI & Enablement Intern",
+   "company": "Genmab",
    "domain": "Pharma",
-   "location": "Atlanta, Georgia, United States",
-   "url": "https://careers.ucb.com/global/en/job/94411",
+   "location": "Princeton, New Jersey, United States of America",
+   "url": "https://careers.genmab.com/global/en/job/R18227",
    "posted": "2026-10-21",
-   "tags": [],
-   "exp_years": 8,
-   "exp_text": "…cience, or a related field 8+ years extensive experience in Digital Technology or IT leadership roles with",
-   "first_seen": "2026-10-24"
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": 25,
+   "exp_text": "…ed antibody therapeutics. For 25 years, its hard-working, innovative and collaborative team has invented nex",
+   "first_seen": "2026-10-25"
   },
   {
    "id": "wd-dexcom-JR120176",
@@ -1195,19 +1197,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "wd-roche-202610-126995",
-   "title": "Senior Machine Learning Research Scientist, Structure and Simulation (AI for Drug Discovery)",
-   "company": "Genentech",
-   "domain": "Pharma",
-   "location": "New York City",
-   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/Senior-Machine-Learning-Research-Scientist--Structure-and-Simulation--AI-for-Drug-Discovery-_202610-126995",
-   "posted": "2026-10-20",
-   "tags": [],
-   "exp_years": 2,
-   "exp_text": "…ry experience, or a PhD with +2 years of industry experience",
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "wd-roche-202610-125840",
    "title": "Machine Learning Engineer (AI Enablement)",
    "company": "Genentech",
@@ -1460,6 +1449,21 @@
    "exp_years": 6,
    "exp_text": "…MENTS: • Advanced Degree plus 6 years of experience, or Bachelor's Degree plus 8 years of experience in data",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ph-R18165",
+   "title": "Clinical Development Data Science Intern",
+   "company": "Genmab",
+   "domain": "Pharma",
+   "location": "Princeton, New Jersey, United States of America",
+   "url": "https://careers.genmab.com/global/en/job/R18165",
+   "posted": "2026-10-19",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": 25,
+   "exp_text": "…ed antibody therapeutics. For 25 years, its hard-working, innovative and collaborative team has invented nex",
+   "first_seen": "2026-10-25"
   },
   {
    "id": "wd-roche-202610-126098",
@@ -3242,19 +3246,6 @@
    "tags": [],
    "exp_years": 10,
    "exp_text": "…t field is a plus. At least 10 years of relevant experience in building advanced analytics, data science, f",
-   "first_seen": "2026-10-21"
-  },
-  {
-   "id": "wd-jj-R-089505",
-   "title": "Manager, AI Next Frontiers",
-   "company": "Johnson & Johnson",
-   "domain": "Pharma",
-   "location": "Titusville, New Jersey, United States of America",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Manager--AI-Next-Frontiers_R-089505-1",
-   "posted": "2026-10-08",
-   "tags": [],
-   "exp_years": 5,
-   "exp_text": "…Experience & Skills 5+ years of experience in AI, machine learning, data science, marketing technol",
    "first_seen": "2026-10-21"
   },
   {
@@ -5115,6 +5106,19 @@
    "exp_years": 5,
    "exp_text": "…What We’re Looking For 5+ years of experience and proven track record in product management or solutio",
    "first_seen": "2026-10-23"
+  },
+  {
+   "id": "ph-R17812",
+   "title": "Director, Global Commercialization, Advanced Analytics & AI",
+   "company": "Genmab",
+   "domain": "Pharma",
+   "location": "Princeton, New Jersey, United States of America",
+   "url": "https://careers.genmab.com/global/en/job/R17812",
+   "posted": "2026-09-15",
+   "tags": [],
+   "exp_years": 12,
+   "exp_text": "…ence and Qualifications: 12+ years of progressive experience in commercial analytics, data science, or bu",
+   "first_seen": "2026-10-25"
   },
   {
    "id": "wd-lilly-R-105199",
