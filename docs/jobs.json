@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-26T14:47Z",
- "count": 703,
+ "updated": "2026-10-26T15:07Z",
+ "count": 706,
  "companies": [
   "Abbott",
   "Abridge",
@@ -127,6 +127,19 @@
  "errors": {},
  "jobs": [
   {
+   "id": "wd-gsk-450189",
+   "title": "Staff (Director), AI Product Management (Global Functions)",
+   "company": "GSK",
+   "domain": "Pharma",
+   "location": "USA - Pennsylvania - Philadelphia · USA - Massachusetts - Boston · UK – London – New Oxford Street",
+   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---Pennsylvania---Philadelphia/Staff--Director---AI-Product-Management--Global-Functions-_450189",
+   "posted": "2026-10-26",
+   "tags": [],
+   "exp_years": 10,
+   "exp_text": "…o help us achieve our goals 10 or more years of professional experience across some combination of pharma/life scie",
+   "first_seen": "2026-10-26"
+  },
+  {
    "id": "wd-gsk-450184",
    "title": "Principal (Senior Director), AI Product Management (HR Operations, Talent, and Rewards)",
    "company": "GSK",
@@ -179,6 +192,21 @@
    "first_seen": "2026-10-26"
   },
   {
+   "id": "wd-danaher-R1320599",
+   "title": "Computer Science/Data AI Co-op Supply Chain",
+   "company": "Danaher",
+   "domain": "Life Science Tools",
+   "location": "USA - Indianapolis - Multiple OpCo",
+   "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/USA---Indianapolis---Multiple-OpCo/Computer-Science-Data-AI-Co-op-Supply-Chain_R1320599",
+   "posted": "2026-10-26",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-26"
+  },
+  {
    "id": "wd-msd-R418880",
    "title": "Assoc Dir , Data Science",
    "company": "Merck (MSD)",
@@ -190,6 +218,21 @@
    "exp_years": 5,
    "exp_text": "…ted quantitative discipline. 5+ years of experience in pharmaceutical, biotechnology, healthcare, consulting",
    "first_seen": "2026-10-26"
+  },
+  {
+   "id": "ab-b239a6b5-40f2-41fd-93e6-3b7ca2c7eac7",
+   "title": "Applied ML Scientist (Staff / Principal)",
+   "company": "Genesis Therapeutics",
+   "domain": "AI Drug Discovery",
+   "location": "San Mateo, CA · New York, NY · Remote",
+   "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/b239a6b5-40f2-41fd-93e6-3b7ca2c7eac7",
+   "posted": "2026-10-26",
+   "tags": [
+    "Remote"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "wd-gsk-448761",
@@ -871,6 +914,36 @@
    "exp_years": 0,
    "exp_text": "…or a related discipline with 0+ years of experience",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ph-R18227",
+   "title": "Applied AI & Enablement Intern",
+   "company": "Genmab",
+   "domain": "Pharma",
+   "location": "Princeton, New Jersey, United States of America",
+   "url": "https://careers.genmab.com/global/en/job/R18227",
+   "posted": "2026-10-21",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": 25,
+   "exp_text": "…ed antibody therapeutics. For 25 years, its hard-working, innovative and collaborative team has invented nex",
+   "first_seen": "2026-10-26"
+  },
+  {
+   "id": "ph-R18226",
+   "title": "DD&AI Intern - AI and Process Automation",
+   "company": "Genmab",
+   "domain": "Pharma",
+   "location": "Princeton, New Jersey, United States of America",
+   "url": "https://careers.genmab.com/global/en/job/R18226",
+   "posted": "2026-10-21",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": 25,
+   "exp_text": "…ed antibody therapeutics. For 25 years, its hard-working, innovative and collaborative team has invented nex",
+   "first_seen": "2026-10-26"
   },
   {
    "id": "ph-94411",
@@ -4992,19 +5065,6 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "ph-R17812",
-   "title": "Director, Global Commercialization, Advanced Analytics & AI",
-   "company": "Genmab",
-   "domain": "Pharma",
-   "location": "Princeton, New Jersey, United States of America",
-   "url": "https://careers.genmab.com/global/en/job/R17812",
-   "posted": "2026-09-15",
-   "tags": [],
-   "exp_years": 12,
-   "exp_text": "…ence and Qualifications: 12+ years of progressive experience in commercial analytics, data science, or bu",
-   "first_seen": "2026-10-25"
-  },
-  {
    "id": "wd-lilly-R-105199",
    "title": "Advisor - Computational Statistician",
    "company": "Eli Lilly",
@@ -8538,21 +8598,6 @@
    "posted": "2026-05-21",
    "tags": [
     "Imaging"
-   ],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "ab-b239a6b5-40f2-41fd-93e6-3b7ca2c7eac7",
-   "title": "Applied ML Scientist (Staff / Principal)",
-   "company": "Genesis Therapeutics",
-   "domain": "AI Drug Discovery",
-   "location": "San Mateo, CA · New York, NY · Remote",
-   "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/b239a6b5-40f2-41fd-93e6-3b7ca2c7eac7",
-   "posted": "2026-05-19",
-   "tags": [
-    "Remote"
    ],
    "exp_years": null,
    "exp_text": "",
