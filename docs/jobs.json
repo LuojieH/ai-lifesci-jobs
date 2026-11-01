@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31T14:12Z",
- "count": 689,
+ "updated": "2026-11-01T15:08Z",
+ "count": 696,
  "companies": [
   "Abbott",
   "Abridge",
@@ -151,6 +151,19 @@
    "exp_years": 2,
    "exp_text": "…on, or solution delivery. 2+ years of hands-on CRM experience — including configuration, customization",
    "first_seen": "2026-10-31"
+  },
+  {
+   "id": "ph-94553",
+   "title": "DT Lead - Commercial Data Engineering & Data Product",
+   "company": "UCB",
+   "domain": "Pharma",
+   "location": "Atlanta, Georgia, United States",
+   "url": "https://careers.ucb.com/global/en/job/94553",
+   "posted": "2026-10-30",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-01"
   },
   {
    "id": "gh-4469152009",
@@ -447,6 +460,19 @@
    "first_seen": "2026-10-30"
   },
   {
+   "id": "gh-6238328004",
+   "title": "Lead Bioinformatics Scientist (Oncology)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6238328004",
+   "posted": "2026-10-29",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…duate experience, or PhD with 5 years of post-graduate experience (preferred)",
+   "first_seen": "2026-10-30"
+  },
+  {
    "id": "gh-6233270004",
    "title": "Lead Bioinformatics Scientist (Oncology)",
    "company": "Natera",
@@ -457,19 +483,6 @@
    "tags": [
     "Remote"
    ],
-   "exp_years": 5,
-   "exp_text": "…duate experience, or PhD with 5 years of post-graduate experience (preferred)",
-   "first_seen": "2026-10-30"
-  },
-  {
-   "id": "gh-6238328004",
-   "title": "Lead Bioinformatics Scientist (Oncology)",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6238328004",
-   "posted": "2026-10-29",
-   "tags": [],
    "exp_years": 5,
    "exp_text": "…duate experience, or PhD with 5 years of post-graduate experience (preferred)",
    "first_seen": "2026-10-30"
@@ -1638,19 +1651,6 @@
    "exp_years": 6,
    "exp_text": "…ntitative area Minimum of 6-8+ years experience applying predictive modeling techniques such as ML, decisio",
    "first_seen": "2026-10-31"
-  },
-  {
-   "id": "ph-94188",
-   "title": "AI and Data Literacy Lead (US)",
-   "company": "UCB",
-   "domain": "Pharma",
-   "location": "Atlanta, Georgia, United States",
-   "url": "https://careers.ucb.com/global/en/job/94188",
-   "posted": "2026-10-26",
-   "tags": [],
-   "exp_years": 6,
-   "exp_text": "…qualification is preferred. 6+ years of experience in data, analytics, digital transformation, learning, ch",
-   "first_seen": "2026-10-28"
   },
   {
    "id": "gh-4465059009",
@@ -2846,6 +2846,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "az-10583320",
+   "title": "Software Dev Engineer II, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10583320/software-dev-engineer-ii-aws-healthcare-ai",
+   "posted": "2026-10-19",
+   "tags": [],
+   "exp_years": 1,
+   "exp_text": "…ting systems experience<br/>- 1+ years of software development engineer or related occupational experience<br",
+   "first_seen": "2026-11-01"
+  },
+  {
    "id": "ph-R18165",
    "title": "Clinical Development Data Science Intern",
    "company": "Genmab",
@@ -3029,21 +3042,6 @@
    "tags": [],
    "exp_years": 3,
    "exp_text": "…l discipline and a minimum of 3 years of relevant drug discovery experience, including experience contributi",
-   "first_seen": "2026-10-21"
-  },
-  {
-   "id": "wd-jj-R-103629",
-   "title": "Quality Data Science Co-Op , Summer 2027",
-   "company": "Johnson & Johnson",
-   "domain": "Pharma",
-   "location": "Cincinnati, Ohio, United States of America",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629",
-   "posted": "2026-10-19",
-   "tags": [
-    "Intern"
-   ],
-   "exp_years": null,
-   "exp_text": "",
    "first_seen": "2026-10-21"
   },
   {
@@ -3894,6 +3892,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "az-10575360",
+   "title": "Software Dev Engineer II, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10575360/software-dev-engineer-ii-aws-healthcare-ai",
+   "posted": "2026-10-10",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…development experience<br/>- 2+ years of non-internship design or architecture (design patterns, reliability",
+   "first_seen": "2026-11-01"
+  },
+  {
    "id": "wd-zoetis-JR00021759",
    "title": "Summer Intern – Pharmacogenomics Data Science & Genomic Prediction (VMRD)",
    "company": "Zoetis",
@@ -4418,6 +4429,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "az-10569160",
+   "title": "SDE II, Life Sciences Applied AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10569160/sde-ii-life-sciences-applied-ai",
+   "posted": "2026-10-05",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…development experience<br/>- 2+ years of non-internship design or architecture (design patterns, reliability",
+   "first_seen": "2026-11-01"
+  },
+  {
    "id": "wd-roche-202606-115542",
    "title": "Machine Learning Scientist/Senior Machine Learning Scientist - Synthesis Planning and Optimization, AI for Drug Discovery",
    "company": "Genentech",
@@ -4825,6 +4849,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "az-10563054",
+   "title": "Software Dev Engineer II, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10563054/software-dev-engineer-ii-aws-healthcare-ai",
+   "posted": "2026-09-29",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…development experience<br/>- 2+ years of non-internship design or architecture (design patterns, reliability",
+   "first_seen": "2026-11-01"
+  },
+  {
    "id": "rd-101335793760",
    "title": "Associate Director, AI/ML (Biologics)",
    "company": "Takeda",
@@ -5110,6 +5147,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "az-10558688",
+   "title": "Software Dev Engineer II, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10558688/software-dev-engineer-ii-aws-healthcare-ai",
+   "posted": "2026-09-24",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…development experience<br/>- 2+ years of non-internship design or architecture (design patterns, reliability",
+   "first_seen": "2026-11-01"
+  },
+  {
    "id": "ab-dd8bf1b0-be34-42ba-94f7-76e6ebe204f6",
    "title": "Research Engineer, ML Infrastructure",
    "company": "Chai Discovery",
@@ -5356,6 +5406,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "az-10553626",
+   "title": "Senior Applied Scientist, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10553626/senior-applied-scientist-aws-healthcare-ai",
+   "posted": "2026-09-18",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…ied research experience<br/>- 3+ years of building machine learning models for business application experienc",
+   "first_seen": "2026-11-01"
+  },
+  {
    "id": "wd-jj-R-099962",
    "title": "Senior Machine Learning Engineer, Biologics Discovery",
    "company": "Johnson & Johnson",
@@ -5463,6 +5526,19 @@
    "exp_years": 17,
    "exp_text": "…aster’s degree preferred). 17+ years of experience in product ownership or management roles, with a focus o",
    "first_seen": "2026-10-23"
+  },
+  {
+   "id": "az-10551370",
+   "title": "Software Dev Engineer II, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10551370/software-dev-engineer-ii-aws-healthcare-ai",
+   "posted": "2026-09-16",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…development experience<br/>- 2+ years of non-internship design or architecture (design patterns, reliability",
+   "first_seen": "2026-11-01"
   },
   {
    "id": "wd-roche-202609-123434",
@@ -6766,19 +6842,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "gh-6150570004",
-   "title": "Manager of Data Engineering & Delivery (Data Science Production Engineering)",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6150570004",
-   "posted": "2026-08-21",
-   "tags": [],
-   "exp_years": 2,
-   "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
-   "first_seen": "2026-10-28"
-  },
-  {
    "id": "gh-6137669004",
    "title": "Manager of Data Engineering & Delivery (Data Science Production Engineering)",
    "company": "Natera",
@@ -6789,6 +6852,19 @@
    "tags": [
     "Remote"
    ],
+   "exp_years": 2,
+   "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "gh-6150570004",
+   "title": "Manager of Data Engineering & Delivery (Data Science Production Engineering)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6150570004",
+   "posted": "2026-08-21",
+   "tags": [],
    "exp_years": 2,
    "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
    "first_seen": "2026-10-28"
@@ -7757,6 +7833,19 @@
    "exp_years": 6,
    "exp_text": "…Biology, or Bioinformatics. 6+ years of postdoc or post-PhD industry experience achieving impactful results",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "az-10475859",
+   "title": "Software Dev Engineer II, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10475859/software-dev-engineer-ii-aws-healthcare-ai",
+   "posted": "2026-07-15",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…development experience<br/>- 2+ years of non-internship design or architecture (design patterns, reliability",
+   "first_seen": "2026-11-01"
   },
   {
    "id": "wd-roche-202607-118035",
