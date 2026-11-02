@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-01T15:08Z",
- "count": 696,
+ "updated": "2026-11-02T15:11Z",
+ "count": 685,
  "companies": [
   "Abbott",
   "Abridge",
@@ -127,6 +127,313 @@
  "errors": {},
  "jobs": [
   {
+   "id": "gh-4462613009",
+   "title": "Co-op, Agentic and Generative Protein Design",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA; San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4462613009",
+   "posted": "2026-11-02",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "id": "wd-philips-594180",
+   "title": "Associate Data & AI Engineer - Medical Imaging (Bedford, MA)",
+   "company": "Philips",
+   "domain": "Medical Imaging AI",
+   "location": "Bedford, Massachusetts, United States",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Associate-Data---AI-Engineer---Medical-Imaging--Bedford--MA-_594180",
+   "posted": "2026-11-02",
+   "tags": [
+    "Imaging"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "id": "wd-bristolmyerssquibb-R1604108",
+   "title": "Senior Manager, Data Engineer, Clinical Operations",
+   "company": "Bristol Myers Squibb",
+   "domain": "Pharma",
+   "location": "Princeton - NJ - US",
+   "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Senior-Manager--Data-Engineer--Clinical-Operations_R1604108-1",
+   "posted": "2026-11-02",
+   "tags": [],
+   "exp_years": 7,
+   "exp_text": "…lifications & Experience: 7+ years of cross-domain experience in Data Engineering, Analytics, and AI/ML,",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "id": "wd-lilly-R-114008",
+   "title": "Director - Genomics Data Science",
+   "company": "Eli Lilly",
+   "domain": "Pharma",
+   "location": "US, Boston MA",
+   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Boston-MA/Director---Genomics-Data-Science_R-114008",
+   "posted": "2026-11-02",
+   "tags": [],
+   "exp_years": 4,
+   "exp_text": "…ific field, with a minimum of 4 years of relevant industry or academic leadership experience",
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "wd-lilly-R-111470",
+   "title": "Agentic Automation Lead - Frontier AI",
+   "company": "Eli Lilly",
+   "domain": "Pharma",
+   "location": "US: South San Francisco Haskins",
+   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-South-San-Francisco-Haskins/Agentic-Automation-Lead---Frontier-AI_R-111470",
+   "posted": "2026-11-02",
+   "tags": [],
+   "exp_years": 1,
+   "exp_text": "…utomation platforms At least one year of direct people management experience",
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "wd-lilly-R-111467",
+   "title": "Advisor - Agentic Automation, Frontier AI",
+   "company": "Eli Lilly",
+   "domain": "Pharma",
+   "location": "US: South San Francisco Haskins",
+   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-South-San-Francisco-Haskins/Advisor---Agentic-Automation--Frontier-AI_R-111467",
+   "posted": "2026-11-02",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "wd-lilly-R-112521",
+   "title": "Advisor - Scientific Machine Learning & Agentic Workflows Engineer",
+   "company": "Eli Lilly",
+   "domain": "Pharma",
+   "location": "US, Indianapolis IN",
+   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/Advisor---Scientific-Machine-Learning---Agentic-Workflows-Engineer_R-112521",
+   "posted": "2026-11-02",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "wd-pfizer-4961699",
+   "title": "Director, AI Experience Design Lead",
+   "company": "Pfizer",
+   "domain": "Pharma",
+   "location": "United States - New York - New York City · United Kingdom - Walton Oaks · United States - Florida - Tampa · United States - Washington – Bothell · United States - Pennsylvania - Collegeville · Greece-Thessaloniki Chortiatis",
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--AI-Experience-Design-Lead_4961699-1",
+   "posted": "2026-11-02",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…s of experience OR a PhD with 5+ years of experience",
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "wd-gilead-R0054223",
+   "title": "Associate Director, Data Scientist",
+   "company": "Gilead",
+   "domain": "Pharma",
+   "location": "United States - California - Foster City",
+   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Associate-Director--Data-Scientist_R0054223",
+   "posted": "2026-11-02",
+   "tags": [],
+   "exp_years": 4,
+   "exp_text": "…g, or related discipline with 4+ years of relevant industry experience",
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "wd-lilly-R-112865",
+   "title": "AI Scientist",
+   "company": "Eli Lilly",
+   "domain": "Pharma",
+   "location": "US, Indianapolis IN",
+   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/AI-Scientist_R-112865",
+   "posted": "2026-11-02",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…e related field with at least 3 years related working experience",
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "wd-lilly-R-113799",
+   "title": "Sr. Principal Data Scientist – Market Access",
+   "company": "Eli Lilly",
+   "domain": "Pharma",
+   "location": "US, Indianapolis IN",
+   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/Sr-Principal-Data-Scientist---Market-Access_R-113799",
+   "posted": "2026-11-02",
+   "tags": [],
+   "exp_years": 4,
+   "exp_text": "…echnical field, with at least 4 + years of experience developing, deploying, or maintaining AI, machine learni",
+   "first_seen": "2026-10-28"
+  },
+  {
+   "id": "wd-lilly-R-113801",
+   "title": "Principal AI/ML Engineer – Market Access",
+   "company": "Eli Lilly",
+   "domain": "Pharma",
+   "location": "US, Indianapolis IN",
+   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/Principal-AI-ML-Engineer---Market-Access_R-113801",
+   "posted": "2026-11-02",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…ative or technical field, and 2 + years of experience developing, deploying, or maintaining AI, machine learni",
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "wd-lilly-R-112339",
+   "title": "Advisor - AI/ML Generative Foundation Models for Biotherapeutics",
+   "company": "Eli Lilly",
+   "domain": "Pharma",
+   "location": "US, San Diego CA",
+   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-San-Diego-CA/Advisor---AI-ML-Generative-Foundation-Models-for-Biotherapeutics_R-112339",
+   "posted": "2026-11-02",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…tative field, or an M.S. with 3+ years of relevant research experience in machine learning, computational bio",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-lilly-R-112530",
+   "title": "Advisor - Generative Design & Optimization, Biotherapeutics",
+   "company": "Eli Lilly",
+   "domain": "Pharma",
+   "location": "US, San Diego CA",
+   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-San-Diego-CA/Advisor---Generative-Design---Optimization--Biotherapeutics_R-112530",
+   "posted": "2026-11-02",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…d STEM field; or an M.S. with 2+ years of relevant experience",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-lilly-R-113768",
+   "title": "Advisor / Sr. Advisor – Computational Imaging Specialist",
+   "company": "Eli Lilly",
+   "domain": "Pharma",
+   "location": "US, Indianapolis IN",
+   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/Advisor---Sr-Advisor---Computational-Imaging-Specialist_R-113768",
+   "posted": "2026-11-02",
+   "tags": [
+    "Imaging"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-lilly-R-112335",
+   "title": "Director, AI/ML - Generative Foundation Models for Biotherapeutics",
+   "company": "Eli Lilly",
+   "domain": "Pharma",
+   "location": "US, San Diego CA",
+   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-San-Diego-CA/Director--AI-ML---Generative-Foundation-Models-for-Biotherapeutics_R-112335",
+   "posted": "2026-11-02",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…ated quantitative field, with 3+ years of relevant research experience following the Ph",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-lilly-R-111015",
+   "title": "Sr. Advisor - AI/ML Product Owner",
+   "company": "Eli Lilly",
+   "domain": "Pharma",
+   "location": "US, Indianapolis IN",
+   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/Sr-Advisor---AI-ML-Product-Owner_R-111015",
+   "posted": "2026-11-02",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…Preferred Qualifications 3–5 years’ experience designing solutions on governed enterprise data — row-level",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-lilly-R-113206",
+   "title": "Director / Sr. Director of Computational Chemistry for Molecule Discovery – ExploR&D",
+   "company": "Eli Lilly",
+   "domain": "Pharma",
+   "location": "US, Boston MA · UK, Erl Wood · ES: Spain Remote Alcobendas · US: South San Francisco · US, Indianapolis IN · US: Louisville CO Site 3",
+   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Boston-MA/Director---Sr-Director-of-Computational-Chemistry-for-Molecule-Discovery---ExploR-D_R-113206-1",
+   "posted": "2026-11-02",
+   "tags": [
+    "Remote"
+   ],
+   "exp_years": 7,
+   "exp_text": "…related field, with at least 7 years of relevant research and/or industry experience (may include post-doc",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-lilly-R-112529",
+   "title": "Director, Generative Design & Optimization, Biotherapeutics",
+   "company": "Eli Lilly",
+   "domain": "Pharma",
+   "location": "US, San Diego CA",
+   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-San-Diego-CA/Director--Generative-Design---Optimization--Biotherapeutics_R-112529",
+   "posted": "2026-11-02",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…related STEM discipline with 3+years of relevant experience",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-lilly-R-112338",
+   "title": "AVP, AI/ML - Generative Foundation Models for Biotherapeutics",
+   "company": "Eli Lilly",
+   "domain": "Pharma",
+   "location": "US, San Diego CA",
+   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-San-Diego-CA/AVP--AI-ML---Generative-Foundation-Models-for-Biotherapeutics_R-112338",
+   "posted": "2026-11-02",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-lilly-R-112528",
+   "title": "AVP, Generative Design & Optimization, Biotherapeutics",
+   "company": "Eli Lilly",
+   "domain": "Pharma",
+   "location": "US, San Diego CA",
+   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-San-Diego-CA/AVP--Generative-Design---Optimization--Biotherapeutics_R-112528",
+   "posted": "2026-11-02",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…· At least 3 years of experience leading scientists or engineers as a formal people manag",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-astrazeneca-R-263199",
+   "title": "Principal AI Engineer - Evinova",
+   "company": "AstraZeneca",
+   "domain": "Pharma",
+   "location": "US - Gaithersburg - MD",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Principal-AI-Engineer---Evinova_R-263199",
+   "posted": "2026-11-01",
+   "tags": [],
+   "exp_years": 4,
+   "exp_text": "…ematics, or Computer Science 4+ years of experience in applied machine learning, with a strong focus on deep",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "id": "wd-pfizer-4966323",
+   "title": "Director, QSEO AI Transformation Lead",
+   "company": "Pfizer",
+   "domain": "Pharma",
+   "location": "United States - Pennsylvania - Collegeville · Global Any Pfizer Site",
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Pennsylvania---Collegeville/Director--QSEO-AI-Transformation-Lead_4966323-2",
+   "posted": "2026-11-01",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…doctoral degree with at least five years of relevant experience",
+   "first_seen": "2026-10-31"
+  },
+  {
    "id": "wd-bristolmyerssquibb-R1608005",
    "title": "Associate Engineer, Analytical AI Engineering",
    "company": "Bristol Myers Squibb",
@@ -178,19 +485,6 @@
    ],
    "exp_years": null,
    "exp_text": "",
-   "first_seen": "2026-10-31"
-  },
-  {
-   "id": "wd-pfizer-4966323",
-   "title": "Director, QSEO AI Transformation Lead",
-   "company": "Pfizer",
-   "domain": "Pharma",
-   "location": "United States - Pennsylvania - Collegeville · Global Any Pfizer Site",
-   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Pennsylvania---Collegeville/Director--QSEO-AI-Transformation-Lead_4966323-2",
-   "posted": "2026-10-30",
-   "tags": [],
-   "exp_years": 5,
-   "exp_text": "…doctoral degree with at least five years of relevant experience",
    "first_seen": "2026-10-31"
   },
   {
@@ -247,19 +541,6 @@
    ],
    "exp_years": 4,
    "exp_text": "…nt practical experience. 4+ years of software, ML, or infrastructure engineering experience, including h",
-   "first_seen": "2026-10-31"
-  },
-  {
-   "id": "wd-medtronic-R78737",
-   "title": "Senior Director, Digital Transformation & AI Strategy, Customer Experience & Enablement",
-   "company": "Medtronic",
-   "domain": "MedTech",
-   "location": "Minneapolis, Minnesota, United States of America",
-   "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Director--Digital-Transformation---AI-Strategy--Customer-Experience---Enablement_R78737-1",
-   "posted": "2026-10-30",
-   "tags": [],
-   "exp_years": 10,
-   "exp_text": "…s of relevant experience with 10+ years of managerial experience",
    "first_seen": "2026-10-31"
   },
   {
@@ -460,19 +741,6 @@
    "first_seen": "2026-10-30"
   },
   {
-   "id": "gh-6238328004",
-   "title": "Lead Bioinformatics Scientist (Oncology)",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6238328004",
-   "posted": "2026-10-29",
-   "tags": [],
-   "exp_years": 5,
-   "exp_text": "…duate experience, or PhD with 5 years of post-graduate experience (preferred)",
-   "first_seen": "2026-10-30"
-  },
-  {
    "id": "gh-6233270004",
    "title": "Lead Bioinformatics Scientist (Oncology)",
    "company": "Natera",
@@ -483,6 +751,19 @@
    "tags": [
     "Remote"
    ],
+   "exp_years": 5,
+   "exp_text": "…duate experience, or PhD with 5 years of post-graduate experience (preferred)",
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "gh-6238328004",
+   "title": "Lead Bioinformatics Scientist (Oncology)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6238328004",
+   "posted": "2026-10-29",
+   "tags": [],
    "exp_years": 5,
    "exp_text": "…duate experience, or PhD with 5 years of post-graduate experience (preferred)",
    "first_seen": "2026-10-30"
@@ -651,45 +932,6 @@
    "first_seen": "2026-10-30"
   },
   {
-   "id": "wd-lilly-R-114008",
-   "title": "Director - Genomics Data Science",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, Boston MA",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Boston-MA/Director---Genomics-Data-Science_R-114008",
-   "posted": "2026-10-29",
-   "tags": [],
-   "exp_years": 4,
-   "exp_text": "…ific field, with a minimum of 4 years of relevant industry or academic leadership experience",
-   "first_seen": "2026-10-30"
-  },
-  {
-   "id": "wd-lilly-R-111470",
-   "title": "Agentic Automation Lead - Frontier AI",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US: South San Francisco Haskins",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-South-San-Francisco-Haskins/Agentic-Automation-Lead---Frontier-AI_R-111470",
-   "posted": "2026-10-29",
-   "tags": [],
-   "exp_years": 1,
-   "exp_text": "…utomation platforms At least one year of direct people management experience",
-   "first_seen": "2026-10-30"
-  },
-  {
-   "id": "wd-lilly-R-111467",
-   "title": "Advisor - Agentic Automation, Frontier AI",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US: South San Francisco Haskins",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-South-San-Francisco-Haskins/Advisor---Agentic-Automation--Frontier-AI_R-111467",
-   "posted": "2026-10-29",
-   "tags": [],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-30"
-  },
-  {
    "id": "wd-onehealthineers-R-27447",
    "title": "AI/ML Scientist - Neuroclinical AI",
    "company": "Siemens Healthineers",
@@ -814,6 +1056,19 @@
    "first_seen": "2026-10-29"
   },
   {
+   "id": "gh-6237859004",
+   "title": "Senior Bioinformatics & Genomics Data System Engineer",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6237859004",
+   "posted": "2026-10-28",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "gh-6230402004",
    "title": "Senior Bioinformatics & Genomics Data System Engineer",
    "company": "Natera",
@@ -824,19 +1079,6 @@
    "tags": [
     "Remote"
    ],
-   "exp_years": 2,
-   "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
-   "first_seen": "2026-10-29"
-  },
-  {
-   "id": "gh-6237859004",
-   "title": "Senior Bioinformatics & Genomics Data System Engineer",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6237859004",
-   "posted": "2026-10-28",
-   "tags": [],
    "exp_years": 2,
    "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
    "first_seen": "2026-10-29"
@@ -1045,73 +1287,6 @@
    "first_seen": "2026-10-29"
   },
   {
-   "id": "wd-lilly-R-112521",
-   "title": "Advisor - Scientific Machine Learning & Agentic Workflows Engineer",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, Indianapolis IN",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/Advisor---Scientific-Machine-Learning---Agentic-Workflows-Engineer_R-112521",
-   "posted": "2026-10-28",
-   "tags": [],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-29"
-  },
-  {
-   "id": "wd-lilly-R-110976",
-   "title": "Data Engineer",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US: South San Francisco Haskins",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-South-San-Francisco-Haskins/Data-Engineer_R-110976",
-   "posted": "2026-10-28",
-   "tags": [],
-   "exp_years": 5,
-   "exp_text": "…a related technical field. 5+ years of data engineering experience building and operating production data",
-   "first_seen": "2026-10-29"
-  },
-  {
-   "id": "wd-lilly-R-110971",
-   "title": "AI Engineer",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US: South San Francisco",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-South-San-Francisco/AI-Engineer_R-110971",
-   "posted": "2026-10-28",
-   "tags": [],
-   "exp_years": 4,
-   "exp_text": "…a related technical field . 4+ years of hands-on engineering experience building machine learning systems,",
-   "first_seen": "2026-10-29"
-  },
-  {
-   "id": "wd-lilly-R-108756",
-   "title": "Postdoctoral Scientist, Biophysics",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, Indianapolis IN",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/Postdoctoral-Scientist--Biophysics_R-108756",
-   "posted": "2026-10-28",
-   "tags": [
-    "Postdoc"
-   ],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-29"
-  },
-  {
-   "id": "wd-lilly-R-102491",
-   "title": "Sr. Computational Statistician",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, Indianapolis IN",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/Sr-Computational-Statistician_R-102491",
-   "posted": "2026-10-28",
-   "tags": [],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-29"
-  },
-  {
    "id": "sf-1444525900",
    "title": "AI Solutions Engineering Intern",
    "company": "Boston Scientific",
@@ -1179,19 +1354,6 @@
    "first_seen": "2026-10-29"
   },
   {
-   "id": "wd-pfizer-4961699",
-   "title": "Director, AI Experience Design Lead",
-   "company": "Pfizer",
-   "domain": "Pharma",
-   "location": "United States - New York - New York City · United Kingdom - Walton Oaks · United States - Florida - Tampa · United States - Washington – Bothell · United States - Pennsylvania - Collegeville · Greece-Thessaloniki Chortiatis",
-   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--AI-Experience-Design-Lead_4961699-1",
-   "posted": "2026-10-28",
-   "tags": [],
-   "exp_years": 5,
-   "exp_text": "…s of experience OR a PhD with 5+ years of experience",
-   "first_seen": "2026-10-28"
-  },
-  {
    "id": "wd-astrazeneca-R-262977",
    "title": "Director of AI Research, AI for Oncology Clinical Development",
    "company": "AstraZeneca",
@@ -1230,19 +1392,6 @@
    ],
    "exp_years": null,
    "exp_text": "",
-   "first_seen": "2026-10-28"
-  },
-  {
-   "id": "wd-lilly-R-112865",
-   "title": "AI Scientist",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, Indianapolis IN",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/AI-Scientist_R-112865",
-   "posted": "2026-10-28",
-   "tags": [],
-   "exp_years": 3,
-   "exp_text": "…e related field with at least 3 years related working experience",
    "first_seen": "2026-10-28"
   },
   {
@@ -1439,19 +1588,6 @@
    "first_seen": "2026-10-28"
   },
   {
-   "id": "wd-gilead-R0054223",
-   "title": "Associate Director, Data Scientist",
-   "company": "Gilead",
-   "domain": "Pharma",
-   "location": "United States - California - Foster City",
-   "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Associate-Director--Data-Scientist_R0054223",
-   "posted": "2026-10-27",
-   "tags": [],
-   "exp_years": 4,
-   "exp_text": "…g, or related discipline with 4+ years of relevant industry experience",
-   "first_seen": "2026-10-28"
-  },
-  {
    "id": "wd-illumina-43743-JOB",
    "title": "Senior Staff AI Engineer, (AI Quality & Test Automation)",
    "company": "Illumina",
@@ -1488,19 +1624,6 @@
    "tags": [],
    "exp_years": 10,
    "exp_text": "…r a related technical field. 10+ years of experience in data engineering, software engineering, platform engi",
-   "first_seen": "2026-10-28"
-  },
-  {
-   "id": "wd-lilly-R-113799",
-   "title": "Sr. Principal Data Scientist – Market Access",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, Indianapolis IN",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/Sr-Principal-Data-Scientist---Market-Access_R-113799",
-   "posted": "2026-10-27",
-   "tags": [],
-   "exp_years": 4,
-   "exp_text": "…echnical field, with at least 4 + years of experience developing, deploying, or maintaining AI, machine learni",
    "first_seen": "2026-10-28"
   },
   {
@@ -1640,17 +1763,17 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "ph-94499",
-   "title": "Senior Manager, Go-to-Market Data Science",
+   "id": "ph-94188",
+   "title": "AI and Data Literacy Lead (US)",
    "company": "UCB",
    "domain": "Pharma",
    "location": "Atlanta, Georgia, United States",
-   "url": "https://careers.ucb.com/global/en/job/94499",
+   "url": "https://careers.ucb.com/global/en/job/94188",
    "posted": "2026-10-26",
    "tags": [],
    "exp_years": 6,
-   "exp_text": "…ntitative area Minimum of 6-8+ years experience applying predictive modeling techniques such as ML, decisio",
-   "first_seen": "2026-10-31"
+   "exp_text": "…qualification is preferred. 6+ years of experience in data, analytics, digital transformation, learning, ch",
+   "first_seen": "2026-11-02"
   },
   {
    "id": "gh-4465059009",
@@ -1869,19 +1992,6 @@
    "tags": [],
    "exp_years": 3,
    "exp_text": "…or a related discipline, with 3+ years of hands-on experience in scientific data science or engineering, AI/M",
-   "first_seen": "2026-10-24"
-  },
-  {
-   "id": "wd-lilly-R-113801",
-   "title": "Principal AI/ML Engineer – Market Access",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, Indianapolis IN",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/Principal-AI-ML-Engineer---Market-Access_R-113801",
-   "posted": "2026-10-23",
-   "tags": [],
-   "exp_years": 2,
-   "exp_text": "…ative or technical field, and 2 + years of experience developing, deploying, or maintaining AI, machine learni",
    "first_seen": "2026-10-24"
   },
   {
@@ -2243,21 +2353,6 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "wd-lilly-R-113768",
-   "title": "Advisor / Sr. Advisor – Computational Imaging Specialist",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, Indianapolis IN",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/Advisor---Sr-Advisor---Computational-Imaging-Specialist_R-113768",
-   "posted": "2026-10-22",
-   "tags": [
-    "Imaging"
-   ],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "wd-vrtx-REQ-31108",
    "title": "Spring 2027 Co-op, Human-AI Work and Organization Design",
    "company": "Vertex",
@@ -2569,19 +2664,6 @@
    "first_seen": "2026-10-22"
   },
   {
-   "id": "wd-astrazeneca-R-261131",
-   "title": "Associate Director, AI for Oncology Clinical Development",
-   "company": "AstraZeneca",
-   "domain": "Pharma",
-   "location": "US - Cambridge Kendall SQ - MA",
-   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Associate-Director--AI-for-Oncology-Clinical-Development_R-261131",
-   "posted": "2026-10-21",
-   "tags": [],
-   "exp_years": 2,
-   "exp_text": "…biostatistics At least 2+ years’ work experience outside of PhD with measurable impact (e",
-   "first_seen": "2026-10-22"
-  },
-  {
    "id": "wd-jj-R-105460",
    "title": "Director, Global Forward Deployed AI Programs",
    "company": "Johnson & Johnson",
@@ -2645,34 +2727,6 @@
    "exp_years": 6,
    "exp_text": "…discipline. Experience 6+ years of experience in Information Technology, Manufacturing Systems, Digita",
    "first_seen": "2026-10-21"
-  },
-  {
-   "id": "wd-lilly-R-110977",
-   "title": "ML Ops Engineer",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US: South San Francisco",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-South-San-Francisco/ML-Ops-Engineer_R-110977",
-   "posted": "2026-10-20",
-   "tags": [],
-   "exp_years": 4,
-   "exp_text": "…a related technical field 4+ years of experience in machine learning engineering, ML Ops, or platform eng",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-msd-R422659",
-   "title": "Postdoctoral Research Fellow- Biologics Formulation and Drug Delivery",
-   "company": "Merck (MSD)",
-   "domain": "Pharma",
-   "location": "USA - New Jersey - Rahway",
-   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Postdoctoral-Research-Fellow--Biologics-Formulation-and-Drug-Delivery_R422659-1",
-   "posted": "2026-10-20",
-   "tags": [
-    "Postdoc"
-   ],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-23"
   },
   {
    "id": "wd-bristolmyerssquibb-R1607680",
@@ -2913,19 +2967,6 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "wd-lilly-R-112530",
-   "title": "Advisor - Generative Design & Optimization, Biotherapeutics",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, San Diego CA",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-San-Diego-CA/Advisor---Generative-Design---Optimization--Biotherapeutics_R-112530",
-   "posted": "2026-10-19",
-   "tags": [],
-   "exp_years": 2,
-   "exp_text": "…d STEM field; or an M.S. with 2+ years of relevant experience",
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "wd-vrtx-REQ-28158",
    "title": "Senior Principal AI Platform Engineer, Data & AI Platform",
    "company": "Vertex",
@@ -3058,21 +3099,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "wd-lilly-R-113206",
-   "title": "Director / Sr. Director of Computational Chemistry for Molecule Discovery – ExploR&D",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, Boston MA · UK, Erl Wood · ES: Spain Remote Alcobendas · US: South San Francisco · US, Indianapolis IN · US: Louisville CO Site 3",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Boston-MA/Director---Sr-Director-of-Computational-Chemistry-for-Molecule-Discovery---ExploR-D_R-113206-1",
-   "posted": "2026-10-18",
-   "tags": [
-    "Remote"
-   ],
-   "exp_years": 7,
-   "exp_text": "…related field, with at least 7 years of relevant research and/or industry experience (may include post-doc",
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "sf-1417644200",
    "title": "Senior AI Solution Architect",
    "company": "Boston Scientific",
@@ -3135,19 +3161,6 @@
    "tags": [],
    "exp_years": 8,
    "exp_text": "…related technical field ● 8+ years of experience in pharmaceutical manufacturing, process engineering, au",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-lilly-R-112529",
-   "title": "Director, Generative Design & Optimization, Biotherapeutics",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, San Diego CA",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-San-Diego-CA/Director--Generative-Design---Optimization--Biotherapeutics_R-112529",
-   "posted": "2026-10-16",
-   "tags": [],
-   "exp_years": 3,
-   "exp_text": "…related STEM discipline with 3+years of relevant experience",
    "first_seen": "2026-10-23"
   },
   {
@@ -3543,19 +3556,6 @@
    "exp_years": 2,
    "exp_text": "…’s degree with at least 2 years of experience in Data Science, Computer Science, Artifi",
    "first_seen": "2026-10-21"
-  },
-  {
-   "id": "wd-lilly-R-113059",
-   "title": "PKPD & PMx Data Scientist – PK Data Delivery",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, Indianapolis IN",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/PKPD---PMx--Data-Scientist---PK-Data-Delivery_R-113059",
-   "posted": "2026-10-14",
-   "tags": [],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-23"
   },
   {
    "id": "wd-msd-R422423",
@@ -4056,19 +4056,6 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "wd-lilly-R-112528",
-   "title": "AVP, Generative Design & Optimization, Biotherapeutics",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, San Diego CA",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-San-Diego-CA/AVP--Generative-Design---Optimization--Biotherapeutics_R-112528",
-   "posted": "2026-10-08",
-   "tags": [],
-   "exp_years": 3,
-   "exp_text": "…· At least 3 years of experience leading scientists or engineers as a formal people manag",
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "sf-1428093500",
    "title": "Principal Data Scientist, Digital Product Owner",
    "company": "Boston Scientific",
@@ -4284,32 +4271,6 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "wd-lilly-R-112339",
-   "title": "Advisor - AI/ML Generative Foundation Models for Biotherapeutics",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, San Diego CA",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-San-Diego-CA/Advisor---AI-ML-Generative-Foundation-Models-for-Biotherapeutics_R-112339",
-   "posted": "2026-10-06",
-   "tags": [],
-   "exp_years": 3,
-   "exp_text": "…tative field, or an M.S. with 3+ years of relevant research experience in machine learning, computational bio",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-lilly-R-112335",
-   "title": "Director, AI/ML - Generative Foundation Models for Biotherapeutics",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, San Diego CA",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-San-Diego-CA/Director--AI-ML---Generative-Foundation-Models-for-Biotherapeutics_R-112335",
-   "posted": "2026-10-06",
-   "tags": [],
-   "exp_years": 3,
-   "exp_text": "…ated quantitative field, with 3+ years of relevant research experience following the Ph",
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "rd-101624971168",
    "title": "Head of AI and Data Science Foundation",
    "company": "Takeda",
@@ -4522,19 +4483,6 @@
    "exp_years": 7,
    "exp_text": "…Learning, or a related field 7+ years of professional software engineering experience, including recent hand",
    "first_seen": "2026-10-21"
-  },
-  {
-   "id": "wd-lilly-R-112338",
-   "title": "AVP, AI/ML - Generative Foundation Models for Biotherapeutics",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, San Diego CA",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-San-Diego-CA/AVP--AI-ML---Generative-Foundation-Models-for-Biotherapeutics_R-112338",
-   "posted": "2026-10-04",
-   "tags": [],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-23"
   },
   {
    "id": "gh-8012015003",
@@ -5554,19 +5502,6 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "wd-lilly-R-111718",
-   "title": "Agentic AI Solutions, Associate Director",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, Indianapolis IN",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/Agentic-AI-Solutions--Associate-Director_R-111718",
-   "posted": "2026-09-16",
-   "tags": [],
-   "exp_years": 2,
-   "exp_text": "…d STEM quantitative field. 2+ years of applied technical work building AI or machine learning solutions in",
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "ab-1baad891-43b8-4e2a-9e6c-f68741e718a4",
    "title": "Applied AI Architect, Healthcare & Life Sciences",
    "company": "OpenAI (Health & Life Sciences)",
@@ -5592,34 +5527,6 @@
    ],
    "exp_years": 5,
    "exp_text": "…What We’re Looking For 5+ years of experience and proven track record in product management or solutio",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-lilly-R-105199",
-   "title": "Advisor - Computational Statistician",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, Indianapolis IN",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/Advisor---Computational-Statistician_R-105199",
-   "posted": "2026-09-15",
-   "tags": [],
-   "exp_years": 7,
-   "exp_text": "…atistics, or relevant areas. 7+ years of statistical analysis/programming experience",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-lilly-R-111757",
-   "title": "Director – AI Evidence Registry",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US: USA Remote",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-USA-Remote/Director---AI-Evidence-Registry_R-111757",
-   "posted": "2026-09-15",
-   "tags": [
-    "Remote"
-   ],
-   "exp_years": 8,
-   "exp_text": "…statistics or Bioinformatics 8 years of experience in data science, statistical programming, biostatistics,",
    "first_seen": "2026-10-23"
   },
   {
@@ -6257,32 +6164,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "wd-lilly-R-110981",
-   "title": "Director / Senior Director – Cheminformatics and Applied AI",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, Boston MA",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Boston-MA/Director---Senior-Director---Cheminformatics-and-Applied-AI_R-110981",
-   "posted": "2026-09-02",
-   "tags": [],
-   "exp_years": 4,
-   "exp_text": "…lated field with a minimum of 4+ years of drug discovery experience within a pharmaceutical/biotech setting",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-lilly-R-111015",
-   "title": "Sr. Advisor - AI/ML Product Owner",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, Indianapolis IN",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/Sr-Advisor---AI-ML-Product-Owner_R-111015",
-   "posted": "2026-09-02",
-   "tags": [],
-   "exp_years": 3,
-   "exp_text": "…Preferred Qualifications 3–5 years’ experience designing solutions on governed enterprise data — row-level",
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "gh-5412944008",
    "title": "Research Manager, Biological Safety",
    "company": "Anthropic (Life Sciences & Health)",
@@ -6842,6 +6723,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "gh-6150570004",
+   "title": "Manager of Data Engineering & Delivery (Data Science Production Engineering)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6150570004",
+   "posted": "2026-08-21",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
+   "first_seen": "2026-10-28"
+  },
+  {
    "id": "gh-6137669004",
    "title": "Manager of Data Engineering & Delivery (Data Science Production Engineering)",
    "company": "Natera",
@@ -6852,19 +6746,6 @@
    "tags": [
     "Remote"
    ],
-   "exp_years": 2,
-   "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
-   "first_seen": "2026-10-28"
-  },
-  {
-   "id": "gh-6150570004",
-   "title": "Manager of Data Engineering & Delivery (Data Science Production Engineering)",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6150570004",
-   "posted": "2026-08-21",
-   "tags": [],
    "exp_years": 2,
    "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
    "first_seen": "2026-10-28"
@@ -7596,19 +7477,6 @@
    ],
    "exp_years": 0,
    "exp_text": "…Compensation: A Postdoc 00 (0 to 1 year research experience after obtaining a PhD) is compensated at a rate of",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-lilly-R-104010",
-   "title": "Principal Computational Statistician",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, Indianapolis IN",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/Statistician---Computational-Statistician_R-104010",
-   "posted": "2026-07-29",
-   "tags": [],
-   "exp_years": 2,
-   "exp_text": "…or relevant areas of science 2+ years of statistical analysis/programming experience",
    "first_seen": "2026-10-23"
   },
   {
@@ -8819,19 +8687,6 @@
    "exp_years": 2,
    "exp_text": "…l Biology, or related field 2+ years of hands-on experience with PyTorch and/or JAX for deep learning appli",
    "first_seen": "2026-10-21"
-  },
-  {
-   "id": "wd-lilly-R-104022",
-   "title": "Advisor - Lab Automation Software Engineer, AI-Integration",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, San Diego CA",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-San-Diego-CA/Advisor---Lab-Automation-Software-Engineer--AI-Integration_R-104022",
-   "posted": "2026-04-10",
-   "tags": [],
-   "exp_years": 3,
-   "exp_text": "…discipline with a minimum of 3 years of relevant industry experience, or",
-   "first_seen": "2026-10-23"
   },
   {
    "id": "ab-3897d978-77c0-4132-ae33-1bf9356be630",
