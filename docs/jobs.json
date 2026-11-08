@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T15:08Z",
+ "updated": "2026-11-08T15:08Z",
  "count": 669,
  "companies": [
   "Abbott",
@@ -2128,6 +2128,19 @@
    "first_seen": "2026-10-29"
   },
   {
+   "id": "gh-6237859004",
+   "title": "Senior Bioinformatics & Genomics Data System Engineer",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6237859004",
+   "posted": "2026-10-28",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "gh-6230402004",
    "title": "Senior Bioinformatics & Genomics Data System Engineer",
    "company": "Natera",
@@ -2138,19 +2151,6 @@
    "tags": [
     "Remote"
    ],
-   "exp_years": 2,
-   "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
-   "first_seen": "2026-10-29"
-  },
-  {
-   "id": "gh-6237859004",
-   "title": "Senior Bioinformatics & Genomics Data System Engineer",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6237859004",
-   "posted": "2026-10-28",
-   "tags": [],
    "exp_years": 2,
    "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
    "first_seen": "2026-10-29"
@@ -2231,19 +2231,6 @@
    "tags": [],
    "exp_years": 1,
    "exp_text": "…ed quantitative discipline. 1–3 years of relevant experience in applied data science, machine learning, or s",
-   "first_seen": "2026-10-29"
-  },
-  {
-   "id": "wd-jj-R-106921",
-   "title": "Lead Data Scientist, HCC",
-   "company": "Johnson & Johnson",
-   "domain": "Pharma",
-   "location": "Titusville, New Jersey, United States of America",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Lead-Data-Scientist--HCC_R-106921-1",
-   "posted": "2026-10-28",
-   "tags": [],
-   "exp_years": 3,
-   "exp_text": "…ience; OR Masters degree with 3 years of relevant experience",
    "first_seen": "2026-10-29"
   },
   {
@@ -2641,6 +2628,19 @@
    "exp_years": 12,
    "exp_text": "…Qualifications Required Twelve or more years of experience across technology, digital, or transformation functions,",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "ph-94188",
+   "title": "AI and Data Literacy Lead (US)",
+   "company": "UCB",
+   "domain": "Pharma",
+   "location": "Atlanta, Georgia, United States",
+   "url": "https://careers.ucb.com/global/en/job/94188",
+   "posted": "2026-10-26",
+   "tags": [],
+   "exp_years": 6,
+   "exp_text": "…qualification is preferred. 6+ years of experience in data, analytics, digital transformation, learning, ch",
+   "first_seen": "2026-11-08"
   },
   {
    "id": "ph-94499",
@@ -3144,6 +3144,21 @@
    "first_seen": "2026-10-22"
   },
   {
+   "id": "ph-R18226",
+   "title": "DD&AI Intern - AI and Process Automation",
+   "company": "Genmab",
+   "domain": "Pharma",
+   "location": "Princeton, New Jersey, United States of America",
+   "url": "https://careers.genmab.com/global/en/job/R18226",
+   "posted": "2026-10-21",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": 25,
+   "exp_text": "…ed antibody therapeutics. For 25 years, its hard-working, innovative and collaborative team has invented nex",
+   "first_seen": "2026-11-08"
+  },
+  {
    "id": "ph-94411",
    "title": "DT Commerical AI & Agentic Lead",
    "company": "UCB",
@@ -3288,19 +3303,6 @@
    "tags": [],
    "exp_years": 3,
    "exp_text": "…sciences or life sciences 3-5+ years of post-academic experience in life sciences (biotech, pharma, consult",
-   "first_seen": "2026-10-22"
-  },
-  {
-   "id": "wd-jj-R-105460",
-   "title": "Director, Global Forward Deployed AI Programs",
-   "company": "Johnson & Johnson",
-   "domain": "Pharma",
-   "location": "Raritan, New Jersey, United States of America",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Director--Global-Forward-Deployed-AI-Programs_R-105460-1",
-   "posted": "2026-10-21",
-   "tags": [],
-   "exp_years": 5,
-   "exp_text": "…ing or technical consulting. 5+ years of people management experience leading engineers in a delivery, servi",
    "first_seen": "2026-10-22"
   },
   {
@@ -4465,6 +4467,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "ph-R18077",
+   "title": "Senior Manager, Databricks & Enterprise AI/BI Platform",
+   "company": "Genmab",
+   "domain": "Pharma",
+   "location": "Princeton, New Jersey, United States of America",
+   "url": "https://careers.genmab.com/global/en/job/R18077",
+   "posted": "2026-10-08",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…or related technical roles. 3+ years of experience administering or operating enterprise-scale analytics or",
+   "first_seen": "2026-11-08"
+  },
+  {
    "id": "wd-amgen-R-257593",
    "title": "Director - AI Digital Product Management - Commercial Value & Access",
    "company": "Amgen",
@@ -4773,19 +4788,6 @@
    "exp_years": 5,
    "exp_text": "…pically requires a minimum of 5 years of related experience with a Bachelor’s degree",
    "first_seen": "2026-10-21"
-  },
-  {
-   "id": "az-10569160",
-   "title": "SDE II, Life Sciences Applied AI",
-   "company": "Amazon / AWS (Health & Life Sciences)",
-   "domain": "Big Tech / AI Lab",
-   "location": "Seattle, Washington, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10569160/sde-ii-life-sciences-applied-ai",
-   "posted": "2026-10-05",
-   "tags": [],
-   "exp_years": 2,
-   "exp_text": "…development experience<br/>- 2+ years of non-internship design or architecture (design patterns, reliability",
-   "first_seen": "2026-11-01"
   },
   {
    "id": "wd-modernatx-R19884",
