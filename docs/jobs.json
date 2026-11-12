@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-11T15:11Z",
- "count": 681,
+ "updated": "2026-11-12T15:11Z",
+ "count": 691,
  "companies": [
   "Abbott",
   "Abridge",
@@ -126,6 +126,417 @@
  ],
  "errors": {},
  "jobs": [
+  {
+   "id": "wd-roche-202608-120617",
+   "title": "Senior Machine Learning Engineer, Agentic Science/Generative Models, AI for Biology & Translation (AIBT)",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Machine-Learning-Engineer--Agentic-Science-Generative-Models--AI-for-Biology---Translation--AIBT-_202608-120617",
+   "posted": "2026-11-12",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…related quantitative field 5+ years building and shipping ML systems in industry",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-roche-202611-128905",
+   "title": "Machine Learning Scientist, Frontier Research, AI for Drug Discovery (AIDD)",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Scientist--Frontier-Research--AI-for-Drug-Discovery--AIDD-_202611-128905",
+   "posted": "2026-11-12",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-amgen-R-261449",
+   "title": "Grad Intern - Computational Chemistry (summer 2027)",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "United States - Remote",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Computational-Chemistry--summer-2027-_R-261449",
+   "posted": "2026-11-12",
+   "tags": [
+    "Intern",
+    "Remote"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-amgen-R-261445",
+   "title": "Grad Intern – Computational Chemistry (summer 2027)",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "United States - Remote",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Grad-Intern---Computational-Chemistry--summer-2027-_R-261445",
+   "posted": "2026-11-12",
+   "tags": [
+    "Intern",
+    "Remote"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-jj-R-109851",
+   "title": "Postdoctoral Scientist, Oncology Foundation Models",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Neuss, North Rhine-Westphalia, Germany · Cambridge, Massachusetts, United States of America · Titusville, New Jersey, United States of America · Spring House, Pennsylvania, United States of America · Beerse, Antwerp, Belgium · San Diego, California, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Neuss-North-Rhine-Westphalia-Germany/Postdoctoral-Scientist--Oncology-Foundation-Models_R-109851-2",
+   "posted": "2026-11-12",
+   "tags": [
+    "Postdoc"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-msd-R426471",
+   "title": "Senior Scientist, Cheminformatics",
+   "company": "Merck (MSD)",
+   "domain": "Pharma",
+   "location": "USA - New Jersey - Rahway",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Senior-Scientist--Cheminformatics_R426471-1",
+   "posted": "2026-11-12",
+   "tags": [],
+   "exp_years": 4,
+   "exp_text": "…· M.S. degree with 4+ years of relevant industry/research experience",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-msd-R426413",
+   "title": "Senior AI Data Scientist",
+   "company": "Merck (MSD)",
+   "domain": "Pharma",
+   "location": "USA - New Jersey - Rahway",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Senior-AI-Data-Scientist_R426413-2",
+   "posted": "2026-11-12",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-msd-R426163",
+   "title": "Senior AI Data Scientist/ Statistician",
+   "company": "Merck (MSD)",
+   "domain": "Pharma",
+   "location": "USA - New Jersey - Rahway",
+   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Senior-AI-Data-Scientist--Statistician_R426163",
+   "posted": "2026-11-12",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "ab-1aecff61-dbce-4ad1-9f95-a1c369de340d",
+   "title": "Staff Software Engineer, Claims & AI Billing",
+   "company": "Commure",
+   "domain": "Clinical AI",
+   "location": "Mountain View, CA · Los Angeles, CA · New York City, NY · San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/Commure/1aecff61-dbce-4ad1-9f95-a1c369de340d",
+   "posted": "2026-11-12",
+   "tags": [],
+   "exp_years": 10,
+   "exp_text": "…can use. WHAT YOU HAVE - 10+ years of professional software development experience building and operating",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "ab-3c6316a0-bb76-4454-b77b-8a6c98f89199",
+   "title": "Senior Software Engineer, Claims & AI Billing",
+   "company": "Commure",
+   "domain": "Clinical AI",
+   "location": "Mountain View, CA · Los Angeles, CA · San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/Commure/3c6316a0-bb76-4454-b77b-8a6c98f89199",
+   "posted": "2026-11-12",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…can use. WHAT YOU HAVE - 5+ years of professional software development experience building and operating",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-regeneron-R50609",
+   "title": "Executive Director: Data Management, Analytics, AI & Architecture",
+   "company": "Regeneron",
+   "domain": "Pharma",
+   "location": "Warren · SLEEPY HOLLOW · TARRYTOWN · Armonk",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/Warren/Executive-Director--Data-Management--Analytics--AI---Architecture_R50609",
+   "posted": "2026-11-12",
+   "tags": [],
+   "exp_years": 17,
+   "exp_text": "…aster’s degree preferred). 17+ years of experience in product ownership or management roles, with a focus o",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-philips-593012",
+   "title": "Intern - AI & Analytics Analyst - Nashville, TN - Summer 2027",
+   "company": "Philips",
+   "domain": "Medical Imaging AI",
+   "location": "Nashville, Tennessee, United States",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012",
+   "posted": "2026-11-12",
+   "tags": [
+    "Imaging",
+    "Intern"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-roche-202611-128802",
+   "title": "2027 Summer Intern - Product Development Data Sciences",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "Boston",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/Boston/XMLNAME-2027-Summer-Intern---Product-Development-Data-Sciences_202611-128802",
+   "posted": "2026-11-11",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-roche-202611-128790",
+   "title": "2027 Summer Intern - Digital, AI, and Clinical Outcome Assessments",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Digital--AI--and-Clinical-Outcome-Assessments_202611-128790",
+   "posted": "2026-11-11",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-roche-202611-129025",
+   "title": "Postdoctoral Fellow - Computational Biology / Research Oncology, Yao/de Sauvage Lab",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Postdoctoral-Fellow---Computational-Biology---Research-Oncology--Yao-de-Sauvage-Lab_202611-129025",
+   "posted": "2026-11-11",
+   "tags": [
+    "Postdoc"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-roche-202611-128787",
+   "title": "2027 Summer Intern - Biostatistics and Analytical Data Sciences",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Biostatistics-and-Analytical-Data-Sciences_202611-128787",
+   "posted": "2026-11-11",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-astrazeneca-R-261366",
+   "title": "Director, Oncology Commercial Data Science & AI Products",
+   "company": "AstraZeneca",
+   "domain": "Pharma",
+   "location": "US - Gaithersburg - MD",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Director--Oncology-Commercial-Data-Science---AI-Products_R-261366",
+   "posted": "2026-11-11",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…professional experience with 5+ years in pharma commercial functions (or pharma-focused strategy consulting)",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-amgen-R-260526",
+   "title": "Director, AI and Machine Learning",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "US - California - South San Francisco · US - California - Thousand Oaks",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---South-San-Francisco/Director--AI-and-Machine-Learning_R-260526",
+   "posted": "2026-11-11",
+   "tags": [],
+   "exp_years": 4,
+   "exp_text": "…ions: Doctorate degree and 4 years of relevant experience overall in computational biology, bioinformatic",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-jj-R-108093",
+   "title": "Senior Principal AI Engineer",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Titusville, New Jersey, United States of America · Horsham, Pennsylvania, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Senior-Principal-AI-Engineer_R-108093-2",
+   "posted": "2026-11-11",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…education (such as Ph.D. with 5+ years of experience, or M",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-jj-R-108814",
+   "title": "Senior Manager, SAP Business AI & Data",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Titusville, New Jersey, United States of America · Raritan, New Jersey, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Senior-Manager--SAP-Business-AI---Data_R-108814-1",
+   "posted": "2026-11-11",
+   "tags": [],
+   "exp_years": 10,
+   "exp_text": "…ted technology disciplines. 10+ years of technology leadership experience leading complex, cross-functional",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-jj-R-088132",
+   "title": "Head, Practice Area Programming - AI/GenAI and Enterprise Capabilities",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "New Brunswick, New Jersey, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Head--Practice-Area-Programming---AI-GenAI-and-Enterprise-Capabilities_R-088132",
+   "posted": "2026-11-11",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…gressive experience including 5+ years as a people leader",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-regeneron-R52913",
+   "title": "Clinical Bioinformatician - Clinical Genomics Laboratory",
+   "company": "Regeneron",
+   "domain": "Pharma",
+   "location": "TARRYTOWN",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/Clinical-Bioinformatician---Clinical-Genomics-Laboratory_R52913-1",
+   "posted": "2026-11-11",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…n lieu of a Master's degree. 2–4 years of experience in a clinical molecular diagnostics or clinical genomics",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-sanofi-R2854091",
+   "title": "2027 Spring Co-op Data Science & Digital Transformation, Framingham, MA",
+   "company": "Sanofi",
+   "domain": "Pharma",
+   "location": "Framingham, MA",
+   "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/XMLNAME-2027-Spring-Co-op-Data-Science---Digital-Transformation--Framingham--MA_R2854091",
+   "posted": "2026-11-11",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-illumina-43884-JOB",
+   "title": "Senior Legal AI & Analytics Specialist, Legal Operations",
+   "company": "Illumina",
+   "domain": "Genomics / Diagnostics",
+   "location": "US - California - San Diego",
+   "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Senior-Legal-AI---Analytics-Specialist--Legal-Operations_43884-JOB-1",
+   "posted": "2026-11-11",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…lligence platforms, including 2+ years of hands-on work with generative AI",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-danaher-R1321370",
+   "title": "AI Scientist - AI Molecular Design",
+   "company": "Danaher",
+   "domain": "Life Science Tools",
+   "location": "Austin, Texas, United States",
+   "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Austin-Texas-United-States/AI-Scientist---AI-Molecular-Design_R1321370",
+   "posted": "2026-11-11",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-danaher-R1320243",
+   "title": "Sr Engineer III, Algorithm",
+   "company": "Danaher",
+   "domain": "Life Science Tools",
+   "location": "Irvine, California, United States",
+   "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Irvine-California-United-States/Sr-Engineer-III--Algorithm_R1320243",
+   "posted": "2026-11-11",
+   "tags": [],
+   "exp_years": 10,
+   "exp_text": "…ated technical discipline. 10+ years of experience developing algorithms for biomedical signal processing o",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-lilly-R-114233",
+   "title": "Computational Scientist – Molecular Modeling & Simulation",
+   "company": "Eli Lilly",
+   "domain": "Pharma",
+   "location": "US, Indianapolis IN",
+   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/Computational-Scientist---Molecular-Modeling---Simulation-_R-114233",
+   "posted": "2026-11-11",
+   "tags": [],
+   "exp_years": 4,
+   "exp_text": "…on molecular simulation, with 4+ years of relevant molecular modeling experience",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-lilly-R-114363",
+   "title": "LillyDirect Pharmacy Data Engineer",
+   "company": "Eli Lilly",
+   "domain": "Pharma",
+   "location": "US, Indianapolis IN",
+   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/LillyDirect-Pharmacy-Data-Engineer_R-114363",
+   "posted": "2026-11-11",
+   "tags": [],
+   "exp_years": 1,
+   "exp_text": "…nd performance optimization. 1+ years of experience with orchestration tools like Airflow or Databricks Wo",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-abbott-31161836",
+   "title": "Principal Data Engineer",
+   "company": "Abbott",
+   "domain": "MedTech",
+   "location": "United States > Madison : 1 Exact Lane",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--1-Exact-Lane/Principal-Data-Engineer_31161836-2",
+   "posted": "2026-11-11",
+   "tags": [],
+   "exp_years": 12,
+   "exp_text": "…/General Education Degree and 12 years of relevant experience as outlined in the essential duties in lieu of",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "wd-pfizer-4967848",
+   "title": "Executive Director, Translational & Computational Biology Team",
+   "company": "Pfizer",
+   "domain": "Pharma",
+   "location": "United States - Washington – Bothell · United States - New York - New York City",
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Washington--Bothell/Executive-Director--Translational---Computational-Biology-Team_4967848-1",
+   "posted": "2026-11-11",
+   "tags": [],
+   "exp_years": 10,
+   "exp_text": "…or a related discipline with 10+ years of relevant industry or research experience",
+   "first_seen": "2026-11-11"
+  },
   {
    "id": "wd-lilly-R-114008",
    "title": "Director - Genomics Data Science",
@@ -299,19 +710,6 @@
    "tags": [],
    "exp_years": 2,
    "exp_text": "…line OR Master’s degree and 2+ years of experience building AI powered research applications",
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "wd-pfizer-4967848",
-   "title": "Executive Director, Translational & Computational Biology Team",
-   "company": "Pfizer",
-   "domain": "Pharma",
-   "location": "United States - Washington – Bothell · United States - New York - New York City",
-   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Washington--Bothell/Executive-Director--Translational---Computational-Biology-Team_4967848-1",
-   "posted": "2026-11-10",
-   "tags": [],
-   "exp_years": 10,
-   "exp_text": "…or a related discipline with 10+ years of relevant industry or research experience",
    "first_seen": "2026-11-11"
   },
   {
@@ -873,19 +1271,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "id": "wd-msd-R416560",
-   "title": "Director, Data Science - Hybrid",
-   "company": "Merck (MSD)",
-   "domain": "Pharma",
-   "location": "USA - Pennsylvania - North Wales (Upper Gwynedd) · USA - New Jersey - Rahway · POL - Mazowieckie Wojewodztwo - Warsaw (Trade Center) · USA - Massachusetts - Cambridge (320 Bent Street)",
-   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Director--Data-Science---Hybrid_R416560-1",
-   "posted": "2026-11-09",
-   "tags": [],
-   "exp_years": 8,
-   "exp_text": "…discipline with a minimum of 8 years of experience in relevant field for job description, including:",
-   "first_seen": "2026-11-10"
-  },
-  {
    "id": "wd-modernatx-R20172",
    "title": "Senior AI Engineer",
    "company": "Moderna",
@@ -909,37 +1294,6 @@
    "tags": [],
    "exp_years": 8,
    "exp_text": "…scipline. Typically requires 8 years of experience in UX, product design, service design, user research, in",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "id": "wd-zoetis-JR00022012",
-   "title": "AI Assistant Development Intern",
-   "company": "Zoetis",
-   "domain": "Pharma",
-   "location": "Parsippany",
-   "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/AI-Assistant-Development-Intern_JR00022012-1",
-   "posted": "2026-11-09",
-   "tags": [
-    "Intern"
-   ],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "id": "wd-zoetis-JR00022013",
-   "title": "AI Acceleration Intern - AI Development Lifecycle",
-   "company": "Zoetis",
-   "domain": "Pharma",
-   "location": "US Remote",
-   "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/US-Remote/AI-Acceleration-Intern---AI-Development-Lifecycle_JR00022013-2",
-   "posted": "2026-11-09",
-   "tags": [
-    "Intern",
-    "Remote"
-   ],
-   "exp_years": null,
-   "exp_text": "",
    "first_seen": "2026-11-10"
   },
   {
@@ -979,19 +1333,6 @@
    "tags": [],
    "exp_years": 10,
    "exp_text": "…tics, or related field. 10+ years of experience in life sciences or healthcare with deep expertise in ep",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "id": "wd-astrazeneca-R-263822",
-   "title": "Director, AI for Clinical Intelligence & Evidence Lung, Head & Neck",
-   "company": "AstraZeneca",
-   "domain": "Pharma",
-   "location": "US - Gaithersburg - MD",
-   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Director--AI-for-Clinical-Intelligence---Evidence-Lung--Head---Neck_R-263822",
-   "posted": "2026-11-09",
-   "tags": [],
-   "exp_years": 5,
-   "exp_text": "…to evidence generation. 5+ years of experience in evidence generation, RWE, health outcomes research, o",
    "first_seen": "2026-11-09"
   },
   {
@@ -1391,19 +1732,6 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "gh-6236212004",
-   "title": "Lead Bioinformatics & Machine Learning Scientist (Epigenomics)",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6236212004",
-   "posted": "2026-11-05",
-   "tags": [],
-   "exp_years": 4,
-   "exp_text": "…ated quantitative field, with 4 to 8+ years of post-PhD experience",
-   "first_seen": "2026-11-06"
-  },
-  {
    "id": "gh-6233380004",
    "title": "Lead Bioinformatics & Machine Learning Scientist (Epigenomics)",
    "company": "Natera",
@@ -1414,6 +1742,19 @@
    "tags": [
     "Remote"
    ],
+   "exp_years": 4,
+   "exp_text": "…ated quantitative field, with 4 to 8+ years of post-PhD experience",
+   "first_seen": "2026-11-06"
+  },
+  {
+   "id": "gh-6236212004",
+   "title": "Lead Bioinformatics & Machine Learning Scientist (Epigenomics)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6236212004",
+   "posted": "2026-11-05",
+   "tags": [],
    "exp_years": 4,
    "exp_text": "…ated quantitative field, with 4 to 8+ years of post-PhD experience",
    "first_seen": "2026-11-06"
@@ -1737,19 +2078,6 @@
    "first_seen": "2026-11-05"
   },
   {
-   "id": "gh-6250248004",
-   "title": "Lead Bioinformatics & Machine Learning Scientist",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6250248004",
-   "posted": "2026-11-04",
-   "tags": [],
-   "exp_years": 4,
-   "exp_text": "…is on cancer epi/genomics and 4 to 8+ years of experience post-PhD",
-   "first_seen": "2026-11-05"
-  },
-  {
    "id": "gh-6239427004",
    "title": "Lead Bioinformatics & Machine Learning Scientist",
    "company": "Natera",
@@ -1760,6 +2088,19 @@
    "tags": [
     "Remote"
    ],
+   "exp_years": 4,
+   "exp_text": "…is on cancer epi/genomics and 4 to 8+ years of experience post-PhD",
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "gh-6250248004",
+   "title": "Lead Bioinformatics & Machine Learning Scientist",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6250248004",
+   "posted": "2026-11-04",
+   "tags": [],
    "exp_years": 4,
    "exp_text": "…is on cancer epi/genomics and 4 to 8+ years of experience post-PhD",
    "first_seen": "2026-11-05"
@@ -1952,19 +2293,6 @@
    ],
    "exp_years": 2,
    "exp_text": "…cular and cellular biology. 2+ years of post PhD experience for Scientist position",
-   "first_seen": "2026-11-04"
-  },
-  {
-   "id": "wd-astrazeneca-R-263350",
-   "title": "AI Research Scientist",
-   "company": "AstraZeneca",
-   "domain": "Pharma",
-   "location": "US - Cambridge Kendall SQ - MA",
-   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/AI-Research-Scientist_R-263350",
-   "posted": "2026-11-03",
-   "tags": [],
-   "exp_years": null,
-   "exp_text": "",
    "first_seen": "2026-11-04"
   },
   {
@@ -2306,19 +2634,6 @@
    "first_seen": "2026-10-31"
   },
   {
-   "id": "ph-94553",
-   "title": "DT Lead - Commercial Data Engineering & Data Product",
-   "company": "UCB",
-   "domain": "Pharma",
-   "location": "Atlanta, Georgia, United States",
-   "url": "https://careers.ucb.com/global/en/job/94553",
-   "posted": "2026-10-30",
-   "tags": [],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-11-09"
-  },
-  {
    "id": "gh-4469152009",
    "title": "Co-Op, AI-Driven Equation Discovery",
    "company": "Lila Sciences",
@@ -2385,19 +2700,6 @@
    "tags": [],
    "exp_years": 4,
    "exp_text": "…lated quantitative field with 4+ years of relevant academic and/or industry experience",
-   "first_seen": "2026-10-31"
-  },
-  {
-   "id": "wd-bristolmyerssquibb-R1607892",
-   "title": "Principal Scientist, Statistical Genetics",
-   "company": "Bristol Myers Squibb",
-   "domain": "Pharma",
-   "location": "Cambridge Crossing - MA - US",
-   "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Cambridge-Crossing---MA---US/Principal-Scientist--Statistical-Genetics_R1607892",
-   "posted": "2026-10-30",
-   "tags": [],
-   "exp_years": 4,
-   "exp_text": "…ustry experience Or PhD with 4+ years of academic / industry experience",
    "first_seen": "2026-10-31"
   },
   {
@@ -2546,19 +2848,6 @@
    "first_seen": "2026-10-30"
   },
   {
-   "id": "wd-novartis-REQ-10090645",
-   "title": "Senior Director, Data & AI Products & Solutions",
-   "company": "Novartis",
-   "domain": "Pharma",
-   "location": "East Hanover",
-   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/East-Hanover/Senior-Director--DDIT-US-I-DSAI-Data-Products-Management_REQ-10090645",
-   "posted": "2026-10-29",
-   "tags": [],
-   "exp_years": 15,
-   "exp_text": "…uantitative discipline. · 15+ years of progressive experience across data products, analytics, and Artific",
-   "first_seen": "2026-10-30"
-  },
-  {
    "id": "wd-jj-R-107077",
    "title": "Principal Data Scientist – DDSAI GD",
    "company": "Johnson & Johnson",
@@ -2683,19 +2972,6 @@
    "first_seen": "2026-11-10"
   },
   {
-   "id": "gh-6233175004",
-   "title": "Manager of Bioinformatics (Oncology Product Development)",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6233175004",
-   "posted": "2026-10-28",
-   "tags": [],
-   "exp_years": 1,
-   "exp_text": "…nd/or bioinformatics role and 1-3 years of experience as technical lead in diagnostics or a related field",
-   "first_seen": "2026-10-29"
-  },
-  {
    "id": "gh-6229298004",
    "title": "Manager of Bioinformatics (Oncology Product Development)",
    "company": "Natera",
@@ -2706,6 +2982,19 @@
    "tags": [
     "Remote"
    ],
+   "exp_years": 1,
+   "exp_text": "…nd/or bioinformatics role and 1-3 years of experience as technical lead in diagnostics or a related field",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "gh-6233175004",
+   "title": "Manager of Bioinformatics (Oncology Product Development)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6233175004",
+   "posted": "2026-10-28",
+   "tags": [],
    "exp_years": 1,
    "exp_text": "…nd/or bioinformatics role and 1-3 years of experience as technical lead in diagnostics or a related field",
    "first_seen": "2026-10-29"
@@ -2776,36 +3065,6 @@
    "first_seen": "2026-10-29"
   },
   {
-   "id": "wd-regeneron-R52560",
-   "title": "2027 Summer Intern AI/ML & Data Engineering",
-   "company": "Regeneron",
-   "domain": "Pharma",
-   "location": "TARRYTOWN · SLEEPY HOLLOW · Warren · Armonk · Cambridge",
-   "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-AI-ML---Data-Engineering_R52560-1",
-   "posted": "2026-10-28",
-   "tags": [
-    "Intern"
-   ],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-29"
-  },
-  {
-   "id": "wd-regeneron-R52557",
-   "title": "2027 Summer Intern Genomics, Computational Biology & Translational Data Science",
-   "company": "Regeneron",
-   "domain": "Pharma",
-   "location": "TARRYTOWN · SLEEPY HOLLOW",
-   "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Genomics--Computational-Biology---Translational-Data-Science_R52557-1",
-   "posted": "2026-10-28",
-   "tags": [
-    "Intern"
-   ],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-29"
-  },
-  {
    "id": "ab-a69ed52b-e2c4-4328-900e-bc5a1bec2a82",
    "title": "Ambulatory AI Specialist, East Coast",
    "company": "Commure",
@@ -2817,19 +3076,6 @@
    "exp_years": 3,
    "exp_text": "…of B2B sales experience, with 3+ years selling SaaS, AI, or tech-enabled services into ambulatory healthcare",
    "first_seen": "2026-10-29"
-  },
-  {
-   "id": "wd-astrazeneca-R-262977",
-   "title": "Director of AI Research, AI for Oncology Clinical Development",
-   "company": "AstraZeneca",
-   "domain": "Pharma",
-   "location": "US - Cambridge Kendall SQ - MA",
-   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Director-of-AI-Research--AI-for-Oncology-Clinical-Development_R-262977",
-   "posted": "2026-10-28",
-   "tags": [],
-   "exp_years": 4,
-   "exp_text": "…euroscience, biostatistics • 4-8 years’ work experience outside of PhD with measurable impact (e",
-   "first_seen": "2026-10-28"
   },
   {
    "id": "wd-zoetis-JR00021930",
@@ -2845,22 +3091,6 @@
    "exp_years": 5,
    "exp_text": "…or a related field required. 5+ years of experience in IT, information security, cybersecurity, or a related",
    "first_seen": "2026-10-28"
-  },
-  {
-   "id": "wd-philips-593012",
-   "title": "Intern - AI & Analytics Analyst - Nashville, TN - Spring 2027",
-   "company": "Philips",
-   "domain": "Medical Imaging AI",
-   "location": "Nashville, Tennessee, United States",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012",
-   "posted": "2026-10-28",
-   "tags": [
-    "Imaging",
-    "Intern"
-   ],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-23"
   },
   {
    "id": "wd-dexcom-JR120097",
@@ -3092,19 +3322,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "ph-94188",
-   "title": "AI and Data Literacy Lead (US)",
-   "company": "UCB",
-   "domain": "Pharma",
-   "location": "Atlanta, Georgia, United States",
-   "url": "https://careers.ucb.com/global/en/job/94188",
-   "posted": "2026-10-26",
-   "tags": [],
-   "exp_years": 6,
-   "exp_text": "…qualification is preferred. 6+ years of experience in data, analytics, digital transformation, learning, ch",
-   "first_seen": "2026-11-10"
-  },
-  {
    "id": "ph-94499",
    "title": "Senior Manager, Go-to-Market Data Science",
    "company": "UCB",
@@ -3215,19 +3432,6 @@
    "tags": [
     "Remote"
    ],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-gsk-448761",
-   "title": "Director Product Management, Digital & Growth AI Tech",
-   "company": "GSK",
-   "domain": "Pharma",
-   "location": "USA - Pennsylvania - Philadelphia · Durham Blackwell Street",
-   "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/USA---Pennsylvania---Philadelphia/Dir-Product-Manager--Digital---Growth-AI-Tech_448761",
-   "posted": "2026-10-26",
-   "tags": [],
    "exp_years": null,
    "exp_text": "",
    "first_seen": "2026-10-23"
@@ -3497,19 +3701,6 @@
    "tags": [],
    "exp_years": 10,
    "exp_text": "…s. The ideal candidate brings 10+ years of progressive experience in enterprise data engineering, architecture",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "wd-illumina-43591-JOB",
-   "title": "Senior Bioinformatics Engineer",
-   "company": "Illumina",
-   "domain": "Genomics / Diagnostics",
-   "location": "US - California - San Diego",
-   "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Senior-Bioinformatics-Engineer_43591-JOB-1",
-   "posted": "2026-10-22",
-   "tags": [],
-   "exp_years": 5,
-   "exp_text": "…pically requires a minimum of 5 years of related experience with a Bachelor’s degree",
    "first_seen": "2026-10-23"
   },
   {
@@ -3926,6 +4117,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "az-10583320",
+   "title": "Software Dev Engineer II, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10583320/software-dev-engineer-ii-aws-healthcare-ai",
+   "posted": "2026-10-19",
+   "tags": [],
+   "exp_years": 1,
+   "exp_text": "…ting systems experience<br/>- 1+ years of software development engineer or related occupational experience<br",
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "ph-R18165",
    "title": "Clinical Development Data Science Intern",
    "company": "Genmab",
@@ -4125,19 +4329,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "wd-abbott-31164461",
-   "title": "Staff Product Manager - Enterprise AI/Agentic Solutions",
-   "company": "Abbott",
-   "domain": "MedTech",
-   "location": "United States - Illinois - Abbott Park · United States > Chicago : Willis Tower Building 233 S Wacker Dr.",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Staff-Product-Manager---Enterprise-AI-Agentic-Solutions_31164461",
-   "posted": "2026-10-16",
-   "tags": [],
-   "exp_years": 5,
-   "exp_text": "…Required Qualifications 5–8 years of product management experience, in shipping production AI and ML pro",
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "gh-4423490009",
    "title": "Manager / Senior Manager, AI Safety Data and Evaluation Program",
    "company": "Lila Sciences",
@@ -4231,19 +4422,6 @@
    "tags": [],
    "exp_years": 8,
    "exp_text": "…ed Qualifications • 8–10+ years of product management experience, including managing platform, infrast",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "ab-ef398821-8ee9-4f7c-824b-fac83d0a3023",
-   "title": "Senior Engineering Manager, AI Accounting & Ledger Systems",
-   "company": "Commure",
-   "domain": "Clinical AI",
-   "location": "Mountain View, CA · Los Angeles, CA · San Francisco, CA",
-   "url": "https://jobs.ashbyhq.com/Commure/ef398821-8ee9-4f7c-824b-fac83d0a3023",
-   "posted": "2026-10-16",
-   "tags": [],
-   "exp_years": null,
-   "exp_text": "",
    "first_seen": "2026-10-23"
   },
   {
@@ -4528,19 +4706,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "wd-abbott-31164091",
-   "title": "Legal/OEC AI Technology Manager",
-   "company": "Abbott",
-   "domain": "MedTech",
-   "location": "United States - Illinois - Abbott Park",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Legal-OEC-AI-Technology-Manager_31164091-1",
-   "posted": "2026-10-13",
-   "tags": [],
-   "exp_years": 8,
-   "exp_text": "…Science, or related field. • 8+ years of experience in legal operations, legal technology, digital transform",
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "wd-roche-202610-125995",
    "title": "Senior Director, Data Management & Analytical Data Science Solutions",
    "company": "Genentech",
@@ -4741,6 +4906,19 @@
    "first_seen": "2026-10-21"
   },
   {
+   "id": "az-10575360",
+   "title": "Software Dev Engineer II, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10575360/software-dev-engineer-ii-aws-healthcare-ai",
+   "posted": "2026-10-10",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…development experience<br/>- 2+ years of non-internship design or architecture (design patterns, reliability",
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "wd-zoetis-JR00021759",
    "title": "Summer Intern – Pharmacogenomics Data Science & Genomic Prediction (VMRD)",
    "company": "Zoetis",
@@ -4821,19 +4999,6 @@
    "exp_years": null,
    "exp_text": "",
    "first_seen": "2026-10-21"
-  },
-  {
-   "id": "ph-R18077",
-   "title": "Senior Manager, Databricks & Enterprise AI/BI Platform",
-   "company": "Genmab",
-   "domain": "Pharma",
-   "location": "Princeton, New Jersey, United States of America",
-   "url": "https://careers.genmab.com/global/en/job/R18077",
-   "posted": "2026-10-08",
-   "tags": [],
-   "exp_years": 3,
-   "exp_text": "…or related technical roles. 3+ years of experience administering or operating enterprise-scale analytics or",
-   "first_seen": "2026-11-08"
   },
   {
    "id": "wd-amgen-R-257593",
@@ -5498,19 +5663,6 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "wd-abbott-31161754",
-   "title": "Sr. Bioinformatics Scientist",
-   "company": "Abbott",
-   "domain": "MedTech",
-   "location": "United States - California - La Jolla",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---La-Jolla/Sr-Bioinformatics-Scientist_31161754-1",
-   "posted": "2026-09-29",
-   "tags": [],
-   "exp_years": 3,
-   "exp_text": "…xperience in bioinformatics. 3+ years of experience in medical device/IVD, biotech, life science or pharmace",
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "wd-abbott-31162696",
    "title": "Generative Search Strategist",
    "company": "Abbott",
@@ -5765,19 +5917,6 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "wd-abbott-31162586",
-   "title": "Staff Bioinformatics Scientist",
-   "company": "Abbott",
-   "domain": "MedTech",
-   "location": "United States - California - La Jolla",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---La-Jolla/Staff-Bioinformatics-Scientist_31162586-1",
-   "posted": "2026-09-22",
-   "tags": [],
-   "exp_years": 2,
-   "exp_text": "…for a team of scientists. 2+ years of direct people leadership and management experience",
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "gh-8807767002",
    "title": "Staff Product Manager, AI Product",
    "company": "PathAI",
@@ -5861,6 +6000,19 @@
    "first_seen": "2026-10-23"
   },
   {
+   "id": "az-10553626",
+   "title": "Senior Applied Scientist, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10553626/senior-applied-scientist-aws-healthcare-ai",
+   "posted": "2026-09-18",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…ied research experience<br/>- 3+ years of building machine learning models for business application experienc",
+   "first_seen": "2026-11-12"
+  },
+  {
    "id": "wd-jj-R-099962",
    "title": "Senior Machine Learning Engineer, Biologics Discovery",
    "company": "Johnson & Johnson",
@@ -5942,19 +6094,6 @@
    "exp_years": 5,
    "exp_text": "…t You Bring to the Team 5+ years of experience in applied AI/ML, software/ML engineering, or data scien",
    "first_seen": "2026-10-21"
-  },
-  {
-   "id": "wd-regeneron-R50609",
-   "title": "Executive Director: Data Management, Analytics, AI & Architecture",
-   "company": "Regeneron",
-   "domain": "Pharma",
-   "location": "Warren · SLEEPY HOLLOW · TARRYTOWN · Armonk",
-   "url": "https://regeneron.wd1.myworkdayjobs.com/Careers/job/Warren/Executive-Director--Data-Management--Analytics--AI---Architecture_R50609",
-   "posted": "2026-09-17",
-   "tags": [],
-   "exp_years": 17,
-   "exp_text": "…aster’s degree preferred). 17+ years of experience in product ownership or management roles, with a focus o",
-   "first_seen": "2026-10-23"
   },
   {
    "id": "wd-roche-202609-123434",
@@ -6453,6 +6592,19 @@
    "exp_years": 4,
    "exp_text": "…ments, you must have at least 4 years experience directly managing people and/or leadership experience leadi",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "az-10529051",
+   "title": "Revenue Cycle Analyst, AI & Process Innovation, Healthcare Finance Operations",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Arlington, Virginia, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10529051/revenue-cycle-analyst-ai-process-innovation-healthcare-finance-operations",
+   "posted": "2026-09-03",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "- 3+ years of tax, finance or a related analytical field experience<br/>- 3+ year",
+   "first_seen": "2026-11-12"
   },
   {
    "id": "wd-onehealthineers-R-29578",
@@ -7603,16 +7755,16 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "ab-727c0ce9-7d3b-43fe-8d00-05255f094db5",
-   "title": "Software Engineer, AI Billing",
-   "company": "Commure",
-   "domain": "Clinical AI",
-   "location": "Mountain View, CA",
-   "url": "https://jobs.ashbyhq.com/Commure/727c0ce9-7d3b-43fe-8d00-05255f094db5",
-   "posted": "2026-07-29",
+   "id": "az-10485451",
+   "title": "Sr. PMT - ES, Healthcare AI, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10485451/sr-pmt-es-healthcare-ai-aws-healthcare-ai",
+   "posted": "2026-07-28",
    "tags": [],
-   "exp_years": 3,
-   "exp_text": "…and staff What You Have - 3+ years of professional software development experience, with a focus on build",
+   "exp_years": 5,
+   "exp_text": "- 5+ years of working as a Technical Product Manager experience<br/>- Experience",
    "first_seen": "2026-10-23"
   },
   {
@@ -7622,19 +7774,6 @@
    "domain": "Big Tech / AI Lab",
    "location": "Seattle, Washington, USA",
    "url": "https://www.amazon.jobs/en/jobs/10485452/sr-pmt-es-healthcare-ai-aws-healthcare-ai",
-   "posted": "2026-07-28",
-   "tags": [],
-   "exp_years": 5,
-   "exp_text": "- 5+ years of working as a Technical Product Manager experience<br/>- Experience",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "az-10485451",
-   "title": "Sr. PMT - ES, Healthcare AI, AWS Healthcare AI",
-   "company": "Amazon / AWS (Health & Life Sciences)",
-   "domain": "Big Tech / AI Lab",
-   "location": "Seattle, Washington, USA",
-   "url": "https://www.amazon.jobs/en/jobs/10485451/sr-pmt-es-healthcare-ai-aws-healthcare-ai",
    "posted": "2026-07-28",
    "tags": [],
    "exp_years": 5,
@@ -7824,6 +7963,19 @@
    "exp_years": 6,
    "exp_text": "…Biology, or Bioinformatics. 6+ years of postdoc or post-PhD industry experience achieving impactful results",
    "first_seen": "2026-10-21"
+  },
+  {
+   "id": "az-10475859",
+   "title": "Software Dev Engineer II, AWS Healthcare AI",
+   "company": "Amazon / AWS (Health & Life Sciences)",
+   "domain": "Big Tech / AI Lab",
+   "location": "Seattle, Washington, USA",
+   "url": "https://www.amazon.jobs/en/jobs/10475859/software-dev-engineer-ii-aws-healthcare-ai",
+   "posted": "2026-07-15",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…development experience<br/>- 2+ years of non-internship design or architecture (design patterns, reliability",
+   "first_seen": "2026-11-12"
   },
   {
    "id": "wd-roche-202607-118035",
@@ -8572,21 +8724,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "gh-4666587006",
-   "title": "Staff Data Engineer",
-   "company": "Iterative Health",
-   "domain": "Medical Imaging AI",
-   "location": "Cambridge, Massachusetts, United States, New York, New York, United States",
-   "url": "https://job-boards.greenhouse.io/iterativehealth/jobs/4666587006",
-   "posted": "2026-04-24",
-   "tags": [
-    "Imaging"
-   ],
-   "exp_years": 10,
-   "exp_text": "…Required Qualifications 10+ years of experience in data engineering or related roles, with significant t",
-   "first_seen": "2026-10-21"
-  },
-  {
    "id": "ap-200658941",
    "title": "Biomedical Research Engineer",
    "company": "Apple (Health)",
@@ -8628,12 +8765,12 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "gh-7747522",
+   "id": "gh-7793658",
    "title": "Machine Learning Engineer, AI",
    "company": "CZ Biohub",
    "domain": "Research Institute",
-   "location": "New York, NY (Hybrid)",
-   "url": "https://job-boards.greenhouse.io/biohub/jobs/7747522",
+   "location": "Redwood City, CA (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/7793658",
    "posted": "2026-04-08",
    "tags": [],
    "exp_years": null,
@@ -8641,12 +8778,12 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "gh-7793658",
+   "id": "gh-7747522",
    "title": "Machine Learning Engineer, AI",
    "company": "CZ Biohub",
    "domain": "Research Institute",
-   "location": "Redwood City, CA (Hybrid)",
-   "url": "https://job-boards.greenhouse.io/biohub/jobs/7793658",
+   "location": "New York, NY (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/7747522",
    "posted": "2026-04-08",
    "tags": [],
    "exp_years": null,
