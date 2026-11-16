@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T15:08Z",
- "count": 674,
+ "updated": "2026-11-16T15:10Z",
+ "count": 671,
  "companies": [
   "Abbott",
   "Abridge",
@@ -126,6 +126,114 @@
  ],
  "errors": {},
  "jobs": [
+  {
+   "id": "wd-danaher-R1322201",
+   "title": "Principle, AI Diagnostics Portfolio Orchestration",
+   "company": "Danaher",
+   "domain": "Life Science Tools",
+   "location": "Deer Park, Illinois, United States",
+   "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Deer-Park-Illinois-United-States/Principle--AI-Diagnostics-Portfolio-Orchestration_R1322201",
+   "posted": "2026-11-16",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…or a related field At least five (5) years of product management experience in diagnostics, biomedical, or relate",
+   "first_seen": "2026-11-16"
+  },
+  {
+   "id": "wd-lilly-R-105948",
+   "title": "Applied AI Engineer, Clinical Informatics",
+   "company": "Eli Lilly",
+   "domain": "Pharma",
+   "location": "US, Boston MA · US: Indianapolis IN Corporate Center",
+   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Boston-MA/Applied-AI-Engineer--Clinical-Informatics_R-105948",
+   "posted": "2026-11-16",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…anslational data science with 3+ years of research experience working with clinical trial datasets (SDTM/ADaM",
+   "first_seen": "2026-11-16"
+  },
+  {
+   "id": "sf-1450895300",
+   "title": "AI Acceleration Intern",
+   "company": "Boston Scientific",
+   "domain": "MedTech",
+   "location": "Marlborough, MA, US, 01752",
+   "url": "https://jobs.bostonscientific.com/job/Marlborough-AI-Acceleration-Intern-MA-01752/1450895300/",
+   "posted": "2026-11-16",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-16"
+  },
+  {
+   "id": "sf-1450894800",
+   "title": "AI Engineering Intern (Generative & Agentic AI)",
+   "company": "Boston Scientific",
+   "domain": "MedTech",
+   "location": "Marlborough, MA, US, 01752",
+   "url": "https://jobs.bostonscientific.com/job/Marlborough-AI-Engineering-Intern-%28Generative-&amp;-Agentic-AI%29-MA-01752/1450894800/",
+   "posted": "2026-11-16",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": 1,
+   "exp_text": "…Intelligence Development. 1–2 years of hands-on Python development experience , including writing scripts,",
+   "first_seen": "2026-11-16"
+  },
+  {
+   "id": "wd-modernatx-R19931",
+   "title": "Sr. Director, Translational Bioinformatics",
+   "company": "Moderna",
+   "domain": "Pharma",
+   "location": "Cambridge, Massachusetts · Research",
+   "url": "https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Sr-Director--Translational-Bioinformatics_R19931",
+   "posted": "2026-11-16",
+   "tags": [],
+   "exp_years": 11,
+   "exp_text": "…or a related discipline, plus 11+ years of relevant biotech/pharma or other directly relevant experience",
+   "first_seen": "2026-11-16"
+  },
+  {
+   "id": "sf-1417644200",
+   "title": "Senior AI Solution Architect",
+   "company": "Boston Scientific",
+   "domain": "MedTech",
+   "location": "Marlborough, MA, US, 01752",
+   "url": "https://jobs.bostonscientific.com/job/Marlborough-Senior-AI-Solution-Architect-MA-01752/1417644200/",
+   "posted": "2026-11-16",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…chnical field. Minimum of 5 years' experience in solution architecture, software architecture or AI/ML en",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "wd-jj-R-093873",
+   "title": "Director, AI Strategy & Transformation",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "New Brunswick, New Jersey, United States of America · Horsham, Pennsylvania, United States of America · Cambridge, Massachusetts, United States of America · Raritan, New Jersey, United States of America · Spring House, Pennsylvania, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Director--AI-Strategy---Transformation_R-093873-1",
+   "posted": "2026-11-15",
+   "tags": [],
+   "exp_years": 10,
+   "exp_text": "…usiness degree preferred 10+ years of experience in management consulting, corporate strategy, enterprise",
+   "first_seen": "2026-11-16"
+  },
+  {
+   "id": "wd-abbott-31167164",
+   "title": "Associate Director, Global Data Science & Analytics",
+   "company": "Abbott",
+   "domain": "MedTech",
+   "location": "United States - California - Santa Clara",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Santa-Clara/Associate-Director--Global-Data-Science---Analytics_31167164-1",
+   "posted": "2026-11-15",
+   "tags": [],
+   "exp_years": 10,
+   "exp_text": "…ucation/Training Ph.D. and 10+ years of experience or MS and 15+ years of experience in biomedical engineer",
+   "first_seen": "2026-11-16"
+  },
   {
    "id": "wd-lilly-R-114733",
    "title": "Physical AI Engineer - Lilly Medicine Foundry",
@@ -284,19 +392,6 @@
    "tags": [
     "Intern"
    ],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-11-14"
-  },
-  {
-   "id": "wd-sanofi-R2854337",
-   "title": "2027 Spring Co op Biologics Design and AI Cambridge MA",
-   "company": "Sanofi",
-   "domain": "Pharma",
-   "location": "Cambridge, MA",
-   "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Biologics-Design-and-AI-Cambridge-MA_R2854337",
-   "posted": "2026-11-13",
-   "tags": [],
    "exp_years": null,
    "exp_text": "",
    "first_seen": "2026-11-14"
@@ -717,19 +812,6 @@
    "first_seen": "2026-11-13"
   },
   {
-   "id": "gg-81089096687985350",
-   "title": "Forward Deployed Engineer III, Generative AI, Google Cloud, Healthcare",
-   "company": "Google / DeepMind (Health & Bio)",
-   "domain": "Big Tech / AI Lab",
-   "location": "Chicago, IL, USA · New York, NY, USA",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/81089096687985350-forward-deployed-engineer-iii-generative-ai-google-cloud-healthcare",
-   "posted": "2026-11-12",
-   "tags": [],
-   "exp_years": 5,
-   "exp_text": "…lent practical experience. 5 years of experience with software development using Python or similar coding",
-   "first_seen": "2026-11-13"
-  },
-  {
    "id": "ab-3380135f-ab20-44a4-b73f-8378ed40e1be",
    "title": "Software Engineer, Claims & AI Billing",
    "company": "Commure",
@@ -1146,19 +1228,6 @@
    "first_seen": "2026-11-15"
   },
   {
-   "id": "wd-medtronic-R79707",
-   "title": "Sr HR AI Specialist - On-Site, Minneapolis, MN",
-   "company": "Medtronic",
-   "domain": "MedTech",
-   "location": "Minneapolis, Minnesota, United States of America",
-   "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Sr-HR-AI-Specialist---On-Site--Minneapolis--MN_R79707-1",
-   "posted": "2026-11-10",
-   "tags": [],
-   "exp_years": 4,
-   "exp_text": "…a related technical field and 4+ years of technical business analysis experience, including experience design",
-   "first_seen": "2026-11-15"
-  },
-  {
    "id": "gh-4455701009",
    "title": "ML Research Engineer, Performance Optimization",
    "company": "Lila Sciences",
@@ -1279,19 +1348,6 @@
    ],
    "exp_years": null,
    "exp_text": "",
-   "first_seen": "2026-11-11"
-  },
-  {
-   "id": "wd-roche-202609-122461",
-   "title": "Senior Data Scientist, Gen AI Application",
-   "company": "Genentech",
-   "domain": "Pharma",
-   "location": "South San Francisco",
-   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Data-Scientist--Gen-AI-Application_202609-122461-1",
-   "posted": "2026-11-10",
-   "tags": [],
-   "exp_years": 3,
-   "exp_text": "…and education ( ex: Masters + 3 years work experience)",
    "first_seen": "2026-11-11"
   },
   {
@@ -1572,19 +1628,6 @@
    "first_seen": "2026-11-15"
   },
   {
-   "id": "wd-jj-R-096020",
-   "title": "Senior Manager, Data Science",
-   "company": "Johnson & Johnson",
-   "domain": "Pharma",
-   "location": "Raynham, Massachusetts, United States of America · West Chester, Pennsylvania, United States of America · Palm Beach Gardens, Florida, United States of America · Warsaw, Indiana, United States of America · Raritan, New Jersey, United States of America",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raynham-Massachusetts-United-States-of-America/Senior-Manager--Data-Science_R-096020-1",
-   "posted": "2026-11-09",
-   "tags": [],
-   "exp_years": 6,
-   "exp_text": "…Required: Typically, 6-8 years of progressive experience in data science, advanced analytics, machine",
-   "first_seen": "2026-11-15"
-  },
-  {
    "id": "wd-jj-R-108708",
    "title": "Staff AI/ML Software Engineer – Navigation R&D",
    "company": "Johnson & Johnson",
@@ -1621,19 +1664,6 @@
    "tags": [],
    "exp_years": 10,
    "exp_text": "…aster’s degree is preferred. 10+ years of relevant experience in digital product management, commercial techn",
-   "first_seen": "2026-11-15"
-  },
-  {
-   "id": "wd-medtronic-R80361",
-   "title": "Sr. Program Manager - Clinical Software and AI",
-   "company": "Medtronic",
-   "domain": "MedTech",
-   "location": "Lafayette, Colorado, United States of America",
-   "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Sr-Program-Manager---Clinical-Software-and-AI_R80361-2",
-   "posted": "2026-11-09",
-   "tags": [],
-   "exp_years": 5,
-   "exp_text": "…nced degree with a minimum of 5 years of relevant experience",
    "first_seen": "2026-11-15"
   },
   {
@@ -1692,19 +1722,6 @@
    ],
    "exp_years": 3,
    "exp_text": "…· PhD, Master’s with 3–5 years, or Bachelor’s with 4–7 years experience with a degree in Computer Sc",
-   "first_seen": "2026-11-10"
-  },
-  {
-   "id": "wd-astrazeneca-R-263824",
-   "title": "Director, Genomics & ctDNA Bioinformatics",
-   "company": "AstraZeneca",
-   "domain": "Pharma",
-   "location": "US - Cambridge Kendall SQ - MA",
-   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Director--Genomics---ctDNA-Bioinformatics_R-263824-1",
-   "posted": "2026-11-09",
-   "tags": [],
-   "exp_years": 7,
-   "exp_text": "…Minimum Qualifications: 7+ years of experience in bioinformatics, computational biology, genomics, biom",
    "first_seen": "2026-11-10"
   },
   {
@@ -2397,19 +2414,6 @@
    "first_seen": "2026-11-15"
   },
   {
-   "id": "wd-msd-R424180",
-   "title": "AI and Data Science Product Manager",
-   "company": "Merck (MSD)",
-   "domain": "Pharma",
-   "location": "USA - Pennsylvania - West Point · USA - New Jersey - Rahway · USA - Massachusetts - Cambridge (320 Bent Street)",
-   "url": "https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/AI-and-Data-Science-Product-Manager_R424180-1",
-   "posted": "2026-11-04",
-   "tags": [],
-   "exp_years": 3,
-   "exp_text": "…Minimum Requirements: 3+ years of professional experience in data science, AI/ML Engineering, Agentic",
-   "first_seen": "2026-11-15"
-  },
-  {
    "id": "wd-abbott-31162158",
    "title": "Staff Data Engineer",
    "company": "Abbott",
@@ -2730,21 +2734,6 @@
    "tags": [],
    "exp_years": 10,
    "exp_text": "…ion Typically requires 10+ years of related experience with a Bachelor’s degree",
-   "first_seen": "2026-11-15"
-  },
-  {
-   "id": "wd-medtronic-R71962",
-   "title": "Principal Algorithm Engineer – Imaging / Ultrasound (ML)",
-   "company": "Medtronic",
-   "domain": "MedTech",
-   "location": "Newton, Massachusetts, United States of America · Mounds View, Minnesota, United States of America",
-   "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Newton-Massachusetts-United-States-of-America/Principal-Algorithm-Engineer---Imaging---Ultrasound--ML-_R71962",
-   "posted": "2026-11-02",
-   "tags": [
-    "Imaging"
-   ],
-   "exp_years": 3,
-   "exp_text": "…OR PhD with 3 years relevant experience",
    "first_seen": "2026-11-15"
   },
   {
@@ -3449,19 +3438,6 @@
    "exp_years": 8,
    "exp_text": "…esearch and industry impact. Eight years of experience in original research and technical impact, demonstrated",
    "first_seen": "2026-10-21"
-  },
-  {
-   "id": "ph-94188",
-   "title": "AI and Data Literacy Lead (US)",
-   "company": "UCB",
-   "domain": "Pharma",
-   "location": "Atlanta, Georgia, United States",
-   "url": "https://careers.ucb.com/global/en/job/94188",
-   "posted": "2026-10-26",
-   "tags": [],
-   "exp_years": 6,
-   "exp_text": "…qualification is preferred. 6+ years of experience in data, analytics, digital transformation, learning, ch",
-   "first_seen": "2026-11-15"
   },
   {
    "id": "wd-bristolmyerssquibb-R1606641",
@@ -4311,19 +4287,6 @@
    "exp_years": 6,
    "exp_text": "…mia, CRO, biotech or Pharma). 6+ years of experience preferably in a lead role overseeing ADME/DMPK project s",
    "first_seen": "2026-10-21"
-  },
-  {
-   "id": "sf-1417644200",
-   "title": "Senior AI Solution Architect",
-   "company": "Boston Scientific",
-   "domain": "MedTech",
-   "location": "Marlborough, MA, US, 01752",
-   "url": "https://jobs.bostonscientific.com/job/Marlborough-Senior-AI-Solution-Architect-MA-01752/1417644200/",
-   "posted": "2026-10-18",
-   "tags": [],
-   "exp_years": 5,
-   "exp_text": "…chnical field. Minimum of 5 years' experience in solution architecture, software architecture or AI/ML en",
-   "first_seen": "2026-10-23"
   },
   {
    "id": "wd-roche-202608-120343",
