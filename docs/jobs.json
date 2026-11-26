@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T15:11Z",
- "count": 704,
+ "updated": "2026-11-26T15:09Z",
+ "count": 713,
  "companies": [
   "Abbott",
   "Abridge",
@@ -127,6 +127,243 @@
  "errors": {},
  "jobs": [
   {
+   "id": "gh-4477299009",
+   "title": "ML Scientist, Retrieval & RAG for Scientific Literature",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA; San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4477299009",
+   "posted": "2026-11-25",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "gh-4477297009",
+   "title": "Scientist II/ Senior ML Scientist, Multimodal Scientific Data Extraction & Understanding",
+   "company": "Lila Sciences",
+   "domain": "AI for Science",
+   "location": "Cambridge, MA USA; San Francisco, CA USA",
+   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4477297009",
+   "posted": "2026-11-25",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…r a related field, plus about 2 to 4 years of post-PhD experience, or equivalent",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "wd-pfizer-4968300",
+   "title": "Director, AIA – Commercial Agentic Data Stewardship Lead",
+   "company": "Pfizer",
+   "domain": "Pharma",
+   "location": "United States - New York - New York City · Europe - Any Pfizer Site · North America - Any Pfizer Site",
+   "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Director--AIA---Commercial-Agentic-Data-Stewardship-Lead_4968300-2",
+   "posted": "2026-11-25",
+   "tags": [],
+   "exp_years": 8,
+   "exp_text": "…nd Educational Requirements 8+ years of multidisciplinary experience across data management, data stewardsh",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "wd-roche-202611-129137",
+   "title": "2027 Summer Intern - Translational Safety (Digital Pathology)",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Translational-Safety--Digital-Pathology-_202611-129137",
+   "posted": "2026-11-25",
+   "tags": [
+    "Imaging",
+    "Intern"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "wd-roche-202611-129252",
+   "title": "Bioinformatics - Scientist",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Bioinformatics---Scientist_202611-129252",
+   "posted": "2026-11-25",
+   "tags": [],
+   "exp_years": 0,
+   "exp_text": "…lated quantitative field with 0–6 years of relevant research experience",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "wd-roche-202611-129223",
+   "title": "2027 Summer Intern - Translational Safety (Digital Pathology)",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Translational-Safety--Digital-Pathology-_202611-129223-1",
+   "posted": "2026-11-25",
+   "tags": [
+    "Imaging",
+    "Intern"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "wd-roche-202611-129355",
+   "title": "Computational & Applied AI - Scientist",
+   "company": "Genentech",
+   "domain": "Pharma",
+   "location": "South San Francisco",
+   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Computational---Applied-AI---Scientist_202611-129355",
+   "posted": "2026-11-25",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…iscipline, or Master's Degree 5+ years of post-doctoral or industry experience",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "wd-astrazeneca-R-261131",
+   "title": "Senior AI Research Scientist",
+   "company": "AstraZeneca",
+   "domain": "Pharma",
+   "location": "US - Cambridge Kendall SQ - MA",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Cambridge-Kendall-SQ---MA/Associate-Director--AI-for-Oncology-Clinical-Development_R-261131",
+   "posted": "2026-11-25",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…biostatistics At least 2 years’ work experience outside of academic research with measurable impact (e",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "wd-amgen-R-262535",
+   "title": "Senior Data Scientist",
+   "company": "Amgen",
+   "domain": "Pharma",
+   "location": "United States - Remote",
+   "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Senior-Data-Scientist_R-262535-1",
+   "posted": "2026-11-25",
+   "tags": [
+    "Remote"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "wd-jj-R-112751",
+   "title": "Associate Director, Commercial AI & Advanced Analytics - Oncology",
+   "company": "Johnson & Johnson",
+   "domain": "Pharma",
+   "location": "Horsham, Pennsylvania, United States of America · Titusville, New Jersey, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Associate-Director--Commercial-AI---Advanced-Analytics---Oncology_R-112751-1",
+   "posted": "2026-11-25",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…t is preferred. A minimum of 2 years of Pharmaceutical experience is preferred",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "wd-illumina-43874-JOB",
+   "title": "Director, Bioinformatics – DRAGEN Array",
+   "company": "Illumina",
+   "domain": "Genomics / Diagnostics",
+   "location": "US - California - San Diego",
+   "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Director--Bioinformatics---DRAGEN-Array_43874-JOB",
+   "posted": "2026-11-25",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…genomic methods is a plus. 5+ years of management experience, including developing individual contributors",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "wd-gehc-R4049535",
+   "title": "Director, AI Transformation",
+   "company": "GE HealthCare",
+   "domain": "Medical Imaging AI",
+   "location": "Remote · Remote US",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Director--AI-Transformation_R4049535-1",
+   "posted": "2026-11-25",
+   "tags": [
+    "Imaging",
+    "Remote"
+   ],
+   "exp_years": 12,
+   "exp_text": "…or a related discipline. 12–15+ years of progressive experience, including leading large-scale transformatio",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "rd-103808544336",
+   "title": "2027 Summer Internship Program: Statistical Machine Learning and Precision Medicine Intern",
+   "company": "Takeda",
+   "domain": "Pharma",
+   "location": "Boston, MA · Boston, Massachusetts",
+   "url": "https://jobs.takeda.com/job/boston/2027-summer-internship-program-statistical-machine-learning-and-precision-medicine-intern/1113/103808544336",
+   "posted": "2026-11-25",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "wd-bristolmyerssquibb-R1607160",
+   "title": "Principal Scientist - Computational Sciences",
+   "company": "Bristol Myers Squibb",
+   "domain": "Pharma",
+   "location": "San Diego - CA - US",
+   "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/San-Diego---CA---US/Principal-Scientist---Computational-Sciences_R1607160",
+   "posted": "2026-11-25",
+   "tags": [],
+   "exp_years": 4,
+   "exp_text": "…date will bring: Ph.D. with 4+ years of academic or industry experience, Master’s degree with 6+ years of e",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "wd-bristolmyerssquibb-R1608794",
+   "title": "Associate Director – Analytical AI Patient Solutions",
+   "company": "Bristol Myers Squibb",
+   "domain": "Pharma",
+   "location": "Princeton - NJ - US",
+   "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Associate-Director---Analytical-AI-Patient-Solutions_R1608794",
+   "posted": "2026-11-25",
+   "tags": [],
+   "exp_years": 5,
+   "exp_text": "…Graduate degree preferred 5+ years of experience",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "wd-vrtx-REQ-31421",
+   "title": "Summer Intern 2027, Digital Pathology and AI Validation",
+   "company": "Vertex",
+   "domain": "Pharma",
+   "location": "Boston, MA",
+   "url": "https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Summer-Intern-2027--Digital-Pathology-and-AI-Validation_REQ-31421-1",
+   "posted": "2026-11-25",
+   "tags": [
+    "Imaging",
+    "Intern"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "id": "ab-f6252f64-3984-4c8b-a1fb-7fb156ec646c",
+   "title": "Senior ML Infrastructure Engineer",
+   "company": "Tennr",
+   "domain": "Clinical AI",
+   "location": "New York City Office",
+   "url": "https://jobs.ashbyhq.com/tennr/f6252f64-3984-4c8b-a1fb-7fb156ec646c",
+   "posted": "2026-11-25",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-26"
+  },
+  {
    "id": "wd-novartis-REQ-10087864",
    "title": "Senior Specialist, Data Science & AI",
    "company": "Novartis",
@@ -181,17 +418,71 @@
    "first_seen": "2026-11-19"
   },
   {
-   "id": "gh-6270547004",
-   "title": "Associate Director of Bioinformatics (Oncology Algorithms)",
-   "company": "Natera",
+   "id": "wd-nvidia-JR2029307",
+   "title": "Applied Research Scientist Intern, Agentic Biology - Summer 2027",
+   "company": "NVIDIA (Healthcare)",
+   "domain": "Big Tech / AI Lab",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307",
+   "posted": "2026-11-25",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-17"
+  },
+  {
+   "id": "wd-illumina-43884-JOB",
+   "title": "Senior Legal AI & Analytics Specialist, Legal Operations (San Diego / Hybrid)",
+   "company": "Illumina",
    "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6270547004",
-   "posted": "2026-11-24",
+   "location": "US - California - San Diego",
+   "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Senior-Legal-AI---Analytics-Specialist--Legal-Operations_43884-JOB-1",
+   "posted": "2026-11-25",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…lligence platforms, including 2+ years of hands-on work with generative AI",
+   "first_seen": "2026-11-15"
+  },
+  {
+   "id": "wd-nvidia-JR2025378",
+   "title": "Senior Developer Relations Lead, AI-Enabled Drug Discovery Science",
+   "company": "NVIDIA (Healthcare)",
+   "domain": "Big Tech / AI Lab",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Lead--AI-Enabled-Drug-Discovery-Science_JR2025378-1",
+   "posted": "2026-11-25",
+   "tags": [],
+   "exp_years": 12,
+   "exp_text": "…or equivalent experience. 12+ years of research or drug-discovery experience in therapeutic discovery, pla",
+   "first_seen": "2026-11-15"
+  },
+  {
+   "id": "wd-nvidia-JR2016068",
+   "title": "Senior Robotics Research Engineer, Robotics and AI for Drug Discovery",
+   "company": "NVIDIA (Healthcare)",
+   "domain": "Big Tech / AI Lab",
+   "location": "US, CA, Santa Clara",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Robotics-Research-Engineer--Robotics-and-AI-for-Drug-Discovery_JR2016068",
+   "posted": "2026-11-25",
    "tags": [],
    "exp_years": 3,
-   "exp_text": "…in bioinformatics, including 3+ years leading scientists and working across functions",
-   "first_seen": "2026-11-25"
+   "exp_text": "…nt experience). At least 3 years of research and engineering experience after completing the PhD",
+   "first_seen": "2026-11-15"
+  },
+  {
+   "id": "rd-100377630752",
+   "title": "Business Lead, AI-native Target Identification & Validation (TIDVAL)",
+   "company": "Takeda",
+   "domain": "Pharma",
+   "location": "Boston, MA · Boston, Massachusetts",
+   "url": "https://jobs.takeda.com/job/boston/business-lead-ai-native-target-identification-and-validation-tidval/1113/100377630752",
+   "posted": "2026-11-25",
+   "tags": [],
+   "exp_years": 8,
+   "exp_text": "…iology or related field, with 8+ years of progressively responsible experience in pharmaceutical or biotech R",
+   "first_seen": "2026-10-23"
   },
   {
    "id": "gh-6268558004",
@@ -209,18 +500,16 @@
    "first_seen": "2026-11-25"
   },
   {
-   "id": "gh-6256153004",
-   "title": "Bioinformatics Scientist (Oncology Product Development)",
+   "id": "gh-6270547004",
+   "title": "Associate Director of Bioinformatics (Oncology Algorithms)",
    "company": "Natera",
    "domain": "Genomics / Diagnostics",
-   "location": "US Remote",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6256153004",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6270547004",
    "posted": "2026-11-24",
-   "tags": [
-    "Remote"
-   ],
-   "exp_years": 2,
-   "exp_text": "…field; Bachelor’s degree with 2+ years of relevant experience will be considered",
+   "tags": [],
+   "exp_years": 3,
+   "exp_text": "…in bioinformatics, including 3+ years leading scientists and working across functions",
    "first_seen": "2026-11-25"
   },
   {
@@ -232,6 +521,21 @@
    "url": "https://job-boards.greenhouse.io/natera/jobs/6270765004",
    "posted": "2026-11-24",
    "tags": [],
+   "exp_years": 2,
+   "exp_text": "…field; Bachelor’s degree with 2+ years of relevant experience will be considered",
+   "first_seen": "2026-11-25"
+  },
+  {
+   "id": "gh-6256153004",
+   "title": "Bioinformatics Scientist (Oncology Product Development)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "US Remote",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6256153004",
+   "posted": "2026-11-24",
+   "tags": [
+    "Remote"
+   ],
    "exp_years": 2,
    "exp_text": "…field; Bachelor’s degree with 2+ years of relevant experience will be considered",
    "first_seen": "2026-11-25"
@@ -398,19 +702,6 @@
    "tags": [],
    "exp_years": 5,
    "exp_text": "…rience OR advanced degree and 5+ years of experience leading cross-functional project or program teams, with",
-   "first_seen": "2026-11-25"
-  },
-  {
-   "id": "wd-medtronic-R82689",
-   "title": "Principal IT Architect - - SAP Business AI Platform, S/4 HANA, and ABAP",
-   "company": "Medtronic",
-   "domain": "MedTech",
-   "location": "Minneapolis, Minnesota, United States of America",
-   "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-IT-Architect-----SAP-Business-AI-Platform--S-4-HANA--and-ABAP_R82689",
-   "posted": "2026-11-24",
-   "tags": [],
-   "exp_years": 5,
-   "exp_text": "…e with a bachelor’s degree or 5+ years of experience with an advanced degree",
    "first_seen": "2026-11-25"
   },
   {
@@ -980,12 +1271,12 @@
    "first_seen": "2026-11-24"
   },
   {
-   "id": "ab-b1289a98-b348-48bd-a1ac-c49a3a9beee1",
-   "title": "Deployment Strategy Director, Kaiser",
+   "id": "ab-aebf12fb-4c3e-44db-aed3-259c1c7d2ce7",
+   "title": "Deployment Strategy Director",
    "company": "Abridge",
    "domain": "Clinical AI",
-   "location": "SF Office · California",
-   "url": "https://jobs.ashbyhq.com/Abridge/b1289a98-b348-48bd-a1ac-c49a3a9beee1",
+   "location": "SF Office",
+   "url": "https://jobs.ashbyhq.com/Abridge/aebf12fb-4c3e-44db-aed3-259c1c7d2ce7",
    "posted": "2026-11-23",
    "tags": [],
    "exp_years": 7,
@@ -993,12 +1284,12 @@
    "first_seen": "2026-11-24"
   },
   {
-   "id": "ab-aebf12fb-4c3e-44db-aed3-259c1c7d2ce7",
-   "title": "Deployment Strategy Director",
+   "id": "ab-b1289a98-b348-48bd-a1ac-c49a3a9beee1",
+   "title": "Deployment Strategy Director, Kaiser",
    "company": "Abridge",
    "domain": "Clinical AI",
-   "location": "SF Office",
-   "url": "https://jobs.ashbyhq.com/Abridge/aebf12fb-4c3e-44db-aed3-259c1c7d2ce7",
+   "location": "SF Office · California",
+   "url": "https://jobs.ashbyhq.com/Abridge/b1289a98-b348-48bd-a1ac-c49a3a9beee1",
    "posted": "2026-11-23",
    "tags": [],
    "exp_years": 7,
@@ -1698,19 +1989,6 @@
    "first_seen": "2026-11-19"
   },
   {
-   "id": "wd-novartis-REQ-10092944",
-   "title": "Senior Expert Data Scientist, Neuroscience (Dual Level Posting: I / II)",
-   "company": "Novartis",
-   "domain": "Pharma",
-   "location": "Cambridge (Massachusetts)",
-   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Cambridge-Massachusetts/Senior-Expert-Data-Scientist--Neuroscience--Dual-Level-Posting--I---II-_REQ-10092944",
-   "posted": "2026-11-19",
-   "tags": [],
-   "exp_years": 2,
-   "exp_text": "…el I Requirements: Ph.D. with 2 or more years of experience in computational biology, data science, or related field",
-   "first_seen": "2026-11-19"
-  },
-  {
    "id": "gg-81681952498688710",
    "title": "Forward Deployed Engineer III, Generative AI, Google Cloud, Healthcare",
    "company": "Google / DeepMind (Health & Bio)",
@@ -1722,34 +2000,6 @@
    "exp_years": 5,
    "exp_text": "…lent practical experience. 5 years of experience with software development using Python or similar coding",
    "first_seen": "2026-11-19"
-  },
-  {
-   "id": "wd-nvidia-JR2029307",
-   "title": "Applied Research Scientist Intern, Agentic Biology - Summer 2027",
-   "company": "NVIDIA (Healthcare)",
-   "domain": "Big Tech / AI Lab",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307",
-   "posted": "2026-11-19",
-   "tags": [
-    "Intern"
-   ],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-11-17"
-  },
-  {
-   "id": "wd-illumina-43884-JOB",
-   "title": "Senior Legal AI & Analytics Specialist, Legal Operations (San Diego / Hybrid)",
-   "company": "Illumina",
-   "domain": "Genomics / Diagnostics",
-   "location": "US - California - San Diego",
-   "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Senior-Legal-AI---Analytics-Specialist--Legal-Operations_43884-JOB-1",
-   "posted": "2026-11-19",
-   "tags": [],
-   "exp_years": 2,
-   "exp_text": "…lligence platforms, including 2+ years of hands-on work with generative AI",
-   "first_seen": "2026-11-15"
   },
   {
    "id": "wd-danaher-R1320427",
@@ -1775,32 +2025,6 @@
    "tags": [],
    "exp_years": 3,
    "exp_text": "…ring, or a related field with 3+ years of experience in AI/ML, statistical signal processing, and deep learni",
-   "first_seen": "2026-11-15"
-  },
-  {
-   "id": "wd-nvidia-JR2025378",
-   "title": "Senior Developer Relations Lead, AI-Enabled Drug Discovery Science",
-   "company": "NVIDIA (Healthcare)",
-   "domain": "Big Tech / AI Lab",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Lead--AI-Enabled-Drug-Discovery-Science_JR2025378-1",
-   "posted": "2026-11-19",
-   "tags": [],
-   "exp_years": 12,
-   "exp_text": "…or equivalent experience. 12+ years of research or drug-discovery experience in therapeutic discovery, pla",
-   "first_seen": "2026-11-15"
-  },
-  {
-   "id": "wd-nvidia-JR2016068",
-   "title": "Senior Robotics Research Engineer, Robotics and AI for Drug Discovery",
-   "company": "NVIDIA (Healthcare)",
-   "domain": "Big Tech / AI Lab",
-   "location": "US, CA, Santa Clara",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Robotics-Research-Engineer--Robotics-and-AI-for-Drug-Discovery_JR2016068",
-   "posted": "2026-11-19",
-   "tags": [],
-   "exp_years": 3,
-   "exp_text": "…nt experience). At least 3 years of research and engineering experience after completing the PhD",
    "first_seen": "2026-11-15"
   },
   {
@@ -2548,19 +2772,6 @@
    ],
    "exp_years": 2,
    "exp_text": "…ht fit if: You’ve acquired 2+ years of experience in areas such as Data Analytics, AI, Data Engineering or",
-   "first_seen": "2026-11-14"
-  },
-  {
-   "id": "wd-lilly-R-113059",
-   "title": "PKPD & PMx Data Scientist – PK Data Delivery",
-   "company": "Eli Lilly",
-   "domain": "Pharma",
-   "location": "US, Indianapolis IN",
-   "url": "https://lilly.wd115.myworkdayjobs.com/LLY/job/US-Indianapolis-IN/PKPD---PMx--Data-Scientist---PK-Data-Delivery_R-113059",
-   "posted": "2026-11-13",
-   "tags": [],
-   "exp_years": null,
-   "exp_text": "",
    "first_seen": "2026-11-14"
   },
   {
@@ -3606,19 +3817,6 @@
    "first_seen": "2026-11-07"
   },
   {
-   "id": "sf-1427746400",
-   "title": "Senior Project Manager, Responsible AI",
-   "company": "Boston Scientific",
-   "domain": "MedTech",
-   "location": "Marlborough, MA, US, 01752",
-   "url": "https://jobs.bostonscientific.com/job/Marlborough-Senior-Project-Manager%2C-Responsible-AI-MA-01752/1427746400/",
-   "posted": "2026-11-05",
-   "tags": [],
-   "exp_years": 7,
-   "exp_text": "…Minimum 7 years of experience in project/program management, governance, risk manageme",
-   "first_seen": "2026-11-21"
-  },
-  {
    "id": "wd-gsk-450832",
    "title": "Senior Commercial Data Science Manager",
    "company": "GSK",
@@ -3673,19 +3871,6 @@
    "first_seen": "2026-11-15"
   },
   {
-   "id": "gh-6236212004",
-   "title": "Lead Bioinformatics & Machine Learning Scientist (Epigenomics)",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6236212004",
-   "posted": "2026-11-05",
-   "tags": [],
-   "exp_years": 4,
-   "exp_text": "…ated quantitative field, with 4 to 8+ years of post-PhD experience",
-   "first_seen": "2026-11-06"
-  },
-  {
    "id": "gh-6233380004",
    "title": "Lead Bioinformatics & Machine Learning Scientist (Epigenomics)",
    "company": "Natera",
@@ -3696,6 +3881,19 @@
    "tags": [
     "Remote"
    ],
+   "exp_years": 4,
+   "exp_text": "…ated quantitative field, with 4 to 8+ years of post-PhD experience",
+   "first_seen": "2026-11-06"
+  },
+  {
+   "id": "gh-6236212004",
+   "title": "Lead Bioinformatics & Machine Learning Scientist (Epigenomics)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6236212004",
+   "posted": "2026-11-05",
+   "tags": [],
    "exp_years": 4,
    "exp_text": "…ated quantitative field, with 4 to 8+ years of post-PhD experience",
    "first_seen": "2026-11-06"
@@ -3877,19 +4075,6 @@
    "first_seen": "2026-11-05"
   },
   {
-   "id": "gh-6250248004",
-   "title": "Lead Bioinformatics & Machine Learning Scientist",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6250248004",
-   "posted": "2026-11-04",
-   "tags": [],
-   "exp_years": 4,
-   "exp_text": "…is on cancer epi/genomics and 4 to 8+ years of experience post-PhD",
-   "first_seen": "2026-11-05"
-  },
-  {
    "id": "gh-6239427004",
    "title": "Lead Bioinformatics & Machine Learning Scientist",
    "company": "Natera",
@@ -3900,6 +4085,19 @@
    "tags": [
     "Remote"
    ],
+   "exp_years": 4,
+   "exp_text": "…is on cancer epi/genomics and 4 to 8+ years of experience post-PhD",
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "gh-6250248004",
+   "title": "Lead Bioinformatics & Machine Learning Scientist",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6250248004",
+   "posted": "2026-11-04",
+   "tags": [],
    "exp_years": 4,
    "exp_text": "…is on cancer epi/genomics and 4 to 8+ years of experience post-PhD",
    "first_seen": "2026-11-05"
@@ -4418,19 +4616,6 @@
    "first_seen": "2026-10-30"
   },
   {
-   "id": "gh-6237859004",
-   "title": "Senior Bioinformatics & Genomics Data System Engineer",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6237859004",
-   "posted": "2026-10-28",
-   "tags": [],
-   "exp_years": 2,
-   "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
-   "first_seen": "2026-11-17"
-  },
-  {
    "id": "gh-6230402004",
    "title": "Senior Bioinformatics & Genomics Data System Engineer",
    "company": "Natera",
@@ -4441,6 +4626,19 @@
    "tags": [
     "Remote"
    ],
+   "exp_years": 2,
+   "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
+   "first_seen": "2026-11-17"
+  },
+  {
+   "id": "gh-6237859004",
+   "title": "Senior Bioinformatics & Genomics Data System Engineer",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6237859004",
+   "posted": "2026-10-28",
+   "tags": [],
    "exp_years": 2,
    "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
    "first_seen": "2026-11-17"
@@ -4459,6 +4657,19 @@
    "first_seen": "2026-11-15"
   },
   {
+   "id": "gh-6233175004",
+   "title": "Manager of Bioinformatics (Oncology Product Development)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6233175004",
+   "posted": "2026-10-28",
+   "tags": [],
+   "exp_years": 1,
+   "exp_text": "…nd/or bioinformatics role and 1-3 years of experience as technical lead in diagnostics or a related field",
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "gh-6229298004",
    "title": "Manager of Bioinformatics (Oncology Product Development)",
    "company": "Natera",
@@ -4469,19 +4680,6 @@
    "tags": [
     "Remote"
    ],
-   "exp_years": 1,
-   "exp_text": "…nd/or bioinformatics role and 1-3 years of experience as technical lead in diagnostics or a related field",
-   "first_seen": "2026-10-29"
-  },
-  {
-   "id": "gh-6233175004",
-   "title": "Manager of Bioinformatics (Oncology Product Development)",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6233175004",
-   "posted": "2026-10-28",
-   "tags": [],
    "exp_years": 1,
    "exp_text": "…nd/or bioinformatics role and 1-3 years of experience as technical lead in diagnostics or a related field",
    "first_seen": "2026-10-29"
@@ -4714,19 +4912,6 @@
    "exp_years": 6,
    "exp_text": "…qualification is preferred. 6+ years of experience in data, analytics, digital transformation, learning, ch",
    "first_seen": "2026-11-23"
-  },
-  {
-   "id": "ph-94499",
-   "title": "Senior Manager, Go-to-Market Data Science",
-   "company": "UCB",
-   "domain": "Pharma",
-   "location": "Atlanta, Georgia, United States",
-   "url": "https://careers.ucb.com/global/en/job/94499",
-   "posted": "2026-10-26",
-   "tags": [],
-   "exp_years": 6,
-   "exp_text": "…ntitative area Minimum of 6-8+ years experience applying predictive modeling techniques such as ML, decisio",
-   "first_seen": "2026-11-20"
   },
   {
    "id": "wd-bristolmyerssquibb-R1606641",
@@ -5762,19 +5947,6 @@
    "first_seen": "2026-11-15"
   },
   {
-   "id": "wd-roche-202610-125975",
-   "title": "Senior Physical AI & Robotics Scientist - Lab Automation",
-   "company": "Genentech",
-   "domain": "Pharma",
-   "location": "South San Francisco",
-   "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Physical-AI---Robotics-Scientist---Lab-Automation_202610-125975",
-   "posted": "2026-10-13",
-   "tags": [],
-   "exp_years": 2,
-   "exp_text": "…of experience, or a PhD with 2+ years of experience in deploying Physical AI or robotics solutions",
-   "first_seen": "2026-10-23"
-  },
-  {
    "id": "rd-98529894640",
    "title": "Manager, AI-Ready Data Modeling",
    "company": "Takeda",
@@ -6598,21 +6770,6 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "wd-thermofisher-R-01368757",
-   "title": "Senior Manager, Applied AI",
-   "company": "Thermo Fisher",
-   "domain": "Life Science Tools",
-   "location": "Remote, North Carolina, USA",
-   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Senior-Manager--Applied-AI_R-01368757",
-   "posted": "2026-09-25",
-   "tags": [
-    "Remote"
-   ],
-   "exp_years": 7,
-   "exp_text": "…ield. Or Advanced degree plus 7 years of relevant experience, as stated above",
-   "first_seen": "2026-11-15"
-  },
-  {
    "id": "wd-abbott-31162530",
    "title": "Data Science and Business Analytics Manager",
    "company": "Abbott",
@@ -7070,19 +7227,6 @@
    "exp_years": 1,
    "exp_text": "…or a related field. At least 1 year of experience in healthcare analytics, medical economics, provider or",
    "first_seen": "2026-11-15"
-  },
-  {
-   "id": "rd-100377630752",
-   "title": "Business Lead, AI-native Target Identification & Validation (TIDVAL)",
-   "company": "Takeda",
-   "domain": "Pharma",
-   "location": "Boston, MA · Boston, Massachusetts",
-   "url": "https://jobs.takeda.com/job/boston/business-lead-ai-native-target-identification-and-validation-tidval/1113/100377630752",
-   "posted": "2026-09-08",
-   "tags": [],
-   "exp_years": 8,
-   "exp_text": "…iology or related field, with 8+ years of progressively responsible experience in pharmaceutical or biotech R",
-   "first_seen": "2026-10-23"
   },
   {
    "id": "rd-100377630720",
@@ -7663,21 +7807,6 @@
    "tags": [],
    "exp_years": 3,
    "exp_text": "…ated quantitative field, plus 3 years of relevant industry or postdoctoral experience",
-   "first_seen": "2026-10-21"
-  },
-  {
-   "id": "wd-novartis-REQ-10084589",
-   "title": "Data Science & AI Innovation Postdoctoral Fellow",
-   "company": "Novartis",
-   "domain": "Pharma",
-   "location": "Cambridge (USA)",
-   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Cambridge-USA/Data-Science---AI-Innovation-Postdoctoral-Fellow_REQ-10084589-1",
-   "posted": "2026-08-25",
-   "tags": [
-    "Postdoc"
-   ],
-   "exp_years": null,
-   "exp_text": "",
    "first_seen": "2026-10-21"
   },
   {
@@ -9092,19 +9221,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "gh-7747517",
-   "title": "Research Engineer, AI",
-   "company": "CZ Biohub",
-   "domain": "Research Institute",
-   "location": "New York, NY (Hybrid)",
-   "url": "https://job-boards.greenhouse.io/biohub/jobs/7747517",
-   "posted": "2026-04-08",
-   "tags": [],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-21"
-  },
-  {
    "id": "gh-7793665",
    "title": "Research Engineer, AI",
    "company": "CZ Biohub",
@@ -9118,12 +9234,12 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "gh-7793644",
-   "title": "Research Scientist, AI",
+   "id": "gh-7747517",
+   "title": "Research Engineer, AI",
    "company": "CZ Biohub",
    "domain": "Research Institute",
-   "location": "Redwood City, CA (Hybrid)",
-   "url": "https://job-boards.greenhouse.io/biohub/jobs/7793644",
+   "location": "New York, NY (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/7747517",
    "posted": "2026-04-08",
    "tags": [],
    "exp_years": null,
@@ -9137,6 +9253,19 @@
    "domain": "Research Institute",
    "location": "New York, NY (Hybrid)",
    "url": "https://job-boards.greenhouse.io/biohub/jobs/7747518",
+   "posted": "2026-04-08",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-7793644",
+   "title": "Research Scientist, AI",
+   "company": "CZ Biohub",
+   "domain": "Research Institute",
+   "location": "Redwood City, CA (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/7793644",
    "posted": "2026-04-08",
    "tags": [],
    "exp_years": null,
@@ -9557,7 +9686,7 @@
    "title": "Machine Learning Engineer Intern",
    "company": "Neuralink",
    "domain": "Neurotech",
-   "location": "South San Francisco, California, United States",
+   "location": "Austin, Texas, United States; South San Francisco, California, United States",
    "url": "https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003",
    "posted": "2025-05-30",
    "tags": [
