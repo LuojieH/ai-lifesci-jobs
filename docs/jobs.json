@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T15:09Z",
- "count": 701,
+ "updated": "2026-11-28T15:08Z",
+ "count": 698,
  "companies": [
   "Abbott",
   "Abridge",
@@ -485,17 +485,17 @@
    "first_seen": "2026-10-23"
   },
   {
-   "id": "wd-medtronic-R82689",
-   "title": "Principal IT Architect - - SAP Business AI Platform, S/4 HANA, and ABAP",
-   "company": "Medtronic",
-   "domain": "MedTech",
-   "location": "Minneapolis, Minnesota, United States of America",
-   "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-IT-Architect-----SAP-Business-AI-Platform--S-4-HANA--and-ABAP_R82689",
+   "id": "gh-6270547004",
+   "title": "Associate Director of Bioinformatics (Oncology Algorithms)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6270547004",
    "posted": "2026-11-24",
    "tags": [],
-   "exp_years": 5,
-   "exp_text": "…e with a bachelor’s degree or 5+ years of experience with an advanced degree",
-   "first_seen": "2026-11-27"
+   "exp_years": 3,
+   "exp_text": "…in bioinformatics, including 3+ years leading scientists and working across functions",
+   "first_seen": "2026-11-25"
   },
   {
    "id": "gh-6268558004",
@@ -508,19 +508,6 @@
    "tags": [
     "Remote"
    ],
-   "exp_years": 3,
-   "exp_text": "…in bioinformatics, including 3+ years leading scientists and working across functions",
-   "first_seen": "2026-11-25"
-  },
-  {
-   "id": "gh-6270547004",
-   "title": "Associate Director of Bioinformatics (Oncology Algorithms)",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6270547004",
-   "posted": "2026-11-24",
-   "tags": [],
    "exp_years": 3,
    "exp_text": "…in bioinformatics, including 3+ years leading scientists and working across functions",
    "first_seen": "2026-11-25"
@@ -728,19 +715,6 @@
    "tags": [],
    "exp_years": 3,
    "exp_text": "…Biology, or related field. 3+ years of experience in MLOps, ML engineering, or scientific platform d eve",
-   "first_seen": "2026-11-25"
-  },
-  {
-   "id": "ph-94253",
-   "title": "Global Medical Lead - Regenerative Neural Cell Therapy",
-   "company": "UCB",
-   "domain": "Pharma",
-   "location": "Atlanta, Georgia, United States",
-   "url": "https://careers.ucb.com/global/en/job/94253",
-   "posted": "2026-11-24",
-   "tags": [],
-   "exp_years": 5,
-   "exp_text": "…scientific qualification. 5+ years of pharmaceutical Medical Affairs experience in regional or global rol",
    "first_seen": "2026-11-25"
   },
   {
@@ -1336,21 +1310,6 @@
    "first_seen": "2026-11-23"
   },
   {
-   "id": "wd-thermofisher-R-01373887",
-   "title": "Sr Engineer AI",
-   "company": "Thermo Fisher",
-   "domain": "Life Science Tools",
-   "location": "Remote, Massachusetts, USA",
-   "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Sr-Engineer-AI_R-01373887",
-   "posted": "2026-11-23",
-   "tags": [
-    "Remote"
-   ],
-   "exp_years": 5,
-   "exp_text": "…erform the job (comparable to 5+ years’ experience)",
-   "first_seen": "2026-11-21"
-  },
-  {
    "id": "wd-bdx-R-538063",
    "title": "Principal Algorithms Engineer",
    "company": "BD",
@@ -1536,19 +1495,6 @@
    "tags": [],
    "exp_years": 10,
    "exp_text": "…ations: · Minimum of 10 years of progressive experience in software engineering, platform engineerin",
-   "first_seen": "2026-11-21"
-  },
-  {
-   "id": "wd-jj-R-108788",
-   "title": "Director, External Innovation, DPDS (In Silico Discovery)",
-   "company": "Johnson & Johnson",
-   "domain": "Pharma",
-   "location": "South San Francisco, California, United States of America · Cambridge, Massachusetts, United States of America · La Jolla, California, United States of America · Spring House, Pennsylvania, United States of America",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/South-San-Francisco-California-United-States-of-America/Director--External-Innovation--DPDS--In-Silico-Discovery-_R-108788-1",
-   "posted": "2026-11-20",
-   "tags": [],
-   "exp_years": 10,
-   "exp_text": "…Required: Minimum of 10 years of relevant experience",
    "first_seen": "2026-11-21"
   },
   {
@@ -2201,6 +2147,21 @@
    "exp_years": null,
    "exp_text": "",
    "first_seen": "2026-11-13"
+  },
+  {
+   "id": "ph-R18522",
+   "title": "Omnichannel AI Portfolio Management Intern",
+   "company": "Genmab",
+   "domain": "Pharma",
+   "location": "Princeton, New Jersey, United States of America",
+   "url": "https://careers.genmab.com/global/en/job/R18522",
+   "posted": "2026-11-17",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": 25,
+   "exp_text": "…ed antibody therapeutics. For 25 years, its hard-working, innovative and collaborative team has invented nex",
+   "first_seen": "2026-11-28"
   },
   {
    "id": "sf-1451609900",
@@ -3013,19 +2974,6 @@
    "first_seen": "2026-11-12"
   },
   {
-   "id": "ph-R18077",
-   "title": "Senior Manager, Databricks & Enterprise AI/BI Platform",
-   "company": "Genmab",
-   "domain": "Pharma",
-   "location": "Princeton, New Jersey, United States of America",
-   "url": "https://careers.genmab.com/global/en/job/R18077",
-   "posted": "2026-11-11",
-   "tags": [],
-   "exp_years": 3,
-   "exp_text": "…or related technical roles. 3+ years of experience administering or operating enterprise-scale analytics or",
-   "first_seen": "2026-11-24"
-  },
-  {
    "id": "wd-modernatx-R19438",
    "title": "Associate Director, Intelligent Automation & AI",
    "company": "Moderna",
@@ -3238,19 +3186,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "gh-6254068004",
-   "title": "Staff Scientist, Machine Learning (Genomics)",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6254068004",
-   "posted": "2026-11-10",
-   "tags": [],
-   "exp_years": 6,
-   "exp_text": "…hrough work counts fully. 6+ years of hands-on experience in machine learning and data analysis on biolog",
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "gh-6250768004",
    "title": "Staff Scientist, Machine Learning (Genomics)",
    "company": "Natera",
@@ -3261,6 +3196,19 @@
    "tags": [
     "Remote"
    ],
+   "exp_years": 6,
+   "exp_text": "…hrough work counts fully. 6+ years of hands-on experience in machine learning and data analysis on biolog",
+   "first_seen": "2026-11-11"
+  },
+  {
+   "id": "gh-6254068004",
+   "title": "Staff Scientist, Machine Learning (Genomics)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6254068004",
+   "posted": "2026-11-10",
+   "tags": [],
    "exp_years": 6,
    "exp_text": "…hrough work counts fully. 6+ years of hands-on experience in machine learning and data analysis on biolog",
    "first_seen": "2026-11-11"
@@ -3558,19 +3506,6 @@
    "exp_years": null,
    "exp_text": "",
    "first_seen": "2026-11-10"
-  },
-  {
-   "id": "wd-astrazeneca-R-263827",
-   "title": "Senior Director, AI for Clinical Intelligence & Evidence Breast & Gynaecology",
-   "company": "AstraZeneca",
-   "domain": "Pharma",
-   "location": "US - Gaithersburg - MD",
-   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Senior-Director--AI-for-Clinical-Intelligence---Evidence-Breast---Gynaecology_R-263827",
-   "posted": "2026-11-09",
-   "tags": [],
-   "exp_years": 10,
-   "exp_text": "…tics, or related field. 10+ years of experience in life sciences or healthcare with deep expertise in ep",
-   "first_seen": "2026-11-09"
   },
   {
    "id": "wd-gilead-R0055231",
@@ -4303,6 +4238,19 @@
    "first_seen": "2026-11-15"
   },
   {
+   "id": "ph-94553",
+   "title": "DT Lead - Commercial Data Engineering & Data Product",
+   "company": "UCB",
+   "domain": "Pharma",
+   "location": "Atlanta, Georgia, United States",
+   "url": "https://careers.ucb.com/global/en/job/94553",
+   "posted": "2026-10-30",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-11-28"
+  },
+  {
    "id": "wd-bristolmyerssquibb-R1607983",
    "title": "Principal Scientist, Translational AI Foundations",
    "company": "Bristol Myers Squibb",
@@ -4519,6 +4467,19 @@
    "first_seen": "2026-10-30"
   },
   {
+   "id": "gh-6237859004",
+   "title": "Senior Bioinformatics & Genomics Data System Engineer",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6237859004",
+   "posted": "2026-10-28",
+   "tags": [],
+   "exp_years": 2,
+   "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
+   "first_seen": "2026-11-17"
+  },
+  {
    "id": "gh-6230402004",
    "title": "Senior Bioinformatics & Genomics Data System Engineer",
    "company": "Natera",
@@ -4529,19 +4490,6 @@
    "tags": [
     "Remote"
    ],
-   "exp_years": 2,
-   "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
-   "first_seen": "2026-11-17"
-  },
-  {
-   "id": "gh-6237859004",
-   "title": "Senior Bioinformatics & Genomics Data System Engineer",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6237859004",
-   "posted": "2026-10-28",
-   "tags": [],
    "exp_years": 2,
    "exp_text": "…h a Master's Degree. Minimal 2 years of relevant industry experience for candidates with a Doctorate degree",
    "first_seen": "2026-11-17"
@@ -4560,19 +4508,6 @@
    "first_seen": "2026-11-15"
   },
   {
-   "id": "gh-6233175004",
-   "title": "Manager of Bioinformatics (Oncology Product Development)",
-   "company": "Natera",
-   "domain": "Genomics / Diagnostics",
-   "location": "San Carlos, CA",
-   "url": "https://job-boards.greenhouse.io/natera/jobs/6233175004",
-   "posted": "2026-10-28",
-   "tags": [],
-   "exp_years": 1,
-   "exp_text": "…nd/or bioinformatics role and 1-3 years of experience as technical lead in diagnostics or a related field",
-   "first_seen": "2026-10-29"
-  },
-  {
    "id": "gh-6229298004",
    "title": "Manager of Bioinformatics (Oncology Product Development)",
    "company": "Natera",
@@ -4583,6 +4518,19 @@
    "tags": [
     "Remote"
    ],
+   "exp_years": 1,
+   "exp_text": "…nd/or bioinformatics role and 1-3 years of experience as technical lead in diagnostics or a related field",
+   "first_seen": "2026-10-29"
+  },
+  {
+   "id": "gh-6233175004",
+   "title": "Manager of Bioinformatics (Oncology Product Development)",
+   "company": "Natera",
+   "domain": "Genomics / Diagnostics",
+   "location": "San Carlos, CA",
+   "url": "https://job-boards.greenhouse.io/natera/jobs/6233175004",
+   "posted": "2026-10-28",
+   "tags": [],
    "exp_years": 1,
    "exp_text": "…nd/or bioinformatics role and 1-3 years of experience as technical lead in diagnostics or a related field",
    "first_seen": "2026-10-29"
@@ -4802,19 +4750,6 @@
    "exp_years": 8,
    "exp_text": "…esearch and industry impact. Eight years of experience in original research and technical impact, demonstrated",
    "first_seen": "2026-10-21"
-  },
-  {
-   "id": "ph-94499",
-   "title": "Senior Manager, Go-to-Market Data Science",
-   "company": "UCB",
-   "domain": "Pharma",
-   "location": "Atlanta, Georgia, United States",
-   "url": "https://careers.ucb.com/global/en/job/94499",
-   "posted": "2026-10-26",
-   "tags": [],
-   "exp_years": 6,
-   "exp_text": "…ntitative area Minimum of 6-8+ years experience applying predictive modeling techniques such as ML, decisio",
-   "first_seen": "2026-11-27"
   },
   {
    "id": "ph-94188",
@@ -5099,6 +5034,34 @@
    "exp_years": 8,
    "exp_text": "…monstrates comparable rigor. 8 or more years of post-PhD (or equivalent) experience in AI/ML research, evaluation s",
    "first_seen": "2026-10-22"
+  },
+  {
+   "id": "ph-R18226",
+   "title": "DD&AI Intern - AI and Process Automation",
+   "company": "Genmab",
+   "domain": "Pharma",
+   "location": "Princeton, New Jersey, United States of America",
+   "url": "https://careers.genmab.com/global/en/job/R18226",
+   "posted": "2026-10-21",
+   "tags": [
+    "Intern"
+   ],
+   "exp_years": 25,
+   "exp_text": "…ed antibody therapeutics. For 25 years, its hard-working, innovative and collaborative team has invented nex",
+   "first_seen": "2026-11-28"
+  },
+  {
+   "id": "ph-94411",
+   "title": "DT Commerical AI & Agentic Lead",
+   "company": "UCB",
+   "domain": "Pharma",
+   "location": "Atlanta, Georgia, United States",
+   "url": "https://careers.ucb.com/global/en/job/94411",
+   "posted": "2026-10-21",
+   "tags": [],
+   "exp_years": 8,
+   "exp_text": "…cience, or a related field 8+ years extensive experience in Digital Technology or IT leadership roles with",
+   "first_seen": "2026-11-28"
   },
   {
    "id": "wd-gilead-R0055939",
@@ -9052,19 +9015,6 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "gh-7793665",
-   "title": "Research Engineer, AI",
-   "company": "CZ Biohub",
-   "domain": "Research Institute",
-   "location": "Redwood City, CA (Hybrid)",
-   "url": "https://job-boards.greenhouse.io/biohub/jobs/7793665",
-   "posted": "2026-04-08",
-   "tags": [],
-   "exp_years": null,
-   "exp_text": "",
-   "first_seen": "2026-10-21"
-  },
-  {
    "id": "gh-7747517",
    "title": "Research Engineer, AI",
    "company": "CZ Biohub",
@@ -9078,12 +9028,12 @@
    "first_seen": "2026-10-21"
   },
   {
-   "id": "gh-7747518",
-   "title": "Research Scientist, AI",
+   "id": "gh-7793665",
+   "title": "Research Engineer, AI",
    "company": "CZ Biohub",
    "domain": "Research Institute",
-   "location": "New York, NY (Hybrid)",
-   "url": "https://job-boards.greenhouse.io/biohub/jobs/7747518",
+   "location": "Redwood City, CA (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/7793665",
    "posted": "2026-04-08",
    "tags": [],
    "exp_years": null,
@@ -9097,6 +9047,19 @@
    "domain": "Research Institute",
    "location": "Redwood City, CA (Hybrid)",
    "url": "https://job-boards.greenhouse.io/biohub/jobs/7793644",
+   "posted": "2026-04-08",
+   "tags": [],
+   "exp_years": null,
+   "exp_text": "",
+   "first_seen": "2026-10-21"
+  },
+  {
+   "id": "gh-7747518",
+   "title": "Research Scientist, AI",
+   "company": "CZ Biohub",
+   "domain": "Research Institute",
+   "location": "New York, NY (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/7747518",
    "posted": "2026-04-08",
    "tags": [],
    "exp_years": null,
